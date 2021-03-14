@@ -18,7 +18,6 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/hero.png
   - section_id: features
     type: section_features
     background: gray
