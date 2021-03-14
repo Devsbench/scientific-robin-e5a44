@@ -5,7 +5,7 @@ sections:
     title: One stop shop for your blockchain project
     content: >
       You know your domain. We know how blockchain works. Vetted software
-      engineers who built Tezos and Cardano. Team of PM + DEV + QA + DevOps
+      engineers who built Tezos and Cardano. PM + DEV + QA + DevOps
     image_alt: lorem-ipsum
     actions:
       - label: Hire us
