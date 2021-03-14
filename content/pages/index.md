@@ -1,18 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    image: images/6.jpg
-    image_alt: App preview
-    title: One stop shop for blockchain project
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
   - section_id: features
     type: section_features
     background: gray
