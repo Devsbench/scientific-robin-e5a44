@@ -4,8 +4,8 @@ sections:
   - section_id: lorem-ipsum
     title: One stop shop for your blockchain project
     content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      You know your domain. We know how to implement your solution in blockchain
+      world.
     image_alt: lorem-ipsum
     actions:
       - label: Contact us
