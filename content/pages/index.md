@@ -8,7 +8,7 @@ sections:
       engineers who built Tezos and Cardano.
     image_alt: lorem-ipsum
     actions:
-      - label: Contact us
+      - label: Hire us
         url: '#'
         style: primary
         has_icon: false
