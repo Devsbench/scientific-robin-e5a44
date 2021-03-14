@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: One stop shop for your blockchain project
     content: >-
       ## Lorem ipsum
 
