@@ -8,7 +8,7 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
     image_alt: lorem-ipsum
     actions:
-      - label: tS
+      - label: Start Now
         url: '#'
         style: primary
         has_icon: false
