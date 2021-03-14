@@ -18,7 +18,6 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/purple-primrose.png
   - section_id: features
     type: section_features
     background: gray
