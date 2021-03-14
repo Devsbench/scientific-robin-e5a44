@@ -3,8 +3,9 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     title: One stop shop for your blockchain project
-    content: |
-      You know your domain. We know how blockchain works.
+    content: >
+      You know your domain. We know how blockchain works. Vetted software
+      engineers who built Tezos and Cardano.
     image_alt: lorem-ipsum
     actions:
       - label: Contact us
