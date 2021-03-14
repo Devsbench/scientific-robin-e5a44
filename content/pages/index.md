@@ -4,9 +4,6 @@ sections:
   - section_id: lorem-ipsum
     title: One stop shop for your blockchain project
     content: >
-      ##
-
-
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
     image_alt: lorem-ipsum
