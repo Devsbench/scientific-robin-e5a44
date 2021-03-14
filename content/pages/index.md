@@ -3,9 +3,8 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     title: One stop shop for your blockchain project
-    content: >
-      You know your domain. We know how blockchain works. We area a team consist
-      of: PM + DEV + QA + DevOps.
+    content: |
+      You know your domain. We know how blockchain works.
     image_alt: lorem-ipsum
     actions:
       - label: Contact us
