@@ -8,7 +8,7 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
     image_alt: lorem-ipsum
     actions:
-      - label: ' tratS'
+      - label: tratS
         url: '#'
         style: link
         has_icon: false
