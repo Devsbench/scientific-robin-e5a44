@@ -9,6 +9,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/purple-primrose.png
   - section_id: features
     type: section_features
     background: gray
