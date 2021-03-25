@@ -18,7 +18,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/Untitled design (28).png
+    image: images/caring-spinach.png
   - section_id: features
     type: section_features
     background: gray
