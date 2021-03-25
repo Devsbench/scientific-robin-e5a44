@@ -17,7 +17,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/Untitled design (33).png
+    image: images/pleasant-sloth.png
   - section_id: features
     type: section_features
     background: gray
