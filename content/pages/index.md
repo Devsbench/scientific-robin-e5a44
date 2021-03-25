@@ -18,7 +18,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/smiling-eucalyptus.png
+    image: images/green-chestnut.png
   - section_id: features
     type: section_features
     background: gray
