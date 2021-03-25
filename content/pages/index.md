@@ -18,7 +18,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/Untitled design (41).png
+    image: images/successful-basil.png
   - section_id: features
     type: section_features
     background: gray
