@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: One stop shop for your blockchain project
+    title: One Stop Shop for Your Blockchain Project
     content: |
       You know your domain. We know how blockchain works. 
     image_alt: lorem-ipsum
