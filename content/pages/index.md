@@ -22,7 +22,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: End-to-end Development Services
+    title: End-to-End Development Services
     subtitle: >-
       We develop and maintain the projects smart contract, integrations and the
       corresponding backend
