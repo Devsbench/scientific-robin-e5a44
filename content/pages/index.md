@@ -19,7 +19,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/successful-basil.png
+    image: images/diligent-velociraptor.png
   - section_id: features
     type: section_features
     background: gray
