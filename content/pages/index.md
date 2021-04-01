@@ -5,7 +5,8 @@ sections:
     title: Bring your blockchain-based idea into reality
     content: >
       We’re a custom software development company focusing on private
-      blockchains with a track record of building Cardano & Tezos blockchains. 
+      blockchains with a track record of building Cardano, Tezos and Ethereum
+      blockchains.
     image_alt: lorem-ipsum
     actions:
       - label: Hire us
