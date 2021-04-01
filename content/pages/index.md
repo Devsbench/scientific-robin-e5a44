@@ -45,7 +45,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Tokenize your property
-        image: images/oval-aluminum.png
+        image: images/Untitled design (38).png
         image_alt: App users welcoming a new member
         content: >
           Tap into a global customer base. Sell a small piece of your real
