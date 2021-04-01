@@ -24,8 +24,8 @@ sections:
     background: gray
     title: End-to-end Development Services
     subtitle: >-
-      We develop and maintain the projects smart contract and the corresponding
-      backend
+      We develop and maintain the projects smart contract, integrations and the
+      corresponding backend
     features:
       - title: NFT Art Marketplace
         image: images/caring-sloth.png
