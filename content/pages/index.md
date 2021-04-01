@@ -135,6 +135,6 @@ seo:
       relativeUrl: true
   description: >-
     We develop and maintain the projects smart contract and the corresponding
-    backend. Token NFT, ERC20, ERC 
+    backend. NFT Art Marketplace development. ERC 20, ERC 721, ERC 
 layout: landing
 ---
