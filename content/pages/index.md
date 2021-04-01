@@ -59,7 +59,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Your Own Cryptocurrency
-        image: images/diligent-amaranth.png
+        image: images/friendly-pine.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
