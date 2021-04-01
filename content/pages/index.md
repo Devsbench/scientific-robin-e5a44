@@ -22,7 +22,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Ideas for your project
+    title: End-to-end Development Services
     subtitle: >-
       We develop and maintain the projects smart contract and the corresponding
       backend
