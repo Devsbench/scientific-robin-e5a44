@@ -24,8 +24,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We develop and maintain the projects smart contract and the corresponding
+      backend
     features:
       - title: The Best Feature of Your Services
         image: images/caring-sloth.png
