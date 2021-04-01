@@ -133,5 +133,8 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+  description: >-
+    We develop and maintain the projects smart contract and the corresponding
+    backend.
 layout: landing
 ---
