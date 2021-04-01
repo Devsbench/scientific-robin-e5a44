@@ -4,8 +4,8 @@ sections:
   - section_id: lorem-ipsum
     title: One Stop Shop for Your Blockchain Project
     content: >
-      You know your  business. We know how blockchain works. We've built Cardano
-      & Tezos. We can work as your trusted technology partner.
+      We’re a custom software development company focusing on private
+      blockchains with a track record of building Cardano & Tezos blockchains. 
     image_alt: lorem-ipsum
     actions:
       - label: Hire us
