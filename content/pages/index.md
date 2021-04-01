@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cryptocurencies
+      - title: Your Own Cryptocurrency
         image: images/diligent-amaranth.png
         image_alt: App user profile preview
         content: >-
