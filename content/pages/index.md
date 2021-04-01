@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: Smart contracts. NFT market
+    title: Smart contracts. NFT marketplaces.
     content: >
       We’re a custom software development company focusing on private
       blockchains with a track record of building Cardano & Tezos blockchains. 
