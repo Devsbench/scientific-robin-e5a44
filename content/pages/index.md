@@ -28,7 +28,7 @@ sections:
       We develop and maintain the projects smart contract and the corresponding
       backend
     features:
-      - title: The Best Feature of Your Services
+      - title: NFT art marketplace
         image: images/caring-sloth.png
         image_alt: App preview on a phone and tablet
         content: >
