@@ -135,6 +135,6 @@ seo:
       relativeUrl: true
   description: >-
     Full-Stack Blockchain Development Services. We develop and maintain the
-    projects smart contract and the corresponding backend. NFT 
+    projects smart contract and the corresponding backend. NFT ERC20, ERC
 layout: landing
 ---
