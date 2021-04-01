@@ -134,7 +134,7 @@ seo:
       value: images/hero.png
       relativeUrl: true
   description: >-
-    Full-Stack Blockchain Development Services. We develop and maintain the
-    projects smart contract and the corresponding backend. NFT ERC20, ERC
+    We develop and maintain the projects smart contract and the corresponding
+    backend. Token NFT, ERC20, ERC 
 layout: landing
 ---
