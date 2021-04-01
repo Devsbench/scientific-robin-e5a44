@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Your Own Cryptocurrency
+      - title: Create Own Cryptocurrency
         image: images/friendly-pine.png
         image_alt: App user profile preview
         content: >-
