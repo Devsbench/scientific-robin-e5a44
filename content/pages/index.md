@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cryptocuriences
+      - title: Cryptocurencies
         image: images/diligent-amaranth.png
         image_alt: App user profile preview
         content: >-
