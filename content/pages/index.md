@@ -47,8 +47,10 @@ sections:
       - title: Tokenize your property
         image: images/oval-aluminum.png
         image_alt: App users welcoming a new member
-        content: |
-          Get new investors in your commercial real estate business. Tokenize 
+        content: >
+          Tap into a global customer base. Sell a small piece of your real
+          estate. Easy participation and dividends tracking. Build your own real
+          estate tokenization platform.
         actions:
           - label: Learn More
             url: /features
