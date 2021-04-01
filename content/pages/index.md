@@ -118,7 +118,10 @@ seo:
       value: Blockchain Development Services
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        We develop and maintain the projects smart contract and the
+        corresponding backend. NFT Art Marketplace development. ERC 20, ERC 721,
+        ERC 1155.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
