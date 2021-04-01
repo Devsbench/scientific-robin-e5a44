@@ -44,7 +44,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Real Estate Tokenisation
+      - title: Real Estate Tokenization
         image: images/oval-aluminum.png
         image_alt: App users welcoming a new member
         content: >-
