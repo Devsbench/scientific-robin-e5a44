@@ -135,6 +135,6 @@ seo:
       relativeUrl: true
   description: >-
     Full-Stack Blockchain Development Services. We develop and maintain the
-    projects smart contract and the corresponding backend. 
+    projects smart contract and the corresponding backend. NFT 
 layout: landing
 ---
