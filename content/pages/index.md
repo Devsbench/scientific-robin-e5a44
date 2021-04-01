@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: Bring your blockchain-based idea into reality
+    title: Bring Your Blockchain-Based Idea Into Reality
     content: >
       We’re a custom software development company focusing on private
       blockchains with a track record of building Cardano, Tezos and Ethereum
