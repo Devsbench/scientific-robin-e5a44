@@ -134,7 +134,7 @@ seo:
       value: images/hero.png
       relativeUrl: true
   description: >-
-    We develop and maintain the projects smart contract and the corresponding
-    backend.
+    Full-Stack Blockchain Development Services. We develop and maintain the
+    projects smart contract and the corresponding backend. 
 layout: landing
 ---
