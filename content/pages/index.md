@@ -109,7 +109,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Blockchain Development Agency
+  title: Blockchain Development Services
   extra:
     - name: 'og:type'
       value: website
