@@ -110,7 +110,6 @@ sections:
     title: Latest Posts
 seo:
   title: Blockchain Development Agency
-  description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
       value: website
