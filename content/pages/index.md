@@ -23,7 +23,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: What we can do for you
     subtitle: >-
       We develop and maintain the projects smart contract and the corresponding
       backend
