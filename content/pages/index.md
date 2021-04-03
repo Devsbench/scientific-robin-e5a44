@@ -97,7 +97,7 @@ sections:
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
-        content: "They have a positive attitude and work diligently to meet our expectations. They immediately fix any issues that come up and always look for opportunities to improve.
+        content: "They have a positive attitude and work diligently to meet our expectations. 
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
