@@ -101,7 +101,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
-    subtitle: Get powerful enterprise blockchain solutions for your business.
+    subtitle: Get powerful blockchain solutions for your business.
     actions:
       - label: Get Started
         url: /signup
