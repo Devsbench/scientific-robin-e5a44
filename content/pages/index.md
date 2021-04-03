@@ -85,6 +85,7 @@ sections:
         avatar_alt: Eric Widget's photo
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         content: >-
           House of Blockchain work is critical to the success of the business's
           products. Their team clearly communicates milestones and deliver
@@ -95,6 +96,9 @@ sections:
 =======
         content: "House of Blockchain work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
 >>>>>>> parent of e3232a2 (index.md: updated content in reviews)
+=======
+        content: "Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
+>>>>>>> parent of 1b8bc73 (index.md: changed)
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
