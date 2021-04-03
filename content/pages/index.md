@@ -83,7 +83,10 @@ sections:
       - author: Eric Widget
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
-        content: "House of Blockchain work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
+        content: >-
+          House of Blockchain work is critical to the success of the business's
+          products. Their team clearly communicates milestones and deliver
+          detailed reports.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
