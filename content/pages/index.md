@@ -127,7 +127,13 @@ sections:
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
+<<<<<<< HEAD
         content: "They have a positive attitude and work diligently to meet our expectations.
+=======
+        content: >-
+          They have a positive attitude and work diligently to meet our
+          expectations
+>>>>>>> parent of 7ba70ca (index.md: changed)
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
