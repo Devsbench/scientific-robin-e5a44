@@ -91,6 +91,7 @@ sections:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         content: >-
           House of Blockchain work is critical to the success of the business's
           products. Their team clearly communicates milestones and deliver
@@ -123,6 +124,9 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
 >>>>>>> parent of bea6120 (index.md: updated content in reviews)
+=======
+        content: "House of Blockchain work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
+>>>>>>> parent of e3232a2 (index.md: updated content in reviews)
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
