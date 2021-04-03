@@ -83,7 +83,7 @@ sections:
       - author: Eric Widget
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
-        content: "Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.\_Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
+        content: "Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
