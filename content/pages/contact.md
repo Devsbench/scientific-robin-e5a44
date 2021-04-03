@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Contact
     content: |
-      Schedule a quick call with one of our blockchain consultants
+      # Schedule a quick call with one of our blockchain consultants
     form_id: contactForm
     form_fields:
       - input_type: text
