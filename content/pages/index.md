@@ -86,7 +86,7 @@ sections:
         content: >-
           House of Blockchain work is critical to the success of the business's
           products. Their team clearly communicates milestones and deliver
-          detailed reports. Highly recommend!
+          detailed reports. Highly recommend, great team!
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
