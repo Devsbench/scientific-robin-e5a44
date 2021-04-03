@@ -97,9 +97,7 @@ sections:
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          They have a positive attitude and work diligently to meet our
-          expectations.
+        content: "They have a positive attitude and work diligently to meet our expectations.\_We will continue our cooperation for next phases of our NFT product dev."
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
