@@ -23,7 +23,7 @@ sections:
         default_value: Please select
         options:
           - NFT
-          - Sponsorship
+          - Tokenization
           - Other
       - input_type: textarea
         name: message
