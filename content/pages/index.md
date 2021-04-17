@@ -101,7 +101,7 @@ sections:
           expectations.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Build your crypto project now!
     subtitle: Get powerful blockchain solutions for your business.
     actions:
       - label: Get Started
