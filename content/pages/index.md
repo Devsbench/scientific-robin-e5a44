@@ -61,10 +61,9 @@ sections:
       - title: Create Own Cryptocurrency
         image: images/friendly-pine.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We create your own coin (token) that you can incorporate into your
+          business, go to exchanges etc.
         actions:
           - label: Learn More
             url: /features
@@ -97,7 +96,9 @@ sections:
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
-        content: "They have a positive attitude and work diligently to meet our expectations."
+        content: >-
+          They have a positive attitude and work diligently to meet our
+          expectations.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
