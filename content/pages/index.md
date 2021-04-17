@@ -63,7 +63,7 @@ sections:
         image_alt: App user profile preview
         content: >
           We create your own coin (token) that you can incorporate into your
-          business, go to exchanges etc.
+          business, pay hodlers dividend, go to exchanges etc.
         actions:
           - label: Learn More
             url: /features
