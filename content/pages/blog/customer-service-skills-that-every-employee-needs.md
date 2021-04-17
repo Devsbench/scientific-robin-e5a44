@@ -1,7 +1,7 @@
 ---
 title: What is stable coin?
 subtitle: >-
-  Stablecoins are simply cryptocurrencies with stable value...usable as a store
+  Stablecoins are simply cryptocurrencies with stable value. Usable as a store
   of value, medium of exchange, and unit of account.
 author: content/data/authors/john-doe.yaml
 excerpt: >-
