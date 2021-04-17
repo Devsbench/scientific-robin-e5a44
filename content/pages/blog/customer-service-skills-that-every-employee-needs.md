@@ -1,6 +1,8 @@
 ---
 title: What is stable coin?
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+subtitle: >-
+  Technically, most stablecoins are digital tokens pegged to a stable store of
+  value. 
 author: content/data/authors/john-doe.yaml
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
