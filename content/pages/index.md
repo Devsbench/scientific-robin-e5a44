@@ -76,8 +76,8 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Since 2016 our blockchain engineers helped many clients across the globe.
+      We can do the same for you.
     reviews:
       - author: Eric Wirmusky
         avatar: images/review1.jpg
