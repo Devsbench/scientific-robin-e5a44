@@ -43,7 +43,7 @@ House of Blockchain has been developing custom blockchain projects for more than
 
 4\. Tokenization. Tokenize your business, create fungible tokens (ERC20) and non-fungible tokens (ERC721)
 
-5\. NFT Marketplaces 
+5\. NFT Marketplaces
 
 Project scope example:
 
@@ -71,7 +71,3 @@ Website:
 \- Cost
 \- Timeframe
 \- Budget
-
-
-
-
