@@ -1,8 +1,8 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Blockchain Engineers, Backend and Frontend Developer, Designers, QAs and
+  DevOps
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
