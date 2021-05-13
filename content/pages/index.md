@@ -61,10 +61,9 @@ sections:
       - title: Create Own Cryptocurrency
         image: images/friendly-pine.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We create your own coin (token) that you can incorporate into your
+          business, pay hodlers dividend, go to exchanges etc.
         actions:
           - label: Learn More
             url: /features
@@ -77,60 +76,16 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Since 2016 our blockchain engineers helped many clients across the globe.
+      We can do the same for you.
     reviews:
       - author: Eric Wirmusky
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         content: >-
           House of Blockchain work is critical to the success of the business's
           products. Their team clearly communicates milestones and deliver
           detailed reports. Highly recommend, great team!
-=======
-        content: "Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.\_Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of 4c1b0f8 (index.md: changed)
-=======
-        content: "House of Blockchain work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of e3232a2 (index.md: updated content in reviews)
-=======
-        content: "Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of 1b8bc73 (index.md: changed)
-=======
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
->>>>>>> parent of bea6120 (index.md: updated content in reviews)
-=======
-        content: "Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.\_Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of 4c1b0f8 (index.md: changed)
-=======
-        content: "Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.\_Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of 4c1b0f8 (index.md: changed)
-=======
-        content: "Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.\_Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of 4c1b0f8 (index.md: changed)
-=======
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
->>>>>>> parent of bea6120 (index.md: updated content in reviews)
-=======
-        content: "House of Blockchain work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of e3232a2 (index.md: updated content in reviews)
-=======
-        content: "Titanium Blockchain's work is critical to the success of the business's products. Their team clearly communicates milestones and deliver detailed reports. Their ability to proactively solve technical issues using innovative technologies is impressive."
->>>>>>> parent of 1b8bc73 (index.md: changed)
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
@@ -141,16 +96,12 @@ sections:
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
-<<<<<<< HEAD
-        content: "They have a positive attitude and work diligently to meet our expectations.
-=======
         content: >-
           They have a positive attitude and work diligently to meet our
-          expectations
->>>>>>> parent of 7ba70ca (index.md: changed)
+          expectations.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Build your crypto project now!
     subtitle: Get powerful blockchain solutions for your business.
     actions:
       - label: Get Started
