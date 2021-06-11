@@ -86,7 +86,7 @@ sections:
       ###### Speed of delivery
     actions:
       - label: Hire us!
-        url: /signup
+        url: /contact
         style: primary
       - label: View Demo
         url: '#'
