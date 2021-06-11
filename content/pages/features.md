@@ -13,7 +13,7 @@ sections:
       solution is best for your needs.
 
 
-      ### &#xA;Product Design
+      ### &#xA;1\. Product Design
 
 
       The way we see it, design isn’t just about aesthetics. It’s a crucial part
@@ -35,7 +35,7 @@ sections:
       ##### Prototype
 
 
-      ### Product Development
+      ### 2. Product Development
 
 
       Digital products aren’t just pieces of technology. They’re the foundations
@@ -57,7 +57,7 @@ sections:
       4.  Marketplace
 
 
-      ### Staff Augmentation
+      ### 3. Staff Augmentation
 
 
       Strong teams bring strong results. But finding people with the skills and
