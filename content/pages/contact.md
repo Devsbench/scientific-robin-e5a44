@@ -25,9 +25,10 @@ sections:
           - NFT
           - Tokenization
           - Blockchain Project
+          - 'Staff augmentation (FE, BE, UX, Blockchain Devs)'
       - input_type: textarea
         name: message
-        label: Message
+        label: Project description
       - input_type: checkbox
         name: consent
         label: >-

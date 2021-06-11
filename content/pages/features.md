@@ -4,17 +4,16 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Why you should pick us?
     content: >
       The main differentiator is that we are blockchain engineers developing
       blockchains like Ethereum, Cardano and Tezos. We were building tooling
-      around the, That is why we know them inside out and can advice you which
+      around them. That is why we know them inside out and can advice you which
       solution is best for your needs.
 
 
-      ### &#xA;Product Design
+      ### &#xA;1\. Product Design
 
 
       The way we see it, design isn’t just about aesthetics. It’s a crucial part
@@ -24,20 +23,22 @@ sections:
       just one person in mind; the end user.
 
 
-      1.  Discovery Workshop
+      ###### Discovery Workshop
 
 
-      2.  Product Identity
+      ###### Product Identity
 
 
-      3.  UX Review
+      ###### UX Review
 
 
-      4.  Prototype
+      ###### Prototype
 
 
-      [### Product
-      Development](https://develocraft.com/services/product-developement)
+      \---
+
+
+      ### 2. Product Development
 
 
       Digital products aren’t just pieces of technology. They’re the foundations
@@ -47,21 +48,22 @@ sections:
       languages. We help you connect technology and business.
 
 
-      1.  Code Audit
+      ###### Code Audit
 
 
-      2.  Web & Mobile Apps
+      ###### Web & Mobile Apps
 
 
-      3.  SaaS
+      ###### SaaS
 
 
-      4.  Marketplace
+      ###### Marketplace
 
 
+      \---
 
 
-      ### Staff Augmentation
+      ### 3. Staff Augmentation
 
 
       Strong teams bring strong results. But finding people with the skills and
@@ -72,30 +74,30 @@ sections:
       and expertise to build the right team for you.
 
 
-      1.  Top talent
+      ###### Top talent
 
 
-      2.  Lower project risk
+      ###### Lower project risk
 
 
-      3.  Flexibility
+      ###### Flexibility
 
 
-      4.  Speed of delivery
+      ###### Speed of delivery
+
+
+      \---
     actions:
-      - label: Free Trial
-        url: /signup
+      - label: Hire us!
+        url: /contact
         style: primary
-      - label: View Demo
-        url: '#'
-        style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Hire best blockchain devs
+    subtitle: We know how blockchain works. We can help with your crypto project.
     actions:
-      - label: Get Started
-        url: '#'
+      - label: Contact us!
+        url: /contact
         style: secondary
 seo:
   title: Features
