@@ -85,7 +85,7 @@ sections:
 
       ###### Speed of delivery
     actions:
-      - label: Free Trial
+      - label: Hire us!
         url: /signup
         style: primary
       - label: View Demo
