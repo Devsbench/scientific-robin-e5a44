@@ -93,7 +93,7 @@ sections:
         style: primary
   - section_id: call-to-action
     type: section_cta
-    title: Hire best blockchain devs
+    title: Best blockchain developers
     subtitle: We know how blockchain works. We can help with your crypto project.
     actions:
       - label: Contact us!
