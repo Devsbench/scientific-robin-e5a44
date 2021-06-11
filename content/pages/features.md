@@ -35,7 +35,7 @@ sections:
       ###### Prototype
 
 
-      \-----------
+      \---
 
 
       ### 2. Product Development
