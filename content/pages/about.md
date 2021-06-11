@@ -35,15 +35,17 @@ layout: page
 ---
 House of Blockchain has been developing custom blockchain projects for more than five years. During this time, we have completed 17+ custom-made projects in various fields for our clients from 12 countries. Our solutions:
 
-1.  Smart contracts. Ethereum, EOS, TRON, and other blockchain smart contracts development/audition
 
-2\. Cryptowallets. We're well-versed in cryptowallets creation, for any platforms, currencies, with any features, favouring client's desires.
 
-3\. DeFi. Development of any blockchain based financial solutions, e.g. assets tokenization platforms, p2p lending, neobanks.
+*   Smart contracts. Ethereum, EOS, TRON, and other blockchain smart contracts development/audition
 
-4\. Tokenization. Tokenize your business, create fungible tokens (ERC20) and non-fungible tokens (ERC721)
+*   Cryptowallets. We're well-versed in cryptowallets creation, for any platforms, currencies, with any features, favouring client's desires.
 
-5\. NFT Marketplaces
+*   DeFi. Development of any blockchain based financial solutions, e.g. assets tokenization platforms, p2p lending, neobanks.
+
+*   Tokenization. Tokenize your business, create fungible tokens (ERC20) and non-fungible tokens (ERC721)
+
+*   NFT Marketplaces
 
 Project scope example:
 
