@@ -35,8 +35,6 @@ layout: page
 ---
 House of Blockchain has been developing custom blockchain projects for more than five years. During this time, we have completed 17+ custom-made projects in various fields for our clients from 12 countries. Our solutions:
 
-
-
 *   Smart contracts. Ethereum, EOS, TRON, and other blockchain smart contracts development/audition
 
 *   Cryptowallets. We're well-versed in cryptowallets creation, for any platforms, currencies, with any features, favouring client's desires.
@@ -49,27 +47,29 @@ House of Blockchain has been developing custom blockchain projects for more than
 
 Project scope example:
 
-Website:
-\- Build a website similar to nbatopshot
-\- Security (ssl, payments, attacks, all vulnerabilities covered)
-\- Scalable , number of requests per day
-\- online presence, ticking all the right boxes
-\- Template change limitation? (what if we decide .. to change the template)
-\- SEO
-\- Hostgator?
-\- Dedicated hosting ? Huge trafic, requests, latency
-\- Examples of high ranked SEO websites?
-\- Code Editing?
-\- Content management
-\- Technologies used ?
-\- Migration (theming, functionality & theme editing/transformation)
-\- Storage
-\- Database Aspects, consultation on what's needed ?
-\- Who's developing
-\- Who's doing support
-\- Dedicated technical support & guidance?
-\- Code control / Overall control
-\- Extra charges/services?
-\- Cost
-\- Timeframe
-\- Budget
+*   Website:
+    Build a website similar to [nbatopshot](https://nbatopshot.com/)
+    Security (ssl, payments, attacks, all vulnerabilities covered)
+    Scalable , number of requests per day
+    Online presence, ticking all the right boxes
+
+*   Template change limitation? (what if we decide .. to change the template)
+    SEO
+    Hostgator?
+    Dedicated hosting ? Huge trafic, requests, latency
+    Examples of high ranked SEO websites?
+
+*   Code Editing?
+    Content management
+    Technologies used ?
+    Migration (theming, functionality & theme editing/transformation)
+    Storage
+    Database Aspects, consultation on what's needed ?
+    Who's developing
+    Who's doing support
+    Dedicated technical support & guidance?
+    Code control / Overall control
+    Extra charges/services?
+    Cost
+    Timeframe
+    Budget
