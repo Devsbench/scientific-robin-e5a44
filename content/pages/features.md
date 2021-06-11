@@ -23,18 +23,16 @@ sections:
       just one person in mind; the end user.
 
 
-      1.  Discovery Workshop
+      ##### Discovery Workshop
 
 
-      2.  Product Identity
+      ##### Product Identity
 
 
-      3.  UX Review
+      ##### UX Review
 
 
-      4.  Prototype
-
-
+      ##### Prototype
 
 
       ### Product Development
