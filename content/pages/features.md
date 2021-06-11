@@ -60,6 +60,9 @@ sections:
       ###### Marketplace
 
 
+      \---
+
+
       ### 3. Staff Augmentation
 
 
@@ -71,16 +74,16 @@ sections:
       and expertise to build the right team for you.
 
 
-      1.  Top talent
+      ###### Top talent
 
 
-      2.  Lower project risk
+      ###### Lower project risk
 
 
-      3.  Flexibility
+      ###### Flexibility
 
 
-      4.  Speed of delivery
+      ###### Speed of delivery
     actions:
       - label: Free Trial
         url: /signup
