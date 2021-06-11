@@ -11,7 +11,77 @@ sections:
       The main differentiator is that we are blockchain engineers developing
       blockchains like Ethereum, Cardano and Tezos. We were building tooling
       around the, That is why we know them inside out and can advice you which
-      solution is best for your needs. 
+      solution is best for your needs.
+
+
+      ### &#xA;Product Design
+
+
+      The way we see it, design isn’t just about aesthetics. It’s a crucial part
+      of any tech business. Quality design improves usability while
+      communicating the value of both your product and brand. Our design work
+      doesn’t just look good. It’s built on testing and rigorous analysis with
+      just one person in mind; the end user.
+
+
+      1.  Discovery Workshop
+
+
+      2.  Product Identity
+
+
+      3.  UX Review
+
+
+      4.  Prototype
+
+
+      [### Product
+      Development](https://develocraft.com/services/product-developement)
+
+
+      Digital products aren’t just pieces of technology. They’re the foundations
+      supporting entire businesses. The best startups connect innovative tech
+      with a solid business model and clear market fit. That’s why when we
+      discuss your project with you, we don’t just talk about programming
+      languages. We help you connect technology and business.
+
+
+      1.  Code Audit
+
+
+      2.  Web & Mobile Apps
+
+
+      3.  SaaS
+
+
+      4.  Marketplace
+
+
+
+
+      ### Staff Augmentation
+
+
+      Strong teams bring strong results. But finding people with the skills and
+      experience to revitalize or craft complex digital products can be a
+      challenge. We established our staff augmentation team to connect our
+      clients with the talent they need, however competitive the market. If your
+      project needs experienced designers or developers, we have the connections
+      and expertise to build the right team for you.
+
+
+      1.  Top talent
+
+
+      2.  Lower project risk
+
+
+      3.  Flexibility
+
+
+      4.  Speed of delivery
     actions:
       - label: Free Trial
         url: /signup
