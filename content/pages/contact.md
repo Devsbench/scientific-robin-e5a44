@@ -25,7 +25,7 @@ sections:
           - NFT
           - Tokenization
           - Blockchain Project
-          - lorem-ipsum
+          - 'Staff augmentation (FE, BE, UX, Blockchain Devs)'
       - input_type: textarea
         name: message
         label: Project description
