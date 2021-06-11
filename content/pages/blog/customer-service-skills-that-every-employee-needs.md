@@ -1,6 +1,8 @@
 ---
-title: 5 Customer Service Skills that Every Employee Needs
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+title: What is stable coin?
+subtitle: >-
+  Stablecoins are simply cryptocurrencies with stable value. Usable as a store
+  of value, medium of exchange, and unit of account.
 author: content/data/authors/john-doe.yaml
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
