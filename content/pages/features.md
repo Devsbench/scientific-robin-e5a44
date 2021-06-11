@@ -97,7 +97,7 @@ sections:
     subtitle: We know how blockchain works. We can help with your crypto project.
     actions:
       - label: Contact us!
-        url: '#'
+        url: /contact
         style: secondary
 seo:
   title: Features
