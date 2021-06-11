@@ -7,21 +7,11 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Why you should pick us?
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+    content: >
+      The main differentiator is that we are blockchain engineers developing
+      blockchains like Ethereum, Cardano and Tezos. We were building tooling
+      around the, That is why we know them inside out and can advice you which
+      solution is best for your needs. 
     actions:
       - label: Free Trial
         url: /signup
