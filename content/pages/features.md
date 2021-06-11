@@ -96,7 +96,7 @@ sections:
     title: Hire best blockchain devs
     subtitle: We know how blockchain works. We can help with your crypto project.
     actions:
-      - label: Get Started
+      - label: Contact us!
         url: '#'
         style: secondary
 seo:
