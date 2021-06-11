@@ -88,9 +88,6 @@ sections:
       - label: Hire us!
         url: /contact
         style: primary
-      - label: View Demo
-        url: '#'
-        style: secondary
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
