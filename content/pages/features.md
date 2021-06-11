@@ -9,7 +9,7 @@ sections:
     content: >
       The main differentiator is that we are blockchain engineers developing
       blockchains like Ethereum, Cardano and Tezos. We were building tooling
-      around the, That is why we know them inside out and can advice you which
+      around them. That is why we know them inside out and can advice you which
       solution is best for your needs.
 
 
@@ -35,8 +35,9 @@ sections:
       4.  Prototype
 
 
-      [### Product
-      Development](https://develocraft.com/services/product-developement)
+
+
+      ### Product Development
 
 
       Digital products aren’t just pieces of technology. They’re the foundations
@@ -56,8 +57,6 @@ sections:
 
 
       4.  Marketplace
-
-
 
 
       ### Staff Augmentation
