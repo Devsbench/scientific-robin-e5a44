@@ -23,20 +23,16 @@ sections:
       just one person in mind; the end user.
 
 
-      ##### Discovery Workshop
+      ###### Discovery Workshop
 
 
-      ##### Product Identity
+      ###### Product Identity
 
 
-      ##### UX Review
+      ###### UX Review
 
 
-      ##### Prototype
-
-
-
-
+      ###### Prototype
 
 
       \-----------
@@ -52,16 +48,16 @@ sections:
       languages. We help you connect technology and business.
 
 
-      1.  Code Audit
+      ###### Code Audit
 
 
-      2.  Web & Mobile Apps
+      ###### Web & Mobile Apps
 
 
-      3.  SaaS
+      ###### SaaS
 
 
-      4.  Marketplace
+      ###### Marketplace
 
 
       ### 3. Staff Augmentation
