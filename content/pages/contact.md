@@ -25,6 +25,7 @@ sections:
           - NFT
           - Tokenization
           - Blockchain Project
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Project description
