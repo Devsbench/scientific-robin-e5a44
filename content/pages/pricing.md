@@ -63,10 +63,11 @@ sections:
           Usually we start new project within 1-2 weeks. We also have a close
           partner network and can connect you with a vetted partner.
       - question: What is your rate card?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >
+          Our rates starts from $50/h. We have only top quality engineers (not
+          freelancers). We have full-stack teams (including designers, DevOps,
+          QA, PM). We focus on quality, speed of development and free from bugs
+          products. We are a one-stop shop for your blockchain project.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
