@@ -35,7 +35,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Contract
         subtitle: For very large businesses
         price: Delivery
         details: |-
