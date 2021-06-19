@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
-        price: Offer
+        price: Offer-Contract
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
