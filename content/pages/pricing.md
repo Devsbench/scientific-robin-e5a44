@@ -39,12 +39,12 @@ sections:
         subtitle: Project kick-off
         price: Delivery
         details: |
-
-
           *   Team: DevOps, FE, BE, QA + Project Manager
-          *   Proxy Product Owner
-          *   Backlog creation
-          *   Project delivery
+          *   Product Owner
+
+          <!---->
+
+          *   Software development
           *   Usually we need 1-3 months to deliver MVP
         actions:
           - label: Order Now
