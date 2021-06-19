@@ -64,10 +64,11 @@ sections:
           partner network and can connect you with a vetted partner.
       - question: What is your rate card?
         answer: >
-          Our rates starts from $50/h. We have only top quality engineers (not
-          freelancers). We have full-stack teams (including designers, DevOps,
-          QA, PM). We focus on quality, speed of development and free from bugs
-          products. We are a one-stop shop for your blockchain project.
+          Our rates starts from $50/h. We have only top quality engineers vetted
+          and working for us (not freelancers). We have full-stack teams
+          (including Develoeprs, Designers, DevOps, QA, PM). We focus on
+          quality, speed of development and free from bugs products. We are a
+          one-stop shop for your blockchain project.
       - question: Where are you based?
         answer: >
           We are from Warsaw, Poland and some team members are also located in
