@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Project estimation
-        subtitle: For medium-sized businesses
+        subtitle: Budget - Scope - Timeline
         price: Offer-Contract
         details: |-
           * Curabitur non nunc mollis
