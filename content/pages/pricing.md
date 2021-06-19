@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: How we work
-    subtitle: Our process of working with clients
+    subtitle: Our process of working with clients (project approach)
     pricing_plans:
       - title: Your send us request
         subtitle: Your need
