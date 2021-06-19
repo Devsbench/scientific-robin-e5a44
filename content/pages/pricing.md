@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Your send us request
-        subtitle: Learn about your needs
+        subtitle: projects@houseofblockchain.tech
         price: Request
         details: >
           *   We response up to 1 business day
