@@ -7,7 +7,7 @@ sections:
     title: How we work
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Your request
+      - title: Your send us request
         subtitle: Your send us request
         price: Request
         details: >
