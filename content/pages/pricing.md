@@ -8,7 +8,7 @@ sections:
     subtitle: Our process of working with clients
     pricing_plans:
       - title: Your send us request
-        subtitle: houseofblockchain24@gmail.com
+        subtitle: Your need
         price: Request
         details: >
           *   We response up to 1 business day
