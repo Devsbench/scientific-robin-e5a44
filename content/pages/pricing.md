@@ -62,7 +62,7 @@ sections:
           pretty busy but always find a solution to help with your project.
           Usually we start new project within 1-2 weeks. We also have a close
           partner network and can connect you with a vetted partner.
-      - question: Aliquam eget purus ante
+      - question: What is your rate card?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
