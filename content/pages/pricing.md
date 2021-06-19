@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Project estimation
         subtitle: Budget - Scope - Timeline
-        price: Offer-Contract
+        price: Offer
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
