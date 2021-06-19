@@ -25,7 +25,7 @@ sections:
         subtitle: Budget - Scope - Timeline
         price: Offer
         details: |
-          *   Project scoping
+          *   We do project scoping
           *   Project estimation
           *   Offer send to you
           *   Meeting to answer all the questions
