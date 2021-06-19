@@ -10,11 +10,11 @@ sections:
       - title: Your request
         subtitle: Your send us request
         price: Request
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: >
+          *   We response up to 1 business day
+
+          *   Schedule a Discovery Call with our Blockchain Expert and Project
+          Manager
         actions:
           - label: Order Now
             url: /signup
