@@ -56,7 +56,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: We are experts in blockchain and software development
     faq_items:
-      - question: How
+      - question: What is your availability?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
