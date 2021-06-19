@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Your request
-        subtitle: For small businesses
+        subtitle: Your send us request
         price: Request
         details: |-
           * Lorem ipsum dolor sit amet
