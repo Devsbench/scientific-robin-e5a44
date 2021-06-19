@@ -13,8 +13,8 @@ sections:
         details: >
           *   We response up to 1 business day
 
-          *   We schedule a 30 min "Discovery Call" with our Blockchain Expert
-          and Project Manager
+          *   We schedule a 30 min **"Discovery Call"** with our Blockchain
+          Expert and Project Manager
         actions:
           - label: Order Now
             url: /signup
