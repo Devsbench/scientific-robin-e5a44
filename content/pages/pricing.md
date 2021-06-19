@@ -68,7 +68,7 @@ sections:
           freelancers). We have full-stack teams (including designers, DevOps,
           QA, PM). We focus on quality, speed of development and free from bugs
           products. We are a one-stop shop for your blockchain project.
-      - question: Sed scelerisque in ipsum eu sollicitudi
+      - question: Where are you based?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
