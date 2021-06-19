@@ -70,7 +70,7 @@ sections:
           products. We are a one-stop shop for your blockchain project.
       - question: Where are you based?
         answer: >
-          We are from Warsaw, Poland and some team members are located in
+          We are from Warsaw, Poland and some team members are also located in
           Central and Eastern Europe. We work remotely with client visits from
           time to time (project onboarding, demo etc)
 seo:
