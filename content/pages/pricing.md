@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: How we work
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Our process of working with clients
     pricing_plans:
       - title: Your send us request
         subtitle: houseofblockchain24@gmail.com
