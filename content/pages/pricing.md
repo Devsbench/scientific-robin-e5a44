@@ -15,6 +15,8 @@ sections:
 
           *   We schedule a 30 min **"Discovery Call"** with our Blockchain
           Expert and Project Manager
+
+          *   Signing NDA when both sides see that there is a potential fit
         actions:
           - label: Order Now
             url: /signup
