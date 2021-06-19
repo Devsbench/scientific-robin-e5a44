@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Your request
         subtitle: For small businesses
-        price: $5/m
+        price: Request
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
