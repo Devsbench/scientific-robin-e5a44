@@ -22,12 +22,12 @@ sections:
       - title: Project estimation
         subtitle: Budget - Scope - Timeline
         price: Offer
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Project scoping
+          *   Project estimation
+          *   Offer send to you
+          *   Meeting to answer all the questions
+          *   Contract Template
         highlight: true
         actions:
           - label: Order Now
