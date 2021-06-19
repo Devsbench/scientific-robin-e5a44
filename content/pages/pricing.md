@@ -35,7 +35,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Contract
+      - title: Contract & Work
         subtitle: Project kick-off
         price: Delivery
         details: |
