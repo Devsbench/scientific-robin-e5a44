@@ -39,11 +39,9 @@ sections:
         subtitle: Project kick-off
         price: Delivery
         details: |
-          *   Team composition
 
-          <!---->
 
-          *   DevOps, FE, BE, QA + Project Manager
+          *   Team: DevOps, FE, BE, QA + Project Manager
           *   Proxy Product Owner
           *   Backlog creation
           *   Project delivery
