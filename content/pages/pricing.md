@@ -7,8 +7,8 @@ sections:
     title: How we work
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Your request
-        subtitle: Your send us request
+      - title: Your send us request
+        subtitle: houseofblockchain24@gmail.com
         price: Request
         details: >
           *   We response up to 1 business day
@@ -35,14 +35,17 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
-        subtitle: For very large businesses
+      - title: Contract
+        subtitle: Project kick-off
         price: Delivery
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Team: DevOps, FE, BE, QA + Project Manager
+          *   Product Owner
+
+          <!---->
+
+          *   Software development
+          *   Usually we need 1-3 months to deliver MVP
         actions:
           - label: Order Now
             url: /signup
