@@ -36,7 +36,7 @@ sections:
             url: /signup
             style: primary
       - title: Contract
-        subtitle: For very large businesses
+        subtitle: Project kick-off
         price: Delivery
         details: |-
           * Vestibulum non eros quis
