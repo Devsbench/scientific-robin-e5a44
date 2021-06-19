@@ -38,11 +38,16 @@ sections:
       - title: Contract
         subtitle: Project kick-off
         price: Delivery
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Team composition
+
+          <!---->
+
+          *   DevOps, FE, BE, QA + Project Manager
+          *   Proxy Product Owner
+          *   Backlog creation
+          *   Project delivery
+          *   Usually we need 1-3 months to deliver MVP
         actions:
           - label: Order Now
             url: /signup
