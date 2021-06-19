@@ -4,30 +4,32 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Pricing Plans
+    title: How we work
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Basic
-        subtitle: For small businesses
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+      - title: Your request
+        subtitle: Your send us request
+        price: Request
+        details: >
+          *   We response up to 1 business day
+
+          *   We schedule a 30 min **"Discovery Call"** with our Blockchain
+          Expert and Project Manager
+
+          *   Signing NDA when both sides see that there is a potential fit
         actions:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Professional
-        subtitle: For medium-sized businesses
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+      - title: Project estimation
+        subtitle: Budget - Scope - Timeline
+        price: Offer
+        details: |
+          *   We do project scoping
+          *   Project estimation
+          *   Offer send to you
+          *   Meeting to answer all the questions
+          *   Contract Template
         highlight: true
         actions:
           - label: Order Now
@@ -35,7 +37,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
-        price: $149/m
+        price: Delivery
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
