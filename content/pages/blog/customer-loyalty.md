@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: An Inside look into NFT Customer Loyalty Programs That Stick
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
