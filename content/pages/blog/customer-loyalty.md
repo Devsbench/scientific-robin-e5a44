@@ -44,7 +44,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-**Non-fungible Tokens** are perhaps the most exciting innovation in crypto this year. For a deeper understanding of where the momentum is coming from, Kraken Intelligence has compiled a comprehensive report explaining what they are, how they work and why they are valuable.
+**Non-fungible Tokens** are perhaps the most exciting innovation in crypto this year. For a deeper understanding of where the momentum is coming from, we have compiled a comprehensive report explaining what they are, how they work and why they are valuable.
 
 ## Customer
 
