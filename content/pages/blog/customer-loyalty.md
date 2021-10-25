@@ -75,6 +75,6 @@ static art or collectibles. NFTs are tokens that have introduced a new way to ve
 NFTs reportedly recorded over $56M in sales in 2020 and over $927M in 1H2021 alone. This marks a 5,404% growth year-over-year when compared to 1H2020.4 While NFTs may sound foreign to many, the concept is fairly aged and rooted in the history of the crypto
 industry. For a fuller understanding of NFTs, in this report we outline their purpose, background, current developments, and how they can be game-changing for those who believe in their application and potential. We also show how to participate in this sector, by including examples of where you can buy or mint a NFT. While we do provide examples, please note that it is not an endorsement of any specific NFT platform or the buying, minting, or selling of NFTs. As always, we strongly urge you to do thorough research before jumping in.
 
-[](images/Screenshot%202021-10-25%20at%2021.44.39-8324449b.png)
+![](images/Screenshot%202021-10-25%20at%2021.44.39-8324449b.png)
 
 ![](images/Tomasz%20Bogus%20Photo%20copy.jpg)
