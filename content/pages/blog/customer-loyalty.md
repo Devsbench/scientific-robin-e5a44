@@ -46,9 +46,27 @@ layout: post
 ---
 **Non-fungible Tokens** are perhaps the most exciting innovation in crypto this year. For a deeper understanding of where the momentum is coming from, we have compiled a comprehensive report explaining what they are, how they work and why they are valuable.
 
-## Customer
+## Introduction
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
+In “Non-Fungible Tokens (NFTs): Redefining Digital Scarcity” our team outlines why NFTs are more than just JPEGs or GIFs, how they empower online communities and why they are a technological breakthrough for content creators looking to build an economy with direct access to their consumers. 
+
+While art and music appear to be the initial use cases for NFTs, they represent so much more. Many are sold as part of a limited collection, which buyers then use as a form of digital identity and affiliation with a community. Those NFTs can serve as a fundraising mechanism for the community who issued them and in turn reward members who bring the greatest value or reinvest the funds in future activities. 
+
+Not only that, because an NFT is digitally scarce and verifiably authenticated on a blockchain, it can act as a passkey for exclusive content or an activity at the creator’s discretion. In addition, when the NFT is created via a smart contract, should the asset be continuously sold in the future, a portion of the proceeds can be returned to the creator in the form of a royalty.
+
+In this article, you’ll also learn:
+
+*   Why secondary markets are where most sales take place
+
+*   How almost any intellectual property can be minted as an NFT
+
+*   How to safely own and store the asset after your purchase
+
+*   Concerns about NFT original work stored on centralized servers 
+
+*   The role NFTs can play in online games
+
+*   Who are the top creators and collectors of NFTs
 
 ## Loyalty Programs
 
