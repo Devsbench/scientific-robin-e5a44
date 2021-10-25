@@ -68,35 +68,10 @@ In this article, you’ll also learn:
 
 ## Introduction
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
-
-The cryptocurrency space is always brimming with new technological advances, whether
-that be with token projects or blockchain applications. The latest buzz comes in the
-form of Non-Fungible Tokens (NFTs). Celebrities, artists, billionaire entrepreneurs, and
-athletes are seemingly tweeting about the excitement of NFTs,1,
-2 but what exactly are they?
-While the recent hype surrounds art or collectible NFTs, like NBA player Stephen Curry’s
-purchase of a zombie-eyed Bored Ape, their application and usability reach far beyond
-static art or collectibles. NFTs are tokens that have introduced a new way to verifiably
-prove ownership of virtually anything through the blockchain. While a majority of the
-current NFTs come in the form of a JPEG or GIF, the sector is evolving such that the NFT
-itself becomes a means to an end. In other words, the ownership of a NFT can grant the
-owner the right and avenue to access data or a community directly.
-NFTs reportedly recorded over $56M in sales in 2020 and over $927M in 1H2021 alone.3
-This marks a 5,404% growth year-over-year when compared to 1H2020.4 While NFTs may
-sound foreign to many, the concept is fairly aged and rooted in the history of the crypto
-industry. For a fuller understanding of NFTs, in this report we outline their purpose,
-background, current developments, and how they can be game-changing for those who
-believe in their application and potential. We also show how to participate in this sector,
-by including examples of where you can buy or mint a NFT. While we do provide examples,
-please note that it is not an endorsement of any specific NFT platform or the buying,
-minting, or selling of NFTs. As always, we strongly urge you to do thorough research
-before jumping in.
+The cryptocurrency space is always brimming with new technological advances, whether that be with token projects or blockchain applications. The latest buzz comes in the form of Non-Fungible Tokens (NFTs). Celebrities, artists, billionaire entrepreneurs, and
+athletes are seemingly tweeting about the excitement of NFTs, but what exactly are they? While the recent hype surrounds art or collectible NFTs, like NBA player Stephen Curry’s purchase of a zombie-eyed Bored Ape, their application and usability reach far beyond
+static art or collectibles. NFTs are tokens that have introduced a new way to verifiably prove ownership of virtually anything through the blockchain. While a majority of the current NFTs come in the form of a JPEG or GIF, the sector is evolving such that the NFT itself becomes a means to an end. In other words, the ownership of a NFT can grant the owner the right and avenue to access data or a community directly.
 
 
-
-> The strength of brand loyalty begins with how your product makes people feel. - Jay Samit
-
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
-
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+NFTs reportedly recorded over $56M in sales in 2020 and over $927M in 1H2021 alone. This marks a 5,404% growth year-over-year when compared to 1H2020.4 While NFTs may sound foreign to many, the concept is fairly aged and rooted in the history of the crypto
+industry. For a fuller understanding of NFTs, in this report we outline their purpose, background, current developments, and how they can be game-changing for those who believe in their application and potential. We also show how to participate in this sector, by including examples of where you can buy or mint a NFT. While we do provide examples, please note that it is not an endorsement of any specific NFT platform or the buying, minting, or selling of NFTs. As always, we strongly urge you to do thorough research before jumping in.
