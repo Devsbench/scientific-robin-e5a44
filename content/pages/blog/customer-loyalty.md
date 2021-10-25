@@ -1,6 +1,6 @@
 ---
 title: An Inside look into NFT
-subtitle: A story about customer loyalty
+subtitle: Non Fungible Tokens (NFT). Redefining Digital Scarcity.
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
