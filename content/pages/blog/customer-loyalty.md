@@ -77,3 +77,4 @@ industry. For a fuller understanding of NFTs, in this report we outline their pu
 
 ![](images/Screenshot%202021-10-25%20at%2021.44.39-8324449b.png)![](images/Untitled%20design%20\(39\).png)
 
+jdhcgsajdgadjhfgvkdjfgvdskfgvsdfvgdsjhfgvdfhj
