@@ -77,4 +77,6 @@ industry. For a fuller understanding of NFTs, in this report we outline their pu
 
 
 
-![](images/Screenshot%202021-10-25%20at%2021.44.39-49e1f857.png)
+## Definition
+
+Non-Fungible Tokens (NFTs) refer to digital assets that cannot be interchanged for another asset of the same type. Fungible assets can be substituted or exchanged for another asset of the same type, much like bitcoin (BTC), ether (ETH), and even fiat. They serve in place of what they are exchanged for; 1 bitcoin can be exchanged with another bitcoin, and both can be used in place of one another. Non-fungible assets, however, are unique and cannot be replaced. An example would be a one-of-a-kind original oil painting by an artist, like the Mona Lisa hanging in the Louvre. Multiple replicas can be printed and oil paintings can be recreated based on the original, yet nothing will ever replace the original. Similarly, NFTs are one-of-a-kind, digital representations of information or data where a holder has proof of ownership. NFTs and their corresponding ownership are recorded on the blockchain, which establishes NFTs verifiable digital scarcity and the uniqueness of each asset. 
