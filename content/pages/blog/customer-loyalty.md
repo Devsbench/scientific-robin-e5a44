@@ -2,7 +2,10 @@
 title: An Inside look into NFT
 subtitle: Non Fungible Tokens (NFT). Redefining Digital Scarcity.
 author: content/data/authors/jane-doe.yaml
-excerpt: 'Redefining Digital Scarcity. '
+excerpt: >-
+  Redefining Digital Scarcity. At a basic level, an NFT is a digital asset that
+  links ownership to unique physical or digital items, such as works of art,
+  real estate, music, or videos.
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
