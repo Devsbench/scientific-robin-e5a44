@@ -86,3 +86,28 @@ The concept of NFTs first came to be with Colored Coins in 2012, which could be 
 on the InterPlanetary File System (IPFS)7 and Ethereum. While interest in Pepe NFTs grew, a Rare Pepe on the Counterparty protocol known as "Homer Pepe" sold for a whopping $320K.8 After trading of Pepe NFTs picked up, two individuals named John Watkinson and Matt Hall created a NFT project famously known as Cryptopunks, which were unique 8-bit characters generated on the Ethereum blockchain. The project launched on June 23, 2017 with 10,000 unique Cryptopunk avatars available to anyone with an Ethereum wallet, for free. The underlying idea being that every character is unique, each avatar has its own distinct combination of characteristics and features, with 6,039 male Punks and 3,840 female Punks created. All 10,000 were claimed nearly a week after launch and began trading in a secondary marketplace.9 The creators, Hall and Watkinson, claimed 1,000 Punks for themselves.10 In the first three years of Cryptopunks (2017–2019), total sales volume was around $866K.11 As of writing, the most expensive Cryptopunk was sold at 4,200ETH ($7.6M equivalent) with highest daily sales volume reaching over $143M on August 28, 2021.
 
 ![](images/Screenshot%202021-11-06%20at%2021.57.00.png)
+
+
+
+Cryptopunks follow the Ethereum Token Standard, which refers to the standard used for tokens to operate on the Ethereum blockchain. The most common framework is ERC-20, which stands for Ethereum Request for Comment (ERC) 20, and allows developers to create tokens that can interact with other tokens and network applications with ease. While ERC-20 tokens are useful, they are not best suited for creating unique tokens as they were created as standardized tokens that can be fungibly shared or exchanged for other tokens.
+
+
+This led to the creation of ERC-721 and ERC-1155. ERC-721’s framework was first built as the standard for non-fungible tokens on the Ethereum blockchain by storing unique identifiers for every token to track ownership and movements of the tokens. Cryptopunks were something between an ERC-721 and ERC-20 token, as ERC-721 had not yet been invented. The first ever project to utilize the ERC-721 standard was CryptoKitties.
+
+CryptoKitties took the world by storm in 2017 as its launch coincided with the crypto bull market of 2017. The NFT virtual game allows users to adopt, raise, and trade virtual cats on the blockchain. The project became so popular that, at its height, its overwhelming demand weighed on the Ethereum network and impacted its ability to efficiently process transactions on the blockchain. Roughly a month into its launch on November 28,2017, daily transaction count shot up 111% and the average transaction fee had risen by 1,165%. With the Ethereum network congested, the developers of the game raised prices to make the processing of the game’s transactions attractive to Ethereum network miners. Though a virtual game, the trade was no cheap thrill, with the most expensive CryptoKitty selling at the price of 600 ETH, or roughly $172,000 at the time of sale. The rise of CryptoKitties opened up a world of possibilities with NFTs, and led to several prominent venture funds such as Google Ventures (GV) and Andreessen Horowitz (a16z) investing into the booming sector.
+
+
+CryptoKitties were blazing the trail and NFT marketplaces started to see notable growth. Marketplaces and infrastructure such as Nifty Gateway, SuperRare, Rarible, OpenSea all began to gain traction. Everything from game characters to event entrance tickets were traded as NFTs. Towards the end of 2020, the NFT marketplace started picking up steam in art and collectibles. By 1Q20, there were around 633K NFT sales, totaling a value of over $9M. By 4Q20, there were around 180K sales at a total value of over $20M.17 While the total number of sales dropped, NFTs were appreciating in value. In March 2021, a famous NFT artist known as Beeple, auctioned off his artwork named Everydays—The First 5000 Days. The starting bid was $100 and quickly sold for an astonishing $69M.18 This is the most expensive NFT art sold to date, and the third-most expensive art among all living artists.
+
+
+
+		
+			
+				
+					
+					
+				
+			
+		
+	
+
