@@ -7,7 +7,7 @@ excerpt: >-
   links ownership to unique physical or digital items, such as works of art,
   real estate, music, or videos.
 date: '2021-01-03'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/Screenshot 2021-11-06 at 21.50.26.png
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 image_alt: A group of people working in a cafe
