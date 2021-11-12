@@ -198,139 +198,9 @@ The industry continues to break new ground and go mainstream, with platforms lik
 
 NFTs brought digital scarcity to the fore and have the potential to revolutionize most industries, from art to finance. The recent growth in demand has translated into robust advancement and creative application of NFTs. Any creator can tokenize a service, product, content, or idea and sell or share it with the world in a way that suits them. The concept of ownership and scarcity is made verifiable and irrefutable by the blockchain. However, as with any new innovation, NFTs are accompanied by uncertainty and regulation. The demand surrounding NFTs can as easily dwindle as it rose, especially as the value of an NFT is often subjective. NFTs being the new sector fueling a part of the crypto industry, global regulators have yet to define and classify NFTs from a legal perspective. We imagine that greater exploration, advancement, and application of NFTs in various industries will bring forth greater regulatory-side desire to tame the beast. However, while the NFT industry has a long way to go, whatever belief you hold towards NFTs it’s hard to ignore the potential and benefits the market can bring to creators and participants alike.
 
-
-
 # Owning NFTs
 
 Currently, NFTs exist as a digital token that represents ownership of objects like art, music, in-game items and videos. Although almost everyone has heard of NFTs and associate the term with images of digital generated art, NFTs come in a number of different forms. First, NFTs can be tokenized video clips that are available for purchase through various NFT marketplaces. Though not always, the purchase can entitle the owner(s) to distribution rights in addition to owning the underlying token associated with the video clip in question. In February, a 10-second video clip entitled “Crossroads” by artist Beeple was sold for $6.6M on the Nifty Gateway platform.
-
-
-		
-			
-				
-					
-					
-					
-					
-				
-			
-			
-			
-				
-					
-				
-			
-		
-		
-			
-			
-			
-				
-					
-					
-					
-					
-					
-				
-			
-			
-			
-			
-			
-			
-			
-				
-					
-				
-			
-		
-		
-			
-			
-			
-				
-					
-					
-					
-					
-					
-				
-			
-			
-			
-				
-					
-				
-			
-		
-		
-			
-			
-			
-				
-					
-					
-					
-					
-					
-					
-				
-			
-			
-			
-				
-					
-				
-			
-		
-		
-			
-			
-			
-				
-					
-					
-					
-					
-					
-				
-			
-			
-			
-				
-					
-				
-			
-		
-		
-			
-			
-			
-				
-					
-					
-					
-					
-				
-			
-			
-			
-				
-					
-				
-			
-		
-		
-			
-			
-			
-				
-					
-				
-			
-		
-	
-
 
 In addition to video NFTs, music NFTs allow the token owner to have either full or
 
@@ -340,7 +210,6 @@ launched music marketplace Royal, allowing users to buy shares of songs through 
 marketplace to earn royalties as the music they’ve invested in is played.49 In October 2020,
 OpenSea began supporting the sale and mint of mp3 and mp4 audio files with DAOrecords
 as the platform’s first mp3 collection listed.50
-
 
 Other than digital art, video, and audio, NFTs can represent ownership of unique digital
 items within a video game that are tracked using the blockchain. In the blockchain-based
@@ -356,9 +225,7 @@ Decentraland and Aurory are using NFTs to create new and innovative games where 
 are rewarded for playing and can have provable, tokenized ownership of their goods and
 characters within the game.
 
-
-**Where to Buy or Mint NFTs
-**
+# Where to Buy or Mint NFTs
 
 While many have heard of NFTs and seem to know a thing or two about them,
 
@@ -369,10 +236,6 @@ collections are almost instantly sold out once available for mint, many turn to 
 marketplaces to buy these NFTs. Some prefer to browse NFT marketplaces to selectively
 shop around for their favorite NFTs instead of committing themselves to join a first mint.
 
-
-September 2021 For more Kraken Intelligence content: **kraken.com/subscribe/intelligence **Page 25
-
-
 Purchases via a NFT marketplace also allow for potential purchasers to see statistics
 
 that can help them get a better sense of how popular the collection is and whether the
@@ -380,26 +243,12 @@ collection has gained or lost value over time. For instance, NFT marketplaces li
 or rarity.tools allow users to track stats such as floor price (lowest price), 24-hour price
 change, 7-day price change, number of owners, number of assets, and trading volume.
 
-
 Those who explore the world of NFTs by browsing through a catalog on the secondary
 market will either come across NFTs that are either part of a much larger collection or
 ecosystem, or represent a unique 1-of-1 piece. For example, Beeple’s “Crossroads” NFT is a
 unique political art piece that isn’t part of any one particular NFT collection and is created
 by Beeple himself. Meanwhile, the alien crypto punk dubbed “#7523”, which sold for nearly
-$12M, is one of 10,000 unique, digitally created avatars that were all released together.51
-
-
-***Figure 15
-***
-
-**Cryptopunk 7523
-**
-
-Source: Larva Labs
-
-
-September 2021 For more Kraken Intelligence content: **kraken.com/subscribe/intelligence **Page 26
-
+$12M, is one of 10,000 unique, digitally created avatars that were all released together.
 
 In any event, these secondary marketplaces are ripe with all sorts of NFTs that appeal to
 individuals of different backgrounds and with varying tastes, as we list below. Please note
@@ -407,9 +256,7 @@ that we do not endorse any single platform or marketplace, as well as the act of
 minting, or engaging with NFTs. The platforms listed below are for illustrative purposes,
 and we strongly urge individuals to carry out their own thorough research.
 
-
-**OpenSea **(**https://opensea.io**)
-
+**OpenSea** (**https://opensea.io**)
 
 An Ethereum-focused NFT marketplace where users can buy, sell, and trade image-based
 NFTs, music NFTs, video NFTs, audio NFTs, and ENS domains. NFTs listed on OpenSea are
@@ -420,9 +267,7 @@ September 2021, OpenSea has more than 300K users, 1M collections, 34M NFTs, and 
 than $4B in volume traded. In 2Q2021, OpenSea raised $100 million in a Series B round led
 by Andreessen Horowitz at a $1.5B valuation.52
 
-
-**Nifty Gateway **(**https://niftygateway.com/about**)
-
+**Nifty Gateway** (**https://niftygateway.com/about**)
 
 Nifty Gateway is a NFT auction that was acquired by crypto exchange Gemini in
 November 2019.53 The platform facilitates NFT purchases for many of the most popular
@@ -436,24 +281,17 @@ their website, “Nifty Gateway lets you display your Nifties, as well as withdr
 external wallets, or deposit Nifties from external wallets into your collection.” Much like
 OpenSea, all NFTs listed on Nifty reside on the Ethereum blockchain.
 
+**Rarible** (**https://rarible.com/rari**)
 
-September 2021 For more Kraken Intelligence content: **kraken.com/subscribe/intelligence **Page 27
-
-
-**Rarible **(**https://rarible.com/rari**)
-
-
-Rarible claims to be the first “community-owned NFT marketplace” and uses its **RARI
-**token, a governance token, to power its community-run platform model. Like others, it
+Rarible claims to be the first “community-owned NFT marketplace” and uses its \*\*RARI
+\*\* token, a governance token, to power its community-run platform model. Like others, it
 
 is a NFT platform at its core where anyone can buy, sell, trade, and mint Ethereum-based
 NFTs. Since its inception, Rarible has continued to place an increasingly greater emphasis
 on becoming a Decentralized Autonomous Organization (DAO) where users will make key
 decisions for the platform.
 
-
-**Mintable **(**https://mintable.app/**)
-
+**Mintable** (**https://mintable.app/**)
 
 Mintable is a NFT marketplace where users can create, buy, and sell ERC-721 NFTs, which
 also include game items, domain names, and templates. Like its peers, Mintable allows
@@ -463,9 +301,7 @@ fees associated with minting NFTs by absorbing the cost.54 Mintable’s “**Sel
 tool can help users get quickly up to speed on how to create, mint, and list their NFTs on
 their platform.
 
-
-**Solanart **(**https://solanart.io/**)
-
+**Solanart** (**https://solanart.io/**)
 
 Solanart is a NFT marketplace that allows users to buy and sell select Solana-based
 
@@ -481,12 +317,7 @@ marketplace on Solana. Today, we broke 1,000,000 SOL in volume, and as SOL break
 that's over $100,000,000 traded on our platform.”55 The most popular NFT collections
 listed on Solanart include Degen Ape Academy, Aurory, and SolPunks.
 
-
-September 2021 For more Kraken Intelligence content: **kraken.com/subscribe/intelligence **Page 28
-
-
-**Singular **(**https://singular.rmrk.app/**)
-
+**Singular** (**https://singular.rmrk.app/**)
 
 Singular is the first NFT marketplace on the Kusama blockchain and was created by
 RMRK, an advanced NFT protocol project that is focused on supporting innovative NFTs.
@@ -502,8 +333,8 @@ ecosystems, they’re also interoperable across various different networks on Ku
 Polkadot. Aside from minting, users can also buy and sell NFTs on the Singular platform.
 
 
-**Making A Purchase
-**
+
+# Making A Purchase
 
 Should you seek to participate in the initial public sale of a NFT collection, or what is also
 known as a “mint,” you will likely need to mint through the collection’s own website. For
@@ -515,7 +346,6 @@ from the website of the marketplace where it is listed. Regardless, you will be 
 fund a digital wallet with the cryptocurrency that is native to the blockchain that the NFT
 exists on, be that ETH, SOL, or KSM.
 
-
 Users who are looking to purchase Ethereum-based NFTs can fund a number of different
 wallets to make their purchase, though the most popular amongst users is MetaMask. For
 Solana-based NFTs, purchases can typically be made using a Phantom wallet. With respect
@@ -524,17 +354,13 @@ other kind of digital wallet, users should do their own research as to which wal
 for them, follow best security practices, and be on the lookout for scams.
 
 
-September 2021 For more Kraken Intelligence content: **kraken.com/subscribe/intelligence **Page 29
 
-
-**Interacting With Your NFT
-**
+# Interacting With Your NFT
 
 After a NFT has been bought and paid for, the token will appear in the same wallet that
 was used to purchase the NFT. Depending on the legal rights that come with the purchase,
 there are a number of different things that can be done with the NFT besides it sitting in
 your wallet or relisting it.
-
 
 If the NFT in question represents ownership of a digital image, video, or audio, its owner
 may have distribution rights and can use the corresponding image, video, or audio file
@@ -554,7 +380,6 @@ display in partnership with NFT marketplace SuperRare and L.A.-based media and d
 firm StandardVision.58 Owners of the digital NFT may ultimately decide to bring their NFT
 to life so they can appreciate it both in the physical and digital world.
 
-
 NFTs can also be experienced in the metaverse, or what is an immersive digital
 environment where people interact as avatars. If the NFT purchased is part of a video
 game or specific web application, it can then be used within that respective ecosystem.
@@ -562,10 +387,6 @@ But more often than not, NFTs in the form of images or videos are shared on soci
 platforms and are used as profile pictures and avatars. For instance, in August 2021, NBA
 superstar Stephen Curry purchased a Bored Ape Yacht Club NFT and promptly set it as his
 profile picture on Twitter.59
-
-
-September 2021 For more Kraken Intelligence content: **kraken.com/subscribe/intelligence **Page 30
-
 
 NFTs can also be put on display as part of a digital collection. As noted earlier, Lazy.
 
@@ -586,4 +407,4 @@ platform Showtime. The platform enables both creators and collectors to showcase
 their digital art for free, in addition to allowing users to follow creators and collectors,
 browse personalized news feeds, discover trending NFTs, and engage with artists directly.
 In May 2021, the platform raised nearly $8M in a funding round that was led by crypto
-investment firm Paradigm and DJ 3LAU.62
+investment firm Paradigm and DJ 3LAU.
