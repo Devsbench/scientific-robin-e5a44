@@ -101,7 +101,7 @@ In recent years, ERC-1155, also known as the Multi Token Standard, has become a 
 
 **Benefits:** Similar to ERC-20 (most common/popular ERC standard) in functionality. This means it's easier for developers to make the transition to the ERC-721 standard, and easier for users to store the token in their normal wallets.
 
-**Limitations: **A separate code, or smart contract, is required for each non-fungible token that is created. Each token transferred must be executed through a new, separate transaction. For instance, if 5 NFTs were to be transferred, there must be 5 different transactions executed. This would result in higher transaction fees and time.
+\*\*Limitations:\*\* A separate code, or smart contract, is required for each non-fungible token that is created. Each token transferred must be executed through a new, separate transaction. For instance, if 5 NFTs were to be transferred, there must be 5 different transactions executed. This would result in higher transaction fees and time.
 
 # ERC-1155
 
