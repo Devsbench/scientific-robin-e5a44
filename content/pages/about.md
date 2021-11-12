@@ -3,7 +3,7 @@ title: About Us
 subtitle: >-
   Blockchain Engineers, Backend and Frontend Developer, Designers, QAs and
   DevOps
-image: images/Untitled design (12).png
+image: images/Untitled design (8).png
 image_alt: Team members in a conference room
 seo:
   title: About Us
