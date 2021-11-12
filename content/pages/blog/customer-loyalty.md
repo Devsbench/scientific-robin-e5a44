@@ -6,7 +6,7 @@ excerpt: >-
   Redefining Digital Scarcity. At a basic level, an NFT is a digital asset that
   links ownership to unique physical or digital items, such as works of art,
   real estate, music, or videos.
-date: '2021-11-05'
+date: '2021-11-01'
 thumb_image: images/Screenshot 2021-11-06 at 21.50.26.png
 thumb_image_alt: A group of people working in a cafe
 image: images/Screenshot 2021-11-06 at 21.57.00-0a1c63e7.png
