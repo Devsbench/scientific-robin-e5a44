@@ -227,142 +227,53 @@ characters within the game.
 
 # Where to Buy or Mint NFTs
 
-While many have heard of NFTs and seem to know a thing or two about them,
+While many have heard of NFTs and seem to know a thing or two about them, there remains confusion on how to make a purchase or where to begin. Aside from participating in NFT mints, or the public sale of a NFT collection, others can turn to secondary marketplaces where NFTs are exchanged in auctions. Because high-profile NFT collections are almost instantly sold out once available for mint, many turn to secondary marketplaces to buy these NFTs. Some prefer to browse NFT marketplaces to selectively shop around for their favorite NFTs instead of committing themselves to join a first mint.
 
-there remains confusion on how to make a purchase or where to begin. Aside from
-participating in NFT mints, or the public sale of a NFT collection, others can turn to
-secondary marketplaces where NFTs are exchanged in auctions. Because high-profile NFT
-collections are almost instantly sold out once available for mint, many turn to secondary
-marketplaces to buy these NFTs. Some prefer to browse NFT marketplaces to selectively
-shop around for their favorite NFTs instead of committing themselves to join a first mint.
+Purchases via a NFT marketplace also allow for potential purchasers to see statistics that can help them get a better sense of how popular the collection is and whether the collection has gained or lost value over time. For instance, NFT marketplaces like OpenSea or rarity.tools allow users to track stats such as floor price (lowest price), 24-hour price change, 7-day price change, number of owners, number of assets, and trading volume.
 
-Purchases via a NFT marketplace also allow for potential purchasers to see statistics
+Those who explore the world of NFTs by browsing through a catalog on the secondary market will either come across NFTs that are either part of a much larger collection or ecosystem, or represent a unique 1-of-1 piece. For example, Beeple’s “Crossroads” NFT is a unique political art piece that isn’t part of any one particular NFT collection and is created by Beeple himself. Meanwhile, the alien crypto punk dubbed “#7523”, which sold for nearly $12M, is one of 10,000 unique, digitally created avatars that were all released together.
 
-that can help them get a better sense of how popular the collection is and whether the
-collection has gained or lost value over time. For instance, NFT marketplaces like OpenSea
-or rarity.tools allow users to track stats such as floor price (lowest price), 24-hour price
-change, 7-day price change, number of owners, number of assets, and trading volume.
-
-Those who explore the world of NFTs by browsing through a catalog on the secondary
-market will either come across NFTs that are either part of a much larger collection or
-ecosystem, or represent a unique 1-of-1 piece. For example, Beeple’s “Crossroads” NFT is a
-unique political art piece that isn’t part of any one particular NFT collection and is created
-by Beeple himself. Meanwhile, the alien crypto punk dubbed “#7523”, which sold for nearly
-$12M, is one of 10,000 unique, digitally created avatars that were all released together.
-
-In any event, these secondary marketplaces are ripe with all sorts of NFTs that appeal to
-individuals of different backgrounds and with varying tastes, as we list below. Please note
-that we do not endorse any single platform or marketplace, as well as the act of buying,
-minting, or engaging with NFTs. The platforms listed below are for illustrative purposes,
-and we strongly urge individuals to carry out their own thorough research.
+In any event, these secondary marketplaces are ripe with all sorts of NFTs that appeal to individuals of different backgrounds and with varying tastes, as we list below. Please note that we do not endorse any single platform or marketplace, as well as the act of buying, minting, or engaging with NFTs. The platforms listed below are for illustrative purposes, and we strongly urge individuals to carry out their own thorough research.
 
 **OpenSea** (**https://opensea.io**)
 
-An Ethereum-focused NFT marketplace where users can buy, sell, and trade image-based
-NFTs, music NFTs, video NFTs, audio NFTs, and ENS domains. NFTs listed on OpenSea are
-either Ethereum ERC-721 or ERC-1155 tokens, which can verify and track ownership of a
-particular digital and/or physical item. OpenSea was founded in 2017 after its founders
-saw the explosive growth and potential of NFTs following the birth of CryptoKitties. As of
-September 2021, OpenSea has more than 300K users, 1M collections, 34M NFTs, and more
-than $4B in volume traded. In 2Q2021, OpenSea raised $100 million in a Series B round led
-by Andreessen Horowitz at a $1.5B valuation.52
+An Ethereum-focused NFT marketplace where users can buy, sell, and trade image-based NFTs, music NFTs, video NFTs, audio NFTs, and ENS domains. NFTs listed on OpenSea are either Ethereum ERC-721 or ERC-1155 tokens, which can verify and track ownership of a particular digital and/or physical item. OpenSea was founded in 2017 after its founders saw the explosive growth and potential of NFTs following the birth of CryptoKitties. As of September 2021, OpenSea has more than 300K users, 1M collections, 34M NFTs, and more than $4B in volume traded. In 2Q2021, OpenSea raised $100 million in a Series B round led by Andreessen Horowitz at a $1.5B valuation.52
 
 **Nifty Gateway** (**https://niftygateway.com/about**)
 
-Nifty Gateway is a NFT auction that was acquired by crypto exchange Gemini in
-November 2019.53 The platform facilitates NFT purchases for many of the most popular
-crypto games and applications, such as OpenSea, Gods Unchained, and CryptoKitties.
-Nifty Gateway allows users to purchase NFTs with their credit card. In addition to
-teaming up with artists and brands to create limited edition NFTs, also known as Nifties,
-that are exclusively for sale on their platform, the platform aims to drop new, limited
-collections roughly every 3 weeks. After the initial drop for a collection closes or sells
-out, users can purchase nifties from that collection in the marketplace. According to
-their website, “Nifty Gateway lets you display your Nifties, as well as withdraw them to
-external wallets, or deposit Nifties from external wallets into your collection.” Much like
-OpenSea, all NFTs listed on Nifty reside on the Ethereum blockchain.
+Nifty Gateway is a NFT auction that was acquired by crypto exchange Gemini in November 2019.53 The platform facilitates NFT purchases for many of the most popular crypto games and applications, such as OpenSea, Gods Unchained, and CryptoKitties. Nifty Gateway allows users to purchase NFTs with their credit card. In addition to teaming up with artists and brands to create limited edition NFTs, also known as Nifties,
+that are exclusively for sale on their platform, the platform aims to drop new, limited collections roughly every 3 weeks. After the initial drop for a collection closes or sells out, users can purchase nifties from that collection in the marketplace. According to their website, “Nifty Gateway lets you display your Nifties, as well as withdraw them to external wallets, or deposit Nifties from external wallets into your collection.” Much like OpenSea, all NFTs listed on Nifty reside on the Ethereum blockchain.
 
 **Rarible** (**https://rarible.com/rari**)
 
-Rarible claims to be the first “community-owned NFT marketplace” and uses its \*\*RARI
-\*\* token, a governance token, to power its community-run platform model. Like others, it
-
-is a NFT platform at its core where anyone can buy, sell, trade, and mint Ethereum-based
-NFTs. Since its inception, Rarible has continued to place an increasingly greater emphasis
-on becoming a Decentralized Autonomous Organization (DAO) where users will make key
-decisions for the platform.
+Rarible claims to be the first “community-owned NFT marketplace” and uses its RARI token, a governance token, to power its community-run platform model. Like others, it is a NFT platform at its core where anyone can buy, sell, trade, and mint Ethereum-based NFTs. Since its inception, Rarible has continued to place an increasingly greater emphasis on becoming a Decentralized Autonomous Organization (DAO) where users will make key decisions for the platform.
 
 **Mintable** (**https://mintable.app/**)
 
-Mintable is a NFT marketplace where users can create, buy, and sell ERC-721 NFTs, which
-also include game items, domain names, and templates. Like its peers, Mintable allows
-users to manage their digital assets and browse other digital items that are listed on
-their marketplace. But unlike other Ethereum NFT marketplaces, Mintable removes “gas”
-fees associated with minting NFTs by absorbing the cost.54 Mintable’s “**Sellers University**”
-tool can help users get quickly up to speed on how to create, mint, and list their NFTs on
-their platform.
+Mintable is a NFT marketplace where users can create, buy, and sell ERC-721 NFTs, which also include game items, domain names, and templates. Like its peers, Mintable allows users to manage their digital assets and browse other digital items that are listed on their marketplace. But unlike other Ethereum NFT marketplaces, Mintable removes “gas” fees associated with minting NFTs by absorbing the cost.54 Mintable’s “**Sellers University**” tool can help users get quickly up to speed on how to create, mint, and list their NFTs on their platform.
 
 **Solanart** (**https://solanart.io/**)
 
-Solanart is a NFT marketplace that allows users to buy and sell select Solana-based
-
-NFT collections. While users benefit from Solana’s fast and low-cost transactions, the
-platform currently only supports a limited number of preexisting art and video game
-
-NFT collections. Per their website, “Solanart aims to help promote artists and creators
-
-by providing them with a trustless marketplace to share their art.“ On August 30,
-
-2021, Solanart tweeted, “Almost two months ago, we launched Solanart, the first NFT
-marketplace on Solana. Today, we broke 1,000,000 SOL in volume, and as SOL breaks $100,
-that's over $100,000,000 traded on our platform.”55 The most popular NFT collections
-listed on Solanart include Degen Ape Academy, Aurory, and SolPunks.
+Solanart is a NFT marketplace that allows users to buy and sell select Solana-based NFT collections. While users benefit from Solana’s fast and low-cost transactions, the platform currently only supports a limited number of preexisting art and video game NFT collections. Per their website, “Solanart aims to help promote artists and creators by providing them with a trustless marketplace to share their art.“ On August 30, 2021, Solanart tweeted, “Almost two months ago, we launched Solanart, the first NFT marketplace on Solana. Today, we broke 1,000,000 SOL in volume, and as SOL breaks $100, that's over $100,000,000 traded on our platform.”55 The most popular NFT collections listed on Solanart include Degen Ape Academy, Aurory, and SolPunks.
 
 **Singular** (**https://singular.rmrk.app/**)
 
-Singular is the first NFT marketplace on the Kusama blockchain and was created by
-RMRK, an advanced NFT protocol project that is focused on supporting innovative NFTs.
-In June 2021, RMRK announced that it raised $6M to build the standard cross-chain
-
-NFT infrastructure for the Polkadot and Kusama ecosystem.56 Because of Kusama’s
-architecture, users only have to pay a few cents to mint a NFT.57 Users can also mint
-upgradable NFTs, or where an NFT can owns another NFT (e.g., an in-game character
-owns an in-game item), and smart NFTs with multi-resource capability that enable them
-to be presented in more than one file format (a PDF, JPEG, MP3, etc.). Because all mints on
-Singular can be teleported to any Substrate-based chain in the Kusama and Polkadot
-ecosystems, they’re also interoperable across various different networks on Kusama or
+Singular is the first NFT marketplace on the Kusama blockchain and was created by RMRK, an advanced NFT protocol project that is focused on supporting innovative NFTs. In June 2021, RMRK announced that it raised $6M to build the standard cross-chain NFT infrastructure for the Polkadot and Kusama ecosystem.56 Because of Kusama’s architecture, users only have to pay a few cents to mint a NFT.57 Users can also mint
+upgradable NFTs, or where an NFT can owns another NFT (e.g., an in-game character owns an in-game item), and smart NFTs with multi-resource capability that enable them to be presented in more than one file format (a PDF, JPEG, MP3, etc.). Because all mints on Singular can be teleported to any Substrate-based chain in the Kusama and Polkadot ecosystems, they’re also interoperable across various different networks on Kusama or
 Polkadot. Aside from minting, users can also buy and sell NFTs on the Singular platform.
 
 # Making A Purchase
 
-Should you seek to participate in the initial public sale of a NFT collection, or what is also
-known as a “mint,” you will likely need to mint through the collection’s own website. For
-details on how, where, and when to mint, it's best to reference details on the collection’s
-website and/or join one of their social media/messaging platforms (Twitter, Telegram,
-Discord, etc.) to learn more. On the other hand, if you have already found a NFT on a
-secondary marketplace that has piqued your interest, you will need to make the purchase
-from the website of the marketplace where it is listed. Regardless, you will be required to
-fund a digital wallet with the cryptocurrency that is native to the blockchain that the NFT
-exists on, be that ETH, SOL, or KSM.
+Should you seek to participate in the initial public sale of a NFT collection, or what is also known as a “mint,” you will likely need to mint through the collection’s own website. For details on how, where, and when to mint, it's best to reference details on the collection’s website and/or join one of their social media/messaging platforms (Twitter, Telegram, Discord, etc.) to learn more. On the other hand, if you have already found a NFT on a
+secondary marketplace that has piqued your interest, you will need to make the purchase from the website of the marketplace where it is listed. Regardless, you will be required to fund a digital wallet with the cryptocurrency that is native to the blockchain that the NFT exists on, be that ETH, SOL, or KSM.
 
-Users who are looking to purchase Ethereum-based NFTs can fund a number of different
-wallets to make their purchase, though the most popular amongst users is MetaMask. For
-Solana-based NFTs, purchases can typically be made using a Phantom wallet. With respect
-to Kusama and Polkadot-based NFTs, a Polkadot.js wallet can be funded. Much like any
-other kind of digital wallet, users should do their own research as to which wallet is best
-for them, follow best security practices, and be on the lookout for scams.
+Users who are looking to purchase Ethereum-based NFTs can fund a number of different wallets to make their purchase, though the most popular amongst users is MetaMask. For Solana-based NFTs, purchases can typically be made using a Phantom wallet. With respect to Kusama and Polkadot-based NFTs, a Polkadot.js wallet can be funded. Much like any other kind of digital wallet, users should do their own research as to which wallet is best for them, follow best security practices, and be on the lookout for scams.
 
 # Interacting With Your NFT
 
-After a NFT has been bought and paid for, the token will appear in the same wallet that
-was used to purchase the NFT. Depending on the legal rights that come with the purchase,
-there are a number of different things that can be done with the NFT besides it sitting in
-your wallet or relisting it.
+After a NFT has been bought and paid for, the token will appear in the same wallet that was used to purchase the NFT. Depending on the legal rights that come with the purchase, there are a number of different things that can be done with the NFT besides it sitting in your wallet or relisting it.
 
-If the NFT in question represents ownership of a digital image, video, or audio, its owner
-may have distribution rights and can use the corresponding image, video, or audio file for commercial purposes. However, because most NFTs do not include distribution rights, they can be brought to life in the physical world. Some may decide to print out their NFT on a poster board, clothing, or other physical goods. Not only that, digital picture frames can also be purchased to have NFTs on display, much like a normal picture frame would display traditional art pieces. Qonos is one of many purpose-built digital display picture frames for NFT art and collectibles. Per the company’s website, their display is “the world’s first custom digital frame for NFT art and collectibles.” Their displays include motion and proximity sensors, stereo output speakers and are customizable for images, GIFs, video, and full webpages. To some, the idea of putting digital art on display instead of physical art is novel and met with skepticism. However, NFT art galleries are on the rise and are becoming a popular part of modern culture. In July, L.A. Art Show had its first NFT art display in partnership with NFT marketplace SuperRare and L.A.-based media and design
-firm StandardVision.58 Owners of the digital NFT may ultimately decide to bring their NFT to life so they can appreciate it both in the physical and digital world.
-
-NFTs can also be experienced in the metaverse, or what is an immersive digital environment where people interact as avatars. If the NFT purchased is part of a video game or specific web application, it can then be used within that respective ecosystem. But more often than not, NFTs in the form of images or videos are shared on social media platforms and are used as profile pictures and avatars. For instance, in August 2021, NBA superstar Stephen Curry purchased a Bored Ape Yacht Club NFT and promptly set it as his profile picture on Twitter.59
+If the NFT in question represents ownership of a digital image, video, or audio, its owner may have distribution rights and can use the corresponding image, video, or audio file for commercial purposes. However, because most NFTs do not include distribution rights, they can be brought to life in the physical world. Some may decide to print out their NFT on a poster board, clothing, or other physical goods. Not only that, digital picture frames can also be purchased to have NFTs on display, much like a normal picture frame would display traditional art pieces. Qonos is one of many purpose-built digital display picture frames for NFT art and collectibles. Per the company’s website, their display is “the world’s first custom digital frame for NFT art and collectibles.” Their displays include motion and proximity sensors, stereo output speakers and are customizable for images, GIFs, video, and full webpages. To some, the idea of putting digital art on display instead of physical art is novel and met with skepticism. However, NFT art galleries are on the rise and are becoming a popular part of modern culture. In July, L.A. Art Show had its first NFT art display in partnership with NFT marketplace SuperRare and L.A.-based media and design firm StandardVision.58 Owners of the digital NFT may ultimately decide to bring their NFT to life so they can appreciate it both in the physical and digital world. NFTs can also be experienced in the metaverse, or what is an immersive digital environment where people interact as avatars. If the NFT purchased is part of a video game or specific web application, it can then be used within that respective ecosystem. But more often than not, NFTs in the form of images or videos are shared on social media platforms and are used as profile pictures and avatars. For instance, in August 2021, NBA superstar Stephen Curry purchased a Bored Ape Yacht Club NFT and promptly set it as his profile picture on Twitter.
 
 NFTs can also be put on display as part of a digital collection. As noted earlier, Lazy.com is a digital art gallery founded by Mark Cuban, where anyone can create a Lazy landing page to display their NFTs on the Internet.60 Unlike posting on social media or sharing directly with friends, Lazy offers its users a go-to centralized landing page where a user’s Ethereum NFT collection can be displayed on a single web page. Users can add, remove, and shift around NFTs on their Lazy page to their liking. Similarly, the Nametag extension is a web browser extension tool that allows its users to view NFT collections of other Nametag users by simply visiting a Twitter profile page. Like Lazy, this allows easy access to NFT collections and allows for owners to share their NFTs with the rest of the world. Alternatively, if putting NFTs on display through traditional social media platforms doesn’t spark an owner’s interest, they can also join NFT social media platform Showtime. The platform enables both creators and collectors to showcase their digital art for free, in addition to allowing users to follow creators and collectors, browse personalized news feeds, discover trending NFTs, and engage with artists directly. In May 2021, the platform raised nearly $8M in a funding round that was led by crypto
 investment firm Paradigm and DJ 3LAU.
