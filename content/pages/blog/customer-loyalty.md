@@ -332,8 +332,6 @@ Singular can be teleported to any Substrate-based chain in the Kusama and Polkad
 ecosystems, they’re also interoperable across various different networks on Kusama or
 Polkadot. Aside from minting, users can also buy and sell NFTs on the Singular platform.
 
-
-
 # Making A Purchase
 
 Should you seek to participate in the initial public sale of a NFT collection, or what is also
@@ -353,8 +351,6 @@ to Kusama and Polkadot-based NFTs, a Polkadot.js wallet can be funded. Much like
 other kind of digital wallet, users should do their own research as to which wallet is best
 for them, follow best security practices, and be on the lookout for scams.
 
-
-
 # Interacting With Your NFT
 
 After a NFT has been bought and paid for, the token will appear in the same wallet that
@@ -363,48 +359,10 @@ there are a number of different things that can be done with the NFT besides it 
 your wallet or relisting it.
 
 If the NFT in question represents ownership of a digital image, video, or audio, its owner
-may have distribution rights and can use the corresponding image, video, or audio file
+may have distribution rights and can use the corresponding image, video, or audio file for commercial purposes. However, because most NFTs do not include distribution rights, they can be brought to life in the physical world. Some may decide to print out their NFT on a poster board, clothing, or other physical goods. Not only that, digital picture frames can also be purchased to have NFTs on display, much like a normal picture frame would display traditional art pieces. Qonos is one of many purpose-built digital display picture frames for NFT art and collectibles. Per the company’s website, their display is “the world’s first custom digital frame for NFT art and collectibles.” Their displays include motion and proximity sensors, stereo output speakers and are customizable for images, GIFs, video, and full webpages. To some, the idea of putting digital art on display instead of physical art is novel and met with skepticism. However, NFT art galleries are on the rise and are becoming a popular part of modern culture. In July, L.A. Art Show had its first NFT art display in partnership with NFT marketplace SuperRare and L.A.-based media and design
+firm StandardVision.58 Owners of the digital NFT may ultimately decide to bring their NFT to life so they can appreciate it both in the physical and digital world.
 
-for commercial purposes. However, because most NFTs do not include distribution rights,
-they can be brought to life in the physical world. Some may decide to print out their NFT
-on a poster board, clothing, or other physical goods. Not only that, digital picture frames
-can also be purchased to have NFTs on display, much like a normal picture frame would
-display traditional art pieces. Qonos is one of many purpose-built digital display picture
-frames for NFT art and collectibles. Per the company’s website, their display is “the world’s
-first custom digital frame for NFT art and collectibles.” Their displays include motion and
-proximity sensors, stereo output speakers and are customizable for images, GIFs, video,
-and full webpages. To some, the idea of putting digital art on display instead of physical
-art is novel and met with skepticism. However, NFT art galleries are on the rise and are
-becoming a popular part of modern culture. In July, L.A. Art Show had its first NFT art
-display in partnership with NFT marketplace SuperRare and L.A.-based media and design
-firm StandardVision.58 Owners of the digital NFT may ultimately decide to bring their NFT
-to life so they can appreciate it both in the physical and digital world.
+NFTs can also be experienced in the metaverse, or what is an immersive digital environment where people interact as avatars. If the NFT purchased is part of a video game or specific web application, it can then be used within that respective ecosystem. But more often than not, NFTs in the form of images or videos are shared on social media platforms and are used as profile pictures and avatars. For instance, in August 2021, NBA superstar Stephen Curry purchased a Bored Ape Yacht Club NFT and promptly set it as his profile picture on Twitter.59
 
-NFTs can also be experienced in the metaverse, or what is an immersive digital
-environment where people interact as avatars. If the NFT purchased is part of a video
-game or specific web application, it can then be used within that respective ecosystem.
-But more often than not, NFTs in the form of images or videos are shared on social media
-platforms and are used as profile pictures and avatars. For instance, in August 2021, NBA
-superstar Stephen Curry purchased a Bored Ape Yacht Club NFT and promptly set it as his
-profile picture on Twitter.59
-
-NFTs can also be put on display as part of a digital collection. As noted earlier, Lazy.
-
-com is a digital art gallery founded by Mark Cuban, where anyone can create a Lazy
-landing page to display their NFTs on the Internet.60 Unlike posting on social media
-
-or sharing directly with friends, Lazy offers its users a go-to centralized landing page
-where a user’s Ethereum NFT collection can be displayed on a single web page. Users
-
-can add, remove, and shift around NFTs on their Lazy page to their liking. Similarly, the
-Nametag extension is a web browser extension tool that allows its users to view NFT
-collections of other Nametag users by simply visiting a Twitter profile page.61 Like Lazy,
-this allows easy access to NFT collections and allows for owners to share their NFTs with
-the rest of the world. Alternatively, if putting NFTs on display through traditional social
-media platforms doesn’t spark an owner’s interest, they can also join NFT social media
-platform Showtime. The platform enables both creators and collectors to showcase
-
-their digital art for free, in addition to allowing users to follow creators and collectors,
-browse personalized news feeds, discover trending NFTs, and engage with artists directly.
-In May 2021, the platform raised nearly $8M in a funding round that was led by crypto
+NFTs can also be put on display as part of a digital collection. As noted earlier, Lazy.com is a digital art gallery founded by Mark Cuban, where anyone can create a Lazy landing page to display their NFTs on the Internet.60 Unlike posting on social media or sharing directly with friends, Lazy offers its users a go-to centralized landing page where a user’s Ethereum NFT collection can be displayed on a single web page. Users can add, remove, and shift around NFTs on their Lazy page to their liking. Similarly, the Nametag extension is a web browser extension tool that allows its users to view NFT collections of other Nametag users by simply visiting a Twitter profile page. Like Lazy, this allows easy access to NFT collections and allows for owners to share their NFTs with the rest of the world. Alternatively, if putting NFTs on display through traditional social media platforms doesn’t spark an owner’s interest, they can also join NFT social media platform Showtime. The platform enables both creators and collectors to showcase their digital art for free, in addition to allowing users to follow creators and collectors, browse personalized news feeds, discover trending NFTs, and engage with artists directly. In May 2021, the platform raised nearly $8M in a funding round that was led by crypto
 investment firm Paradigm and DJ 3LAU.
