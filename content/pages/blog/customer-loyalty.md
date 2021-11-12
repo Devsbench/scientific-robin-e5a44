@@ -141,16 +141,11 @@ Looking to 2020, when sorted by sales count, the gaming sector came out on top w
 Beyond marketplaces and infrastructure platforms, wallets have also begun integrating NFT-related services in an attempt to make them more approachable for users. Wallets such as Metamask, Pillar, Alphawallet, and Argent are among those that have made it easier to trade and securely keep track of purchased NFTs alongside cryptoassets. Some crypto wallets are specifically designed or optimized for NFTs and have features enabled to allow for easier organization of NFTs held.
 The NFT art frenzy of 2021 aided in the boom of NFT platforms and infrastructure as well as artists. Much like crypto transforming legacy financial markets, NFT art brought down barriers to the art world. Anyone with an art piece to offer can join NFT markets, which aren’t restricted to established artists. As a result, the industry saw a flurry of digital creators join the trade. At its height, as NFTs began expanding to other products such as collectibles, well-known celebrities also began creating and actively trading NFTs.
 
-
-
 # Transformative power of NFTs
 
 NFTs can theoretically have an endless application. Anything from physical products to cultural experiences to historical moments can be captured into a token in the current static form and eventually a dynamic NFT.47 With verifiable ownership on the blockchain, participants can have universally recognized ownership of a purchase. This level of assurance and guarantee awarded to an owner of a NFT has the potential to make markets more transparent. In addition, given the expansion of marketplaces and UX improvements for NFT apps, the barrier to entry is becoming lower and more accessible to global participants.
 
 The industry continues to break new ground and go mainstream, with platforms like Twitter pursuing NFT authentication support through badges that would mark users’ NFTs as authentic.48 Yet many still worry about the future of the NFT market. Is it a gold rush? Or is it here to stay? We look at the pros and cons of NFTs as it stands today, to consolidate the perspectives of both skeptics and believers in the space.
-
-
-					
 
 ## **Pros and Cons of NFTs&#xA;**
 
@@ -160,7 +155,6 @@ The industry continues to break new ground and go mainstream, with platforms lik
     NFT can protect and claim their work in a way that
     is globally recognizable; creators will be credited
     every time their work is utilized.
-
 
 <!---->
 
@@ -172,32 +166,26 @@ The industry continues to break new ground and go mainstream, with platforms lik
     the benefit of payment (% of sale) every time the
     NFT is sold and re-sold (ie. NFT art).
 
-
 *   Verifiable ownership: creators and/or holders of
     NFTs can claim irrefutable ownership backed by
     the blockchain.
 
-
-**Cons
-**
+\*\*Cons\*\*
 
 *   Practicality: Physical art vs. digital art—with
     digitized artwork, the copy is identical to
     the original. This raises the question of the
     usefulness and value of owning a NFT.
 
-
 *   Value erosion from duplicates: a creator can
     choose to sell more than one copy of the exact
     same NFT without a limit on total number
     created and distributed.
 
-
 *   Hype-based market: the value of a NFT is in the
     eye of the beholder(s). New or current wave of
     entrants could deem a NFT unvaluable and the
     market could quickly dwindle.
-
 
 *   Regulatory uncertainty: current regulatory
     and legal environments are not designed
