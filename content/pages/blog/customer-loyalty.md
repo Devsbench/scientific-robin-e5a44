@@ -99,9 +99,9 @@ In recent years, ERC-1155, also known as the Multi Token Standard, has become a 
 
 # ERC-721
 
-**Benefits: **Similar to ERC-20 (most common/popular ERC standard) in functionality. This means it's easier for developers to make the transition to the ERC-721 standard, and easier for users to store the token in their normal wallets.
+**Benefits:** Similar to ERC-20 (most common/popular ERC standard) in functionality. This means it's easier for developers to make the transition to the ERC-721 standard, and easier for users to store the token in their normal wallets.
 
-**Limitations: **A separate code, or smart contract, is required for each non-fungible token that is created. Each token transferred must be executed through a new, separate transaction. For instance, if 5 NFTs were to be transferred, there must be 5 different transactions executed. This would result in higher transaction fees and time.
+\*\*Limitations:\*\* A separate code, or smart contract, is required for each non-fungible token that is created. Each token transferred must be executed through a new, separate transaction. For instance, if 5 NFTs were to be transferred, there must be 5 different transactions executed. This would result in higher transaction fees and time.
 
 # ERC-1155
 
@@ -111,26 +111,20 @@ all other smart contracts. This results in
 smart contracts re-using the code from the central smart contract, in order to eliminate unnecessary repetition of codes. This reduces storage space and gas waste from processing the common code each time.
 • It supports batch transfers, which is multiple types of tokens being transferred in a single transaction. This results in lower transaction costs alongside greater overall transaction speed and network efficiency.
 
-While most of the current NFT market runs on the Ethereum blockchain, alternative layer 1 networks are competing for a greater share of the market. Solana and Cardano are among some of the networks that are competing with Ethereum-backed NFT marketplaces and expanding the NFT ecosystem. For instance, the Solana Foundation, in partnership with music platform Audius and NFT market builder Metaplex, announced the launch of a $5M Creator Fund to boost Solana’s NFT ecosystem.22 The fund was created to spur innovation on the network from artists, musicians, NFT projects, and metaverse builders. Similarly, Cardano is becoming a popular network on which to build a NFT marketplace. The Cardano network is scalable, interoperable, and enjoys relatively higher transaction speed with its Proof-of-Stake consensus mechanism. Projects such as Cardano Kidz, Spacebudz, Professor Cardano, LoveADA, and Somint are among some of the projects created on Cardano that are quickly gaining traction and interest from the broader NFT user community. As the number of NFT projects grows and the diversity of blockchains underlying NFT platforms expands, it’s possible there will be a shift from Ethereum onto various different blockchains that are optimized for NFT capabilities.	
+While most of the current NFT market runs on the Ethereum blockchain, alternative layer 1 networks are competing for a greater share of the market. Solana and Cardano are among some of the networks that are competing with Ethereum-backed NFT marketplaces and expanding the NFT ecosystem. For instance, the Solana Foundation, in partnership with music platform Audius and NFT market builder Metaplex, announced the launch of a $5M Creator Fund to boost Solana’s NFT ecosystem.22 The fund was created to spur innovation on the network from artists, musicians, NFT projects, and metaverse builders. Similarly, Cardano is becoming a popular network on which to build a NFT marketplace. The Cardano network is scalable, interoperable, and enjoys relatively higher transaction speed with its Proof-of-Stake consensus mechanism. Projects such as Cardano Kidz, Spacebudz, Professor Cardano, LoveADA, and Somint are among some of the projects created on Cardano that are quickly gaining traction and interest from the broader NFT user community. As the number of NFT projects grows and the diversity of blockchains underlying NFT platforms expands, it’s possible there will be a shift from Ethereum onto various different blockchains that are optimized for NFT capabilities.
 
-
-
-# Value	
-
+# Value
 
 At a glance, the value of NFTs may not be as clear, especially if the NFT has no immediate utility. For instance, art NFTs may seem to be nothing other than a digitized piece of art that can be exactly duplicated and owned. After all, if an individual buys the right to make legitimate copies of a digital art piece, what is then the value of the original digital art? While the value of a NFT may vary depending on the asset which the NFT represents, in the case of art or collectibles, we believe the value is derived from the status of originating ownership. While art pieces or visual collectibles may not have the most obvious or immediate physical utility, the ownership history or ownership status that is provable and immutable on a blockchain gives it value. In the long run, if art pieces trade hands and are passed on for generations, the latest owner will be able to prove the authenticity of the piece. This provable ownership can be applied not only to art pieces but also to goods that are protected with copyrights. Verifiable ownership is the main value driver for NFT collectors and users alike.
 
 While the recent wave of NFTs has taken off with NFT art and collectibles, the application is truly endless and has far reaching implications with the digitized world we live in today. This is particularly the case as younger generations interact moreso online than offline. The notion of digital scarcity and digital identity is at the forefront of this generational shift, where people are learning to place value on digital identity and reputation more than ever before. This isn’t attributable solely to art or music becoming digitized, but even social interactions or personal thoughts jotted down on a blog or on Twitter. This is where the transformative power of NFTs and digital footprint takes hold at a macro level. With NFTs, a blockchain can track every interaction or connection to ever occur on digital content. This results in a direct connection between the creator of content with the user. This means that the intrinsic value of interaction is baked into the creation or content itself and individuals will begin to demand ownership of their digital content.
 
-
 As it stands currently, platforms that connect creators to users have a monopoly on the content that is distributed. The users access a copy of the content, and the creators do not necessarily own the content themselves. Creators are no more than a renter of the content and users are granted permission to view the content in an app, which takes profit for the viewership. This leaves us with the realization—do creators actually own any of their digital content online? While the illusion of ownership makes it seem they do, the real answer is no. Media platforms reap profits from their users and content creators are paid less for the quality of their content and more for the attention, and the duration of the attention it can garner. Media platforms make significant profit from creators by retaining the distribution channels to disseminate content to a wider audience.
-
 
 Under this hierarchy, creators are challenged to profit directly from their own creations. This is an example where NFTs can step in to create value. While current media outlets such as YouTube, Instagram, TikTok, and others have the ability to garner attention surrounding distributed content, there is a lack of claimed ownership or even scarcity. Imagine a NFT that can grant access to a TikTok video or Instagram post. Access is controlled by the NFT owner and/or creator of the content. Content creators will have the ability to generate direct revenue and the platforms acting as middlemen may cease to exist. Much like crypto, NFTs have the power to cut out third parties as value is programmed into the asset/content.
 This leads us to the question - how would creators generate direct revenue? One way is through royalties. NFT royalties allow artists or content creators to receive a percentage of secondary sales. Each time a NFT is sold or changes hands, the smart contract will automatically trigger and execute royalty payments to the identified creator or author
 of the work.23 While royalty systems can differ by platform, some marketplaces will allow the creator to choose the royalty percentage when minting the NFT. A 5%–10% cut of the sale is considered a standard payment.24 It should be noted that NFTs are not automatically royalty-yielding and terms must be clearly written into a smart contract should creators wish to receive a recurring cut of secondary sales. Creators also have
 the option of selling a percentage of the underlying copyrights to an NFT, which would grant the buyer a portion of the royalties earned.25 This is the unique and unprecedented proposition offered by NFTs, where artists and creators can maximize earnings on their creations. While traditionally creators didn’t have a proper way to monetize their work post-initial sale, the NFT royalty system can generate perpetual returns especially with an increase in popularity of their work.
-
 
 While conceptually, NFTs are game-changing and valuable because of the decentralized and permanent provable ownership of a service or product, it’s important to note that under the current ecosystem, many NFTs may be more centralized than imagined. Typically with NFTs, the token itself is stored on a blockchain (i.e., on-chain) but the corresponding content or art is stored off-chain due to the costs associated with storing large files on-chain. The artist or platform that mints the NFT gets to decide where the media and metadata related to the NFT is stored. If the artist chooses to store the media portion of the NFT on platforms or companies that maintain centralized servers, this could imply that buyers of a NFT run the risk of “losing” their NFT if these centralized platforms cease to exist and the token points to an off-chain dead link. While storing data off-chain in a centralized manner can increase flexibility for artists or creators that need to update metadata constantly (e.g., for in-game NFTs), it also carries ramifications on the long-term viability of NFTs. After all, what’s the value of the rights tied to a digital art piece that you can no longer see? To combat the risks of losing NFT metadata, minters, creators, and collectors should all take an active role in protecting and hosting their NFT-related data. As awareness of potential risks grows, platforms and projects are also seemingly taking an active stance and role in determining the responsibility tied to NFT-maintenance.26 Whether it’s familiarizing oneself with on-chain solutions that can truly make the NFT centralized by nature or utilizing services requiring ongoing data management, individuals should proceed with sustainability in mind.
 
@@ -149,3 +143,67 @@ The NFT art frenzy of 2021 aided in the boom of NFT platforms and infrastructure
 
 
 
+# Transformative power of NFTs
+
+NFTs can theoretically have an endless application. Anything from physical products to cultural experiences to historical moments can be captured into a token in the current static form and eventually a dynamic NFT.47 With verifiable ownership on the blockchain, participants can have universally recognized ownership of a purchase. This level of assurance and guarantee awarded to an owner of a NFT has the potential to make markets more transparent. In addition, given the expansion of marketplaces and UX improvements for NFT apps, the barrier to entry is becoming lower and more accessible to global participants.
+
+The industry continues to break new ground and go mainstream, with platforms like Twitter pursuing NFT authentication support through badges that would mark users’ NFTs as authentic.48 Yet many still worry about the future of the NFT market. Is it a gold rush? Or is it here to stay? We look at the pros and cons of NFTs as it stands today, to consolidate the perspectives of both skeptics and believers in the space.
+
+
+					
+
+## **Pros and Cons of NFTs&#xA;**
+
+**Pros**
+
+*   Intellectual property: creators and/or owners of a
+    NFT can protect and claim their work in a way that
+    is globally recognizable; creators will be credited
+    every time their work is utilized.
+
+
+<!---->
+
+*   Level playing field: creators have a lower barrier to
+    entry for artwork with no distinct market or artists
+    with less opportunities for exposure. In other
+    words, niche interests or sectors can easily gain a
+    following or community. Creators also often have
+    the benefit of payment (% of sale) every time the
+    NFT is sold and re-sold (ie. NFT art).
+
+
+*   Verifiable ownership: creators and/or holders of
+    NFTs can claim irrefutable ownership backed by
+    the blockchain.
+
+
+**Cons
+**
+
+*   Practicality: Physical art vs. digital art—with
+    digitized artwork, the copy is identical to
+    the original. This raises the question of the
+    usefulness and value of owning a NFT.
+
+
+*   Value erosion from duplicates: a creator can
+    choose to sell more than one copy of the exact
+    same NFT without a limit on total number
+    created and distributed.
+
+
+*   Hype-based market: the value of a NFT is in the
+    eye of the beholder(s). New or current wave of
+    entrants could deem a NFT unvaluable and the
+    market could quickly dwindle.
+
+
+*   Regulatory uncertainty: current regulatory
+    and legal environments are not designed
+
+    to accommodate NFTs. As commercial and
+    individual interests leads to greater exploration
+    of the space, it is yet unclear how/if NFTs will
+    be classified and what obligations will follow for
+    owning a NFT.
