@@ -120,13 +120,7 @@
             }
         ],
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
+        "nav_links": [],
         "content": "&copy; House of Blockchain. All rights reserved. This website site was created by HoB team.  "
     },
     "domain": "https://houseofblockchain.tech",
