@@ -122,17 +122,12 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
-                "style": "link"
-            },
-            {
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
             }
         ],
-        "content": "&copy; House of Blockchain. All rights reserved. This website site was created by "
+        "content": "&copy; House of Blockchain. All rights reserved. This website site was created by HoB team.  "
     },
     "domain": "https://houseofblockchain.tech",
     "favicon": "images/majestic-spinach.png"
