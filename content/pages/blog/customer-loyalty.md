@@ -170,7 +170,7 @@ The industry continues to break new ground and go mainstream, with platforms lik
     NFTs can claim irrefutable ownership backed by
     the blockchain.
 
-\*\*Cons\*\*
+**Cons**
 
 *   Practicality: Physical art vs. digital art—with
     digitized artwork, the copy is identical to
