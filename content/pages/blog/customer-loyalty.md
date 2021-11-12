@@ -225,6 +225,10 @@ Decentraland and Aurory are using NFTs to create new and innovative games where 
 are rewarded for playing and can have provable, tokenized ownership of their goods and
 characters within the game.
 
+
+
+![](images/Screenshot%202021-11-06%20at%2021.50.26-910f7e91.png)
+
 # Where to Buy or Mint NFTs
 
 While many have heard of NFTs and seem to know a thing or two about them, there remains confusion on how to make a purchase or where to begin. Aside from participating in NFT mints, or the public sale of a NFT collection, others can turn to secondary marketplaces where NFTs are exchanged in auctions. Because high-profile NFT collections are almost instantly sold out once available for mint, many turn to secondary marketplaces to buy these NFTs. Some prefer to browse NFT marketplaces to selectively shop around for their favorite NFTs instead of committing themselves to join a first mint.
