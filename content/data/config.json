@@ -60,13 +60,13 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
-                        "url": "/signup",
+                        "label": "Contact Us",
+                        "url": "/contact",
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
-                        "url": "/contact",
+                        "label": "How we work",
+                        "url": "/howwework",
                         "style": "link"
                     }
                 ]
