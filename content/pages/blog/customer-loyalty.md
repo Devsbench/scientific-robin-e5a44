@@ -71,7 +71,7 @@ In this article, you’ll also learn:
 
 
 
-![](images/Untitled%20design%20\(12\).png)
+![](/images/Untitled%20design%20\(12\).png)
 
 The cryptocurrency space is always brimming with new technological advances, whether that be with token projects or blockchain applications. The latest buzz comes in the form of Non-Fungible Tokens (NFTs). Celebrities, artists, billionaire entrepreneurs, and
 athletes are seemingly tweeting about the excitement of NFTs, but what exactly are they? While the recent hype surrounds art or collectible NFTs, like NBA player Stephen Curry’s purchase of a zombie-eyed Bored Ape, their application and usability reach far beyond
