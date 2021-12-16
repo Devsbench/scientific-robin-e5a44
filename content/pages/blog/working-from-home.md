@@ -5,7 +5,7 @@ excerpt: >-
   parenting into his or her business activities.
 author: content/data/authors/jane-doe.yaml
 date: '2021-12-12'
-thumb_image: images/9_thumb.jpg
+thumb_image: images/Untitled (1500 x 998 px).png
 thumb_image_alt: People in a conference room
 image: images/Untitled (1500 x 998 px).png
 image_alt: People in a conference room
