@@ -1,8 +1,6 @@
 ---
 title: Asset Tokenization Explained - For Begineers
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: "Tokenizing an asset involves\_issuing a digital token on a blockchain, whereby that token represents an underlying tangible or intangible asset. In this way, the economic value of the asset is conferred to the token. Ownership of the asset is represented by ownership of the token on the blockchain."
 author: content/data/authors/jane-doe.yaml
 date: '2021-12-12'
 thumb_image: images/Untitled (1500 x 998 px).png
