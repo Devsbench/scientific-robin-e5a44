@@ -5,7 +5,7 @@ excerpt: >-
   parenting into his or her business activities.
 author: content/data/authors/jane-doe.yaml
 date: '2021-12-12'
-thumb_image: images/9_thumb.jpg
+thumb_image: images/Untitled (1500 x 998 px).png
 thumb_image_alt: People in a conference room
 image: images/Untitled (1500 x 998 px).png
 image_alt: People in a conference room
@@ -58,7 +58,7 @@ Asset tokenization is an implementation process in the service of many different
 
 The tokenization of assets also helps increase the business liquidity and is why many organizations utilize it. It also helps add liquidity to traditionally illiquid assets, making it an attractive option in asset management.
 
-##
+
 
 ## The Origins of Asset Tokenization
 
