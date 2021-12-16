@@ -1,5 +1,5 @@
 ---
-title: An Inside look into NFT (Non Fingible )
+title: An Inside look into NFT (Non Fungible Token) How-To-Guide
 subtitle: Non Fungible Tokens (NFT). Redefining Digital Scarcity.
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
