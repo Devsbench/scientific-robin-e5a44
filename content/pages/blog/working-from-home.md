@@ -4,7 +4,7 @@ excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
 author: content/data/authors/jane-doe.yaml
-date: '2020-04-22'
+date: '2021-12-12'
 thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
 image: images/Untitled (1500 x 998 px).png
@@ -36,6 +36,7 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+subtitle: Asset Tokenization Explained
 ---
 Ever since Bitcoin emerged, the world started to have numerous new opportunities to revolutionize the way people issue, manage, and transact investments and assets. The technology used for cryptocurrency, Blockchain, is one of the types of distributed ledger technology that people have been utilizing to have multiple means of investment. In this article, we will attempt to have asset tokenization explained.
 
@@ -123,7 +124,7 @@ Codes of conduct are absent in the creation and management of digital assets. An
 
 ## Asset Tokenization in Real Estate
 
-![](images/Untitled%20\(1500%20x%20998%20px\)%20\(3\).png)
+![](/images/Untitled%20\(1500%20x%20998%20px\)%20\(3\).png)
 
 One of the most promising uses of asset tokenization lies in the real estate sector. Real estate tokenization lets owners fractionalize ownership of their property into tokens. Real estate becomes accessible to many investors and tradable on various exchanges using asset tokenization. It lowers entry barriers and helps reduce the friction between buyers and sellers. Overall, it helps improve inclusivity in the real estate market and helps defend against real estate fraud.
 
