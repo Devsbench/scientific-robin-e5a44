@@ -123,7 +123,7 @@ Codes of conduct are absent in the creation and management of digital assets. An
 
 ## Asset Tokenization in Real Estate
 
-![](images/Untitled%20\(1500%20x%20998%20px\)%20\(3\).png)
+![](/images/Untitled%20\(1500%20x%20998%20px\)%20\(3\).png)
 
 One of the most promising uses of asset tokenization lies in the real estate sector. Real estate tokenization lets owners fractionalize ownership of their property into tokens. Real estate becomes accessible to many investors and tradable on various exchanges using asset tokenization. It lowers entry barriers and helps reduce the friction between buyers and sellers. Overall, it helps improve inclusivity in the real estate market and helps defend against real estate fraud.
 
