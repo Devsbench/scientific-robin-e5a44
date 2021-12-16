@@ -41,7 +41,7 @@ Ever since Bitcoin emerged, the world started to have numerous new opportunities
 
 Blockchain lets us mold the financial landscape. It lets us easily break down assets into smaller units, and each unit represents ownership. It encourages democracy in the investment of historically illiquid assets. Blockchain lets us bring about markets that are fairer for everyone. Tokenization of any assets is possible on a digital ledger, be it a painting, a digital media platform, a company share, a collectible, or even a real-estate property.
 
-But what exactly is asset tokenization?
+**But what exactly is asset tokenization?**
 
 ## What is Asset Tokenization?
 
@@ -50,8 +50,6 @@ Asset tokenization definition - the process in which an issuer takes any real-wo
 Tokens, in a broad sense, are representations of something else. In the specific case of asset tokenization, though, a token represents a proportional piece of a digitized asset. It also means that an owner of a token has associated ownership rights or other types of rights to the digitized asset their token represents.
 
 Asset tokenization is made possible because of blockchain. Blockchain also guarantees that once you buy digitized assets or tokens, a single authority cannot change or erase your ownership. As for what assets can be digitized and broken down, the list includes everything; it can be anything. Some assets that can be digitized are real estate, art, precious materials, and natural resources, equity, and more.
-
-
 
 ## The Purpose of Asset Tokenization
 
@@ -66,8 +64,6 @@ The tokenization of assets also helps increase the business liquidity and is why
 The concept of asset tokenization must have started with the rise of cryptocurrency? Wrong. The use of tokenization to improve data security for financial services has been around since the 1970s. Numerous conventional enterprises use tokenization to safeguard confidential and sensitive information in finance. It can include but is not limited to credit card numbers, financial statements, and personally identifiable information.
 
 Tokenization has a traditional approach of replacing sensitive client information with strings of non-sensitive letters and numbers, maintaining all the data securely. A perfect example of tokenization is the process of mobile payments. Tokenization has already evolved from tokenizing sensitive information and data to also tokenizing assets. It is the asset tokenization we hear about today.
-
-
 
 ## Asset Tokenization in Action
 
@@ -175,15 +171,15 @@ An asset tokenization platform converts real-world assets into digital tokens. T
 
 Top 5 Asset Tokenization Platforms
 
-### [**PixelPlex**](https://pixelplex.io/nft-development/)** - **It is an End-to-End Security Token Offering Platform enabling users to run security token offerings and access innovative investment opportunities worldwide with a ready-made solution.
+### [**PixelPlex**](https://pixelplex.io/nft-development/)\*\* - \*\*It is an End-to-End Security Token Offering Platform enabling users to run security token offerings and access innovative investment opportunities worldwide with a ready-made solution.
 
-### [**Securrency**](https://www.securrency.com/)** - **It is a complete securitization platform for real-world assets with a simple drag & drop process for tokens issuance with a single click.
+### [**Securrency**](https://www.securrency.com/)\*\* - \*\*It is a complete securitization platform for real-world assets with a simple drag & drop process for tokens issuance with a single click.
 
-### [**Stobox**](https://stobox.io/)** - **It provides technology and consulting to help clients leverage digital assets and tokenized securities, enabling their businesses to simplify operations with digital assets removing obstacles to their adoption.
+### [**Stobox**](https://stobox.io/)\*\* - \*\*It provides technology and consulting to help clients leverage digital assets and tokenized securities, enabling their businesses to simplify operations with digital assets removing obstacles to their adoption.
 
-### [**Tokensoft**](https://www.tokensoft.io/products/tokenization-platform)** - **It is a technology and security platform for companies seeking to issue assets on the blockchain, distributing and managing your assets through a single interface.
+### [**Tokensoft**](https://www.tokensoft.io/products/tokenization-platform)\*\* - \*\*It is a technology and security platform for companies seeking to issue assets on the blockchain, distributing and managing your assets through a single interface.
 
-### [**Polymath**](https://polymath.network/)** - **It provides technology in making easy ways to create, issue, and manage tokens or digital securities on the blockchain.
+### [**Polymath**](https://polymath.network/)\*\* - \*\*It provides technology in making easy ways to create, issue, and manage tokens or digital securities on the blockchain.
 
 Asset Tokenization’s Effect on the Future
 
