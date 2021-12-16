@@ -65,8 +65,6 @@ The concept of asset tokenization must have started with the rise of cryptocurre
 
 Tokenization has a traditional approach of replacing sensitive client information with strings of non-sensitive letters and numbers, maintaining all the data securely. A perfect example of tokenization is the process of mobile payments. Tokenization has already evolved from tokenizing sensitive information and data to also tokenizing assets. It is the asset tokenization we hear about today.
 
-
-
 ## Asset Tokenization in Action
 
 Let’s say an investor is looking into investing in the real estate market. He set his sight on a building that seems promising; its location will increase in value as the years go by. Now, there’s one problem: The building costs a million dollars, the money it takes to invest is very high. 
@@ -76,8 +74,6 @@ In the above scenario, the investor either needs to have good liquidity or get a
 By using asset tokenization, investment in the building doesn’t have to be a pain in the pocket. The building can be broken up into as many parts as needed. We can represent the one-million-dollar building with 10,000 tokens worth a hundred dollars each. You can even make 100,000 tokens worth ten dollars each. 
 
 With the usage of asset tokenization, the investor doesn’t have to worry about going into debt or performing some magic to get more money and invest in what he deems a profitable investment. He can decide to buy, say, a hundred tokens to obtain profit in proportion to how the building performs.
-
-
 
 ## Benefits of Asset Tokenization
 
@@ -89,15 +85,11 @@ Asset tokenization not only widens the range of investors. Blockchain, the techn
 
 For the benefit of increased liquidity, let’s use the example of a seller that needs to get $10,000 on hand. Let’s say he has a condo valued at $500,000. Utilizing the condo to get $10,000 would be a pretty difficult thing to do, but with asset tokenization, it becomes simpler. He can tokenize the condo into 500,000 tokens each, worth 0.0002%. This solution lets the seller get his needed money by selling 10,000 tokens, rather than selling the entire property and losing the condo’s utility as a livable area. Asset tokenization ensures that the seller has a more liquid asset.
 
-
-
 ##### Eliminates the Need for Intermediaries
 
 Today, transferring an asset’s ownership requires lawyers to act as intermediaries to handle the paperwork and create trust between the seller and the buyer. Blockchain lets the asset owner and its buyer contact each other directly, which removes this need for involvement from intermediaries.
 
 If a tokenized asset and its owner decide to use a decentralized platform, many parts of the ownership transfer process will get automated. It lets them save time and cost. This automation of manual processes is possible through the use of smart contracts. Tokenization makes lengthy transactions done in seconds which makes markets more optimized and less expensive by reducing costs of time.
-
-
 
 ##### Transparent Process
 
@@ -105,13 +97,9 @@ Transparency is the well-known benefit of using blockchain and extension asset t
 
 Anyone can view the history and the transactions performed of an asset in the blockchain at any given time. Being able to review the transactions of an asset and its whole history allows traceability and provides trust. Proof of ownership is, by default, already provided when one performs asset tokenization.
 
-
-
 ##### Improved Accessibility
 
 Asset tokenization, of course, provides more accessibility. It helps divide a specific asset into fragments as minimal as possible. Consequently, it also makes investors gain ownership of shares as minimal as possible. It means that shares and assets are more accessible to a wider range of investors, and asset management is not as taxing as it usually would be.
-
-
 
 ## Challenges of Asset Tokenization
 
@@ -121,25 +109,17 @@ The biggest challenge asset tokenization is facing is the lack of regulations. B
 
 The situation is commonly faced by new global trends and technologies, though. With some work from the joint forces of politicians, regulators, and developers, establishing legal frameworks and global laws and regulations related to asset tokenization will take place soon.
 
-
-
 ##### Possibility of Attacks
 
 Just like any other technology, hackers often target the blockchain. Throughout 2020, hackers initiated 122 cyberattacks on blockchains and stole a total of around $3.78 billion. Though this may not be the most uplifting thing to hear, there has fortunately been a downward trend in the number of cyberattacks on various services running on the blockchain.
 
 But the problem will soon be overcome, as with any other regulatory issue.  Early stages of new technology and concepts will always face a few hiccups on the road.
 
-
-
 ##### Uncertain Codes of Conduct
 
 Codes of conduct are absent in the creation and management of digital assets. And it forces financial entities to dictate the business architecture. It also exposes both investors and sellers to possible undesired practices. Fortunately, formal frameworks and regulations will soon help ensure trust and build common standards in asset tokenization.
 
-
-
 ## "The World is Getting Tokenized: The Various Fields Affected by Asset Tokenization"
-
-
 
 ## Asset Tokenization in Real Estate
 
@@ -148,8 +128,6 @@ One of the most promising uses of asset tokenization lies in the real estate sec
 Some promising projects have already emerged. For example, in October 2018, a Manhattan condo in New York priced at a whopping $30 million was tokenized on the Ethereum blockchain. Then tokenization of a Paris hotel to attract a broader range of investors and reduce minimum investor subscription amounts came in a year after. It resulted in €26 million worth of issuance and was one of the topmost real estate tokenization projects in Europe.
 
 These projects show that asset tokenization is molding the real estate landscape innovatively. It will help significantly improve the liquidity of the real estate market and open it up to an extensive range and number of investors.
-
-
 
 ## Asset Tokenization in Art
 
@@ -162,8 +140,6 @@ A great example of asset tokenization in use in the art world is a startup calle
 Another example is Monart. Monart is an international art community and an innovative marketplace that invites investors to buy shares in artwork collections. They encourage investors to capitalize on the art market’s growth through the use of asset tokenization. Aside from that, the platform also offers its own cryptocurrency called MART. This art-based cryptocurrency is built upon the standard public Ethereum blockchain with an audited ERC-20 token.
 
 With the rise of this new style of art marketplaces, the art world can only become more accessible to investors. Thanks to asset tokenization, the art marketplace is undergoing positive changes that help increase liquidity and reduce investment barriers for art.
-
-
 
 ## Asset Tokenization in Precious Metals and Natural Resources
 
@@ -179,8 +155,6 @@ As for natural resources such as oil and gas, there is currently only one token 
 
 With all of these examples, we can expect only more to come. The asset tokenization of various natural resources and metals has proved viable, profitable, and convenient. More investors and providers will be attracted, which will ultimately lead to the growth of asset tokenization in this field.
 
-
-
 ## Asset Tokenization in Equity
 
 The tokenization of equity became familiar upon the arrival of decentralized blockchain systems. In particular, tokenized equity is usually used in the form of ICOs or initial coin offerings for blockchain-based projects.
@@ -191,15 +165,13 @@ Many new businesses and startups have started to fundraise using ICOs, providing
 
 Asset tokenization proves to be a useful mechanism in the world of equity shares. With the automation, speed, and transparency it offers, it will surely become more and more integrated with the necessary activities in equity trading.
 
-
-
 ## Asset Tokenization Platforms
 
 An asset tokenization platform converts real-world assets into digital tokens. The process is called TAAS - Tokenization as a Service. Financial institutions and institutional investors use asset tokenization platforms.
 
 **Top 5 Asset Tokenization Platforms:**
 
-### [**PixelPlex**](https://pixelplex.io/nft-development/)\*\* - \*\*It is an End-to-End Security Token Offering Platform enabling users to run security token offerings and access innovative investment opportunities worldwide with a ready-made solution.
+###### [**PixelPlex**](https://pixelplex.io/nft-development/)\*\* - \*\*It is an End-to-End Security Token Offering Platform enabling users to run security token offerings and access innovative investment opportunities worldwide with a ready-made solution.
 
 ### [**Securrency**](https://www.securrency.com/)\*\* - \*\*It is a complete securitization platform for real-world assets with a simple drag & drop process for tokens issuance with a single click.
 
