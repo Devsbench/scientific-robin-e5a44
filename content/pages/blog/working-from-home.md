@@ -181,8 +181,6 @@ An asset tokenization platform converts real-world assets into digital tokens. T
 
 ###### [**Polymath**](https://polymath.network/) - It provides technology in making easy ways to create, issue, and manage tokens or digital securities on the blockchain.
 
-
-
 ## Asset Tokenization’s Effect on the Future
 
 Asset tokenization is already molding the landscape of asset management today. It is slowly but surely taking its place in numerous markets, changing them to make them safer, more equitable, and liquid. It’s not a temporary phenomenon anymore, a trend that will fade out with time.
@@ -191,6 +189,4 @@ Companies, startups, and individuals find more and more objects to tokenize. Ass
 
 Subsequently, asset tokenization is poised to keep impacting the world of asset management. And as we speak, there is intense work on addressing the few obstacles such as legal boundaries, missing regulations, and technological vulnerabilities. Developments will come, and the future of Asset Tokenization will only look brighter and more ironed out as time goes on.
 
-
-
-##### **Have idea for tokenization? Want to build your own tokenization platform? Or just want to tokenize one of your business assets? Let's connect. Click: "Contact Us" and let's talk how we can help you.**
+##### **Have idea for tokenization? Want to build your own tokenization platform? Or just want to tokenize one of your business assets? Let's connect. Click "Contact Us" and let's talk how we can help you.**
