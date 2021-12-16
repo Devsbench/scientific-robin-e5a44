@@ -36,6 +36,7 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+subtitle: Asset Tokenization Explained
 ---
 Ever since Bitcoin emerged, the world started to have numerous new opportunities to revolutionize the way people issue, manage, and transact investments and assets. The technology used for cryptocurrency, Blockchain, is one of the types of distributed ledger technology that people have been utilizing to have multiple means of investment. In this article, we will attempt to have asset tokenization explained.
 
