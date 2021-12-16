@@ -7,7 +7,7 @@ author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
-image: images/9.jpg
+image: images/Untitled (1500 x 998 px).png
 image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
@@ -123,6 +123,8 @@ Codes of conduct are absent in the creation and management of digital assets. An
 
 ## Asset Tokenization in Real Estate
 
+![](images/Untitled%20\(1500%20x%20998%20px\)%20\(3\).png)
+
 One of the most promising uses of asset tokenization lies in the real estate sector. Real estate tokenization lets owners fractionalize ownership of their property into tokens. Real estate becomes accessible to many investors and tradable on various exchanges using asset tokenization. It lowers entry barriers and helps reduce the friction between buyers and sellers. Overall, it helps improve inclusivity in the real estate market and helps defend against real estate fraud.
 
 Some promising projects have already emerged. For example, in October 2018, a Manhattan condo in New York priced at a whopping $30 million was tokenized on the Ethereum blockchain. Then tokenization of a Paris hotel to attract a broader range of investors and reduce minimum investor subscription amounts came in a year after. It resulted in €26 million worth of issuance and was one of the topmost real estate tokenization projects in Europe.
@@ -171,20 +173,22 @@ An asset tokenization platform converts real-world assets into digital tokens. T
 
 **Top 5 Asset Tokenization Platforms:**
 
-###### [**PixelPlex**](https://pixelplex.io/nft-development/)\*\* - \*\*It is an End-to-End Security Token Offering Platform enabling users to run security token offerings and access innovative investment opportunities worldwide with a ready-made solution.
+###### [**PixelPlex**](https://pixelplex.io/nft-development/) - It is an End-to-End Security Token Offering Platform enabling users to run security token offerings and access innovative investment opportunities worldwide with a ready-made solution.
 
-### [**Securrency**](https://www.securrency.com/)\*\* - \*\*It is a complete securitization platform for real-world assets with a simple drag & drop process for tokens issuance with a single click.
+###### [**Securrency**](https://www.securrency.com/) - It is a complete securitization platform for real-world assets with a simple drag & drop process for tokens issuance with a single click.
 
-### [**Stobox**](https://stobox.io/)\*\* - \*\*It provides technology and consulting to help clients leverage digital assets and tokenized securities, enabling their businesses to simplify operations with digital assets removing obstacles to their adoption.
+###### [**Stobox**](https://stobox.io/) - It provides technology and consulting to help clients leverage digital assets and tokenized securities, enabling their businesses to simplify operations with digital assets removing obstacles to their adoption.
 
-### [**Tokensoft**](https://www.tokensoft.io/products/tokenization-platform)\*\* - \*\*It is a technology and security platform for companies seeking to issue assets on the blockchain, distributing and managing your assets through a single interface.
+###### [**Tokensoft**](https://www.tokensoft.io/products/tokenization-platform) - It is a technology and security platform for companies seeking to issue assets on the blockchain, distributing and managing your assets through a single interface.
 
-### [**Polymath**](https://polymath.network/)\*\* - \*\*It provides technology in making easy ways to create, issue, and manage tokens or digital securities on the blockchain.
+###### [**Polymath**](https://polymath.network/) - It provides technology in making easy ways to create, issue, and manage tokens or digital securities on the blockchain.
 
-Asset Tokenization’s Effect on the Future
+## Asset Tokenization’s Effect on the Future
 
 Asset tokenization is already molding the landscape of asset management today. It is slowly but surely taking its place in numerous markets, changing them to make them safer, more equitable, and liquid. It’s not a temporary phenomenon anymore, a trend that will fade out with time.
 
 Companies, startups, and individuals find more and more objects to tokenize. Asset tokenization becomes more cemented in the world of asset management. We can now tokenize anything, and although initially, the process seems complicated, more and more people and organizations are becoming aware of the various benefits it can offer.
 
 Subsequently, asset tokenization is poised to keep impacting the world of asset management. And as we speak, there is intense work on addressing the few obstacles such as legal boundaries, missing regulations, and technological vulnerabilities. Developments will come, and the future of Asset Tokenization will only look brighter and more ironed out as time goes on.
+
+##### **Have idea for tokenization? Want to build your own tokenization platform? Or just want to tokenize one of your business assets? Let's connect. Click "Contact Us" and let's talk how we can help you.**
