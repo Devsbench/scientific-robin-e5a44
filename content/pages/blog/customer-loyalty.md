@@ -9,7 +9,7 @@ excerpt: >-
 date: '2021-11-12'
 thumb_image: images/Untitled (1500 x 998 px) (4).png
 thumb_image_alt: A group of people working in a cafe
-image: images/Screenshot 2021-11-06 at 21.57.00-0a1c63e7.png
+image: images/Untitled (1500 x 998 px) (4).png
 image_alt: A group of people working in a cafe
 seo:
   title: Customer Loyalty Programs That Stick
