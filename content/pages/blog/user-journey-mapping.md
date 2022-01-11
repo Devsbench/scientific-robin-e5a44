@@ -61,6 +61,6 @@ Although many individuals and institutions see real estate as an attractive inve
 
 There are at least couple of reasons:
 
-#### Access to the huge capital stored in crypto world!
+##### Access to the huge capital stored in crypto world!
 
 As for now (Nov 2021) it is US$3 trillion. Wouldn't it be a great idea that every crypto investor (hodler) now can become your investor? This is an enormous opportunity on the market.
