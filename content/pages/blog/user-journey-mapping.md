@@ -50,3 +50,19 @@ layout: post
 ##### Introduction
 
 Real estate tokenization is an emerging trend representing the convergence of real estate investing and blockchain technology. Tokenization helps asset or fund owners raise capital more efficiently, and gives investors unprecedented access to private real estate investments, transparency, and liquidity.
+
+**The future of real estate investing is fractional.** Fractionalized real estate shares allow investors to purchase pieces (shares) of a building or property. This provides retail investors with the opportunity to invest in commercial real estate without a large initial investment and provide property builders and owners with an additional source of liquidity. Tokenizing real estate has become the focus of many institutions in 2018, and is likely to continue into the future as Ethereum offers a way to add improved levels of liquidity (tokens) to a notoriously illiquid industry (real estate).
+
+Fractional ownership democratizes access to real estate investment, and therefore distributes and minimizes the risks and labor involved with owning property.
+
+Although many individuals and institutions see real estate as an attractive investment alternative, the expensive initial investment creates a significant barrier to entry for the average investor or property builder. Combined with inefficient paper-based and labor-intensive processes, as well as a lack of oversight causes limited participation, liquidity and performance. Making the real estate market accessible to a wider investor base requires improving efficiency in the initial investment process and the ongoing management and administration of property holdings. Issuing real estate tokens on a distributed ledger technology (DLT)-based platform and creating a marketplace for issuers (property owners), investors and other stakeholders may be the solution to taking the real estate market to the next level.
+
+### What are arguments for Real Estate tokenization?
+
+There are at least couple of reasons:
+
+##### 1 - Access to the huge capital stored in crypto world!
+
+As for now (Nov 2021) it is US$3 trillion. Wouldn't it be a great idea that every crypto investor (hodler) now can become your investor? This is an enormous opportunity on the market.
+
+##### 2 - Access to investors from different countries.
