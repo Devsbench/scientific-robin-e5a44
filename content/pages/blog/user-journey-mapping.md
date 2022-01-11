@@ -61,14 +61,15 @@ Although many individuals and institutions see real estate as an attractive inve
 
 There are at least couple of reasons:
 
-1.  **Access to the huge capital stored in crypto world!** As for now (Nov 2021) it is US$3 trillion. Wouldn't it be a great idea that every crypto investor (hodler) now can become your investor? This is an enormous opportunity on the market.
-2.  **Access to investors from different countries.** For example: People from Asia are not allowed to buy properties in Europe for investment purposes (there are local legal regulations that prohibit overseas investment). Escaping to the crypto world is the solution for that. Who wouldn’t want to get access to overseas investors?
+*   **Access to the huge capital stored in crypto world!** As for now (Nov 2021) it is US$3 trillion. Wouldn't it be a great idea that every crypto investor (hodler) now can become your investor? This is an enormous opportunity on the market.
+
+*   **Access to investors from different countries.** For example: People from Asia are not allowed to buy properties in Europe for investment purposes (there are local legal regulations that prohibit overseas investment). Escaping to the crypto world is the solution for that. Who wouldn’t want to get access to overseas investors?
 
 <!---->
 
-**Fractional investment is finally possible.**
+*   **Fractional investment is finally possible. **Assets can now be divided into smaller amounts of ownership, thanks to tokenization. Like Bitcoin, a real estate token can be divided to make the barrier of entry to smaller investors much easier to overcome. Every investor now can buy a fraction of your property, so far they have to buy at least one flat, one house etc. So, now you will have access to smaller investors who can not afford to invest in your real estate business earlier. Since the transactions will take place in a virtual environment, it also makes it easier to start investing in real estate. Rather than needing legal documents to transfer ownership, someone with little to no experience can make a purchase online. This gives far more people the ability to invest in real estate without going through the daunting legal process of transferring ownership, with which many beginner investors may not be familiar.
 
- Assets can now be divided into smaller amounts of ownership, thanks to tokenization. Like Bitcoin, a real estate token can be divided to make the barrier of entry to smaller investors much easier to overcome. Every investor now can buy a fraction of your property, so far they have to buy at least one flat, one house etc. So, now you will have access to smaller investors who can not afford to invest in your real estate business earlier. Since the transactions will take place in a virtual environment, it also makes it easier to start investing in real estate. Rather than needing legal documents to transfer ownership, someone with little to no experience can make a purchase online. This gives far more people the ability to invest in real estate without going through the daunting legal process of transferring ownership, with which many beginner investors may not be familiar.
+<!---->
 
 *   **Crypto investors are willing to stay with crypto as long as possible** because when they get back to “fiat” currencies they have to pay income tax. Crypto is growing so no one is eager to sell their crypto but investing in your tokens is a great opportunity to multiply their profit. The situation is that: I have a lot of crypto - where can I reinvest them? Why not for your tokenized real estate.
 
