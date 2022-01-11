@@ -43,8 +43,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
-# Transform Real Estate into Digital Shares. 
+# Transform Real Estate into Digital Shares.
 
 ### Why should you be interested in real estate tokenization?
 
-## Introduction
+##### Introduction
+
+Real estate tokenization is an emerging trend representing the convergence of real estate investing and blockchain technology. Tokenization helps asset or fund owners raise capital more efficiently, and gives investors unprecedented access to private real estate investments, transparency, and liquidity.
