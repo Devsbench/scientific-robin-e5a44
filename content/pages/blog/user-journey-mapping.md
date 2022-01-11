@@ -87,6 +87,3 @@ There are at least couple of reasons:
 
 <!---->
 
-1.
-
-**2. Access to investors from different countries.** For example: People from Asia are not allowed to buy properties in Europe for investment purposes (there are local legal regulations that prohibit overseas investment). Escaping to the crypto world is the solution for that. Who wouldn’t want to get access to overseas investors?
