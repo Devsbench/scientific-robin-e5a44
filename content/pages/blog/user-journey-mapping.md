@@ -85,5 +85,6 @@ There are at least couple of reasons:
 
 *   **Automating Processes.** The use of DLT can remove time-consuming reconciliation processes between multiple parties by offering an immutable record of ownership.
 
-<!---->
+![](/images/Untitled%20\(1502%20x%201000%20px\)%20\(1\).png)
 
+<!---->
