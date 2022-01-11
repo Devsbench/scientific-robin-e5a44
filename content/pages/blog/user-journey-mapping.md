@@ -1,5 +1,7 @@
 ---
-title: Real Estate Tokenization - Complete How to Guide for Beginners 2022
+title: >-
+  How to Do Real Estate Tokenization - The Complete Guide for Properties Owners
+  [2022]
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
