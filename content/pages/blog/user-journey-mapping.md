@@ -61,8 +61,6 @@ Although many individuals and institutions see real estate as an attractive inve
 
 There are at least couple of reasons:
 
-1.  **Access to the huge capital stored in crypto world!**
+1.  **Access to the huge capital stored in crypto world! **As for now (Nov 2021) it is US$3 trillion. Wouldn't it be a great idea that every crypto investor (hodler) now can become your investor? This is an enormous opportunity on the market.
 
-As for now (Nov 2021) it is US$3 trillion. Wouldn't it be a great idea that every crypto investor (hodler) now can become your investor? This is an enormous opportunity on the market.
-
-2 - Access to investors from different countries.
+**2. Access to investors from different countries.** For example: People from Asia are not allowed to buy properties in Europe for investment purposes (there are local legal regulations that prohibit overseas investment). Escaping to the crypto world is the solution for that. Who wouldn’t want to get access to overseas investors?
