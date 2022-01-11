@@ -3,8 +3,9 @@ title: >-
   How to Do Real Estate Tokenization - The Complete Guide for Properties Owners
   [2022]
 subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  In this article you learn how to build a Tokenization Platform for your Real
+  Estates. What is blockchain, token IPO, smart contract, stacking and many
+  more. Enjoy!
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
