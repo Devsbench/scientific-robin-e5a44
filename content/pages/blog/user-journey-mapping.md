@@ -43,9 +43,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
-
-# **Transform Real Estate into Digital Shares. Why should you be interested in real estate tokenization? **
+# \*\* Transform Real Estate into Digital Shares. Why should you be interested in real estate tokenization? \*\*
 
 ## Introduction
-
