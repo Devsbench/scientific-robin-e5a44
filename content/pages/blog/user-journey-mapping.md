@@ -58,3 +58,7 @@ Fractional ownership democratizes access to real estate investment, and therefor
 Although many individuals and institutions see real estate as an attractive investment alternative, the expensive initial investment creates a significant barrier to entry for the average investor or property builder. Combined with inefficient paper-based and labor-intensive processes, as well as a lack of oversight causes limited participation, liquidity and performance. Making the real estate market accessible to a wider investor base requires improving efficiency in the initial investment process and the ongoing management and administration of property holdings. Issuing real estate tokens on a distributed ledger technology (DLT)-based platform and creating a marketplace for issuers (property owners), investors and other stakeholders may be the solution to taking the real estate market to the next level.
 
 ### What are arguments for Real Estate tokenization?
+
+There are at least couple of reasons:
+
+1.  **Access to the capital that is stored in crypto. as for now (Nov 2021) it is US$3 trillion. **Wouldn't it be a great idea that every crypto investor (hodler) now can become your investor? This is an enormous opportunity on the market.
