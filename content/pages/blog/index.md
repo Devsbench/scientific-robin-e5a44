@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: Blog
+  title: 'Asset Tokenization, Smart Contracts, Blockchain'
   description: This is the blog page
   extra:
     - name: 'og:type'
