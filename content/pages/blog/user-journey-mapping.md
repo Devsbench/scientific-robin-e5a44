@@ -11,7 +11,7 @@ excerpt: >-
   aliquet rhoncus sed, hendrerit vel odio.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
-thumb_image: images/10_thumb.jpg
+thumb_image: images/Untitled (1502 x 1000 px)-6968c7ed.png
 thumb_image_alt: Business people in a meeting
 image: images/Untitled (1502 x 1000 px).png
 image_alt: Business people in a meeting
