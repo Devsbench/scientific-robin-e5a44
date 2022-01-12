@@ -7,8 +7,9 @@ subtitle: >-
   Estates. What is blockchain, token IPO, smart contract, stacking and many
   more. Enjoy!
 excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Tokenization helps asset or fund owners raise capital more efficiently, and
+  gives investors unprecedented access to private real estate investments,
+  transparency, and liquidity.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/Untitled (1502 x 1000 px)-6968c7ed.png
