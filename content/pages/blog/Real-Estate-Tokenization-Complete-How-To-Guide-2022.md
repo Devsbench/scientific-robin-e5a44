@@ -17,7 +17,7 @@ thumb_image_alt: Business people in a meeting
 image: images/Untitled (1502 x 1000 px).png
 image_alt: Business people in a meeting
 seo:
-  title: How to do Real Estate Tokenization
+  title: 'How to do Real Estate Tokenization - Complete How To Guide [2022]'
   description: >-
     Real Estate Tokenization for Beginners and Relators, Smart Contracts,
     Tokens, ERC-20, Ethereum, Blockchain.
