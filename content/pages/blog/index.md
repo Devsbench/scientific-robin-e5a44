@@ -1,8 +1,10 @@
 ---
 title: Blog
 seo:
-  title: Blog
-  description: This is the blog page
+  title: 'Asset Tokenization, Smart Contracts, Blockchain'
+  description: >-
+    This is the blog about real estate tokenization, creating smart contracts,
+    token economy, blockchain and crypto. How to bild DAO, dApps 
   extra:
     - name: 'og:type'
       value: website
