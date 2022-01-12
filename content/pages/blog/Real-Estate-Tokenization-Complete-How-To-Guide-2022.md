@@ -17,7 +17,7 @@ thumb_image_alt: Business people in a meeting
 image: images/Untitled (1502 x 1000 px).png
 image_alt: Business people in a meeting
 seo:
-  title: A Guide To User Journey Mapping
+  title: How to do Real Estate Tokenization
   description: A tale about Journey Mapping
   extra:
     - name: 'og:type'
