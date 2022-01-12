@@ -12,7 +12,7 @@ thumb_image_alt: A group of people working in a cafe
 image: images/Untitled (1500 x 998 px) (4).png
 image_alt: A group of people working in a cafe
 seo:
-  title: Customer Loyalty Programs That Stick
+  title: 'An Inside look into NFT (Non Fungible Token) Complete How-To-Guide [2021]'
   description: >-
     A story about customer loyalty curabitur sed consectetur nisi. Integer sit
     amet commodo massa.
