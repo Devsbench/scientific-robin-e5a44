@@ -112,8 +112,6 @@ Initial token price will be written in Smart Contract (literally Blockchain Engi
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
-
-
 # Step1 - Blockchain
 
 ### What is the blockchain?
@@ -128,9 +126,7 @@ Glossary: 
 
 ***Gas and fees** - Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
 
-***Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. *
-
-
+\***Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. \*
 
 ### What is the token?
 
@@ -156,12 +152,24 @@ A token is a **blockchain-based asset** with similar functionality to bitcoin or
 
 *   and more...
 
-You can also find the name for our token as **security token. **
+You can also find the name for our token as \*\*security token. \*\*
 
 To summarise once more: Tokens are **essentially digital, liquid contracts for fractions of any asset that already has value**, like real estate, a car, or corporate stock. Using security tokens means investors can expect that their ownership stake is preserved on the blockchain ledger.
 
 
 
+### How to ship your own token?
 
+**Coin vs Token. What is the difference? Do we create a coin or a token?** Let’s explain. 
+
+A crypto coin is, so to speak, the main currency on a blockchain. For example, Ether (ETH) is the underlying currency on the most popular blockchain called Ethereum. Every blockchain needs a crypto coin acting as money to fund transactions and any other interactions with a blockchain.
+
+In addition to having coins, advanced blockchains like Ethereum, Tezos, Cardano or Binance Chain, also support tokens (also called cryptotokens). These tokens can be issued by anybody according to a blockchain’s standards. Of course you need to have coding skills to create a **smart contract** which issues a token. 
+
+There are a couple of token standards (marked as ERC-20, ERC-721, ERC-777 and ERC 1155). The most useful and popular for asset tokenization is ERC-20. The ERC-20 introduces a standard for **Fungible Tokens**, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. For example, an ERC-20 Token acts just like the ETH, meaning that 1 Token is and will always be equal to all the other Tokens.
+
+*Extra peace of knowledge: You probably heard of Non Fungible Tokens (NFT). Instead of Fungible Tokens, NFT is a way to represent anything unique as an Ethereum-based asset, like a piece of art. Imagine that you have digital certification (token NFT) that proves ownership of Mona Lisa art. There is only one original Mona Lisa and it can only have one official owner.*
+
+So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What else do we need?
 
 <!---->
