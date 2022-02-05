@@ -112,4 +112,56 @@ Initial token price will be written in Smart Contract (literally Blockchain Engi
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
+
+
+# Step1 - Blockchain
+
+### What is the blockchain?
+
+There are many definitions of the blockchain however we like this one. The blockchain = Think of it as a cloud provider, kinda like AWS, Google, Microsoft but it's owned by no one. It's run by compute power from mining machines all over the world (community). Usually these people are called miners and we **pay (gas)** them to run our code! Simple? Yes! We love to simplify things :-)
+
+### Which blockchain is best for asset tokenization? 
+
+There are a couple of blockchain we can use for tokenization: Ethereum, Tezos, Cardano, Solana, Hyperledger etc. All of these blockchains are featured with **smart contracts** (f.e. Bitcoin blockchain doesn’t have smart contracts - we can’t use it). Smart contracts give the ability to create own tokens. We pick Ethereum as the most advanced and developed blockchain and also very popular. 
+
+Glossary: 
+
+***Gas and fees** - Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
+
+***Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. *
+
+
+
+### What is the token?
+
+A token is a **blockchain-based asset** with similar functionality to bitcoin or ether. It can hold value and be sent and received. It can represent a tradable asset or utility and allows the holder to use it for investment or economic purposes. Tokens can represent virtually anything:
+
+*   reputation points in an online platform
+
+*   skills of a character in a game
+
+*   lottery tickets
+
+*   financial assets like a share in a company
+
+*   a fiat currency like USD
+
+*   an ounce of gold
+
+*   **assets like a share in real estate**
+
+*   equity interest in a legal entity
+
+*   ownership of the collateralized debt
+
+*   and more...
+
+You can also find the name for our token as **security token. **
+
+To summarise once more: Tokens are **essentially digital, liquid contracts for fractions of any asset that already has value**, like real estate, a car, or corporate stock. Using security tokens means investors can expect that their ownership stake is preserved on the blockchain ledger.
+
+
+
+
+
 <!---->
