@@ -94,22 +94,26 @@ There are at least couple of reasons:
 
 You can think about tokens as shares of your investment (real estate property). Let's say you want to build a nice condo in Miami and need US$100,000,000 to make it happen. Let’s assume that you will create 100mln tokens, and in the IPO every token will be worth 1 USD.  1 token is equal to 1 USD. It means that I can invest $10,000 buying 10,000 tokens from you and collecting them in my crypto wallet. Simple? Yes, this is very simple and easy to do from a technology point of view. Blockchain technology allows us to do it. 
 
-
-
 ### How to set up the initial price for your token?
 
 We hear this question very often. What should be the price of my token. To answer this question we have to divide it into two phases:
 
-**Phase-1: IPO - Initial Public Offer.** 
+
+
+###### **Phase-1: Token IPO - Initial Public Offer.** Token Pre-Sales
 
 Initial token price will be written in Smart Contract (literally Blockchain Engineer will set it up in the piece of code). And during the IPO phase every investor could buy your token for this price. Let’s make an example calculation:
 
-Value of the property: $450,000
+***Value of the property:** $450,000*
 
-Amount of tokens you want to issue: 100,000
+***Amount of tokens you want to issue:** 100,000*
 
-1 Token price: $450,000 / 100,000 = $4,5 
+***1 Token price: **$450,000 / 100,000 = $4,5 *
 
 
+
+###### **Phase-2: Token listed on the crypto exchange. **
+
+At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
 <!---->
