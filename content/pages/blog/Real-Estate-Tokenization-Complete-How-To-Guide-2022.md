@@ -90,6 +90,8 @@ There are at least couple of reasons:
 
 ![](/images/Screenshot%202022-01-10%20at%2016.07.01.png)
 
+###
+
 ### What is a token? And what is a tokenization?
 
 You can think about tokens as shares of your investment (real estate property). Let's say you want to build a nice condo in Miami and need US$100,000,000 to make it happen. Let’s assume that you will create 100mln tokens, and in the IPO every token will be worth 1 USD.  1 token is equal to 1 USD. It means that I can invest $10,000 buying 10,000 tokens from you and collecting them in my crypto wallet. Simple? Yes, this is very simple and easy to do from a technology point of view. Blockchain technology allows us to do it. 
@@ -106,13 +108,13 @@ Initial token price will be written in Smart Contract (literally Blockchain Engi
 
 ***Amount of tokens you want to issue:** 100,000*
 
-\*\*\*1 Token price: \*\*$450,000 / 100,000 = $4,5 \*\*\*
+1 Token price: $450,000 / 100,000 = $4,5
 
-###### \*\*Phase-2: Token listed on the crypto exchange. \*\*
+###### **Phase-2: Token listed on the crypto exchange.**
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
-# Step1 - Blockchain
+## Step1 - Blockchain
 
 ### What is the blockchain?
 
@@ -124,9 +126,9 @@ There are a couple of blockchain we can use for tokenization: Ethereum, Tezos, C
 
 Glossary: 
 
-***Gas and fees** - Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
+**Gas and fees** - *Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
 
-\***Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. \*
+**Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. \*
 
 ### What is the token?
 
@@ -156,8 +158,6 @@ You can also find the name for our token as \*\*security token. \*\*
 
 To summarise once more: Tokens are **essentially digital, liquid contracts for fractions of any asset that already has value**, like real estate, a car, or corporate stock. Using security tokens means investors can expect that their ownership stake is preserved on the blockchain ledger.
 
-
-
 ### How to ship your own token?
 
 **Coin vs Token. What is the difference? Do we create a coin or a token?** Let’s explain. 
@@ -171,5 +171,47 @@ There are a couple of token standards (marked as ERC-20, ERC-721, ERC-777 and ER
 *Extra peace of knowledge: You probably heard of Non Fungible Tokens (NFT). Instead of Fungible Tokens, NFT is a way to represent anything unique as an Ethereum-based asset, like a piece of art. Imagine that you have digital certification (token NFT) that proves ownership of Mona Lisa art. There is only one original Mona Lisa and it can only have one official owner.*
 
 So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What else do we need?
+
+### What the heck is a smart contract? Do we need it? 
+
+A **smart contract** is a program (piece of code written by a blockchain developer) that runs in the blockchain network (in our case - Ethereum). Smart contracts will help make tokenization happen.
+
+We have to create a couple of smart contracts. First smart contract will be responsible for token creation and initiation of a token IPO (Initial Public Offering).
+
+Token represents share in your property. Our token will work with wallets and crypto exchanges. You want to have the possibility to transfer and trade your tokens. 
+
+### Token IPO 
+
+An initial public offering (IPO) is a process in which your company sells crypto assets (tokens) of its real estate to the public in new issuance. The process allows your company to raise capital from public investors. This is a very important step because we have to work together to figure out a couple of things. We have to create a new smart contract and set the following parameters inside the contract:
+
+*   We have to create an established **quantity** of tokens (f.e. 1,000,000 tokens)
+
+*   We want to allow **buying tokens for ETH** (user sends us ETH and in return gets our real estate tokens)
+
+*   You can **START/STOP** selling tokens at any moment \[only admin/owner can do this]
+
+*   You can **BURN / WITHDRAW** unsold tokens \[only admin/owner can do this]
+
+*   You can **change the price** of the token at any moment \[only admin/owner can do this]
+
+*   You have to **establish token price** (for example: 1 token = $1)
+
+\-
+
+##### What else do we need for IPO?
+
+**Multisig Wallet for IPO.** Why do we need it? The purpose of multisig wallets is to increase security by requiring multiple parties to agree on transactions before execution. Transactions can be executed only when confirmed by a predefined number of owners. 
+
+Using a multisig wallet is essential to make an IPO. We can use an open source wallet like [Gnosis](https://gnosis.io/). It will be your company crypto wallet. 
+
+\--
+
+#### Right to share in profits. How to make profits distribution to stakeholders?
+
+This is optional but I guess you would like to incentivize your investors to buy your tokens. If your property business annual ROI is 5% you can share this with your crypto investors. How? We will create another smart contract responsible for this operation. 
+
+We want to pay a dividend only for people who bought tokens and keep them for at least a year (it might be also 3 or 6 months - up to your specific business case). We use one of the blockchain mechanisms - staking. Simply put, staking is the act of locking a token (or cryptocurrency) to receive rewards. We want to create a service to offer staking to our users. How does it work? As we mentioned - by creating a new smart contract (piece of code executing on the blockchain).
+
+All stakeholders will have an option to stake tokens. It means that they have to transfer tokens to a smart contract address (like sending to the wallet). When they get the right to get a dividend then they will have the option to withdraw tokens plus dividend. There will also be another option for investors, which is to keep tokens in staking and withdraw only dividends.
 
 <!---->
