@@ -196,6 +196,14 @@ An initial public offering (IPO) is a process in which your company sells crypto
 
 *   You have to **establish token price** (for example: 1 token = $1)
 
+
+
+##### What else do we need for IPO? 
+
+**Multisig Wallet for IPO. **Why do we need it? The purpose of multisig wallets is to increase security by requiring multiple parties to agree on transactions before execution. Transactions can be executed only when confirmed by a predefined number of owners. 
+
+Using a multisig wallet is essential to make an IPO. We can use an open source wallet like [Gnosis](https://gnosis.io/). It will be your company crypto wallet. 
+
 \--
 
 #### Right to share in profits. How to make profits distribution to stakeholders?
