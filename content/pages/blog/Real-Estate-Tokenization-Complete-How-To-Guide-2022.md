@@ -158,8 +158,6 @@ You can also find the name for our token as \*\*security token. \*\*
 
 To summarise once more: Tokens are **essentially digital, liquid contracts for fractions of any asset that already has value**, like real estate, a car, or corporate stock. Using security tokens means investors can expect that their ownership stake is preserved on the blockchain ledger.
 
-
-
 ### How to ship your own token?
 
 **Coin vs Token. What is the difference? Do we create a coin or a token?** Let’s explain. 
@@ -174,8 +172,6 @@ There are a couple of token standards (marked as ERC-20, ERC-721, ERC-777 and ER
 
 So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What else do we need?
 
-
-
 ### What the heck is a smart contract? Do we need it? 
 
 A smart contract is a program (piece of code written by a software developer) that runs in the blockchain network (in our case - Ethereum). Smart contracts will help make tokenization happen. We have to create a couple of smart contracts. First will be responsible for our creation and initiate a token IPO (Initial Public Offering). 
@@ -186,6 +182,20 @@ Token represents share in your property. Our token will work with wallets and cr
 
 
 
+### Token IPO 
 
+An initial public offering (IPO) is a process in which your company sells crypto assets (tokens) of its real estate to the public in new issuance. The process allows your company to raise capital from public investors. This is a very important step because we have to work together to figure out a couple of things. We have to create a new smart contract and set the following parameters inside the contract:
+
+*   We have to create an established quantity of tokens (f.e. 1,000,000 tokens)
+
+*   We want to allow buying tokens for ETH (user sends us ETH and in return gets our real estate tokens)
+
+*   You can START/STOP selling tokens at any moment \[only admin/owner can do this]
+
+*   You can BURN / WITHDRAW unsold tokens \[only admin/owner can do this]
+
+*   You can change the price of the token at any moment \[only admin/owner can do this]
+
+*   You have to establish token price (for example: 1 token = $10)
 
 <!---->
