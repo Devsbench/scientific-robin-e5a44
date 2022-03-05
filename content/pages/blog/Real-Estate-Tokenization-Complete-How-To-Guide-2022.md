@@ -116,7 +116,7 @@ At some point you would want to list your token on a public crypto exchange to m
 
 
 
-# Step1 - Blockchain
+## Step1 - Blockchain
 
 ### What is the blockchain?
 
