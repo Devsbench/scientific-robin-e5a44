@@ -196,12 +196,11 @@ An initial public offering (IPO) is a process in which your company sells crypto
 
 *   You have to **establish token price** (for example: 1 token = $1)
 
+\--
 
-
-#### Right to share in profits. How to make profits distribution to stakeholders. 
+#### Right to share in profits. How to make profits distribution to stakeholders.
 
 This is optional but I guess you would like to incentivize your investors to buy your tokens. If your property business annual ROI is 5% you can share this with your crypto investors. How? We will create another smart contract responsible for this operation. 
-
 
 Assumption: We want to pay a dividend only for people who bought tokens and keep them for at least a year (it might be also 3 or 6 months - up to your specific business case). We use one of the blockchain mechanisms - staking. Simply put, staking is the act of locking a token (or cryptocurrency) to receive rewards. We create a service to offer staking to our users. How does it work?
 
