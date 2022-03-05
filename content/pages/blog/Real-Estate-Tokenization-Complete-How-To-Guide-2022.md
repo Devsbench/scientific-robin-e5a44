@@ -174,9 +174,9 @@ So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What el
 
 ### What the heck is a smart contract? Do we need it? 
 
-A **smart contract **is a program (piece of code written by a blockchain developer) that runs in the blockchain network (in our case - Ethereum). Smart contracts will help make tokenization happen. 
+A \*\*smart contract \*\* is a program (piece of code written by a blockchain developer) that runs in the blockchain network (in our case - Ethereum). Smart contracts will help make tokenization happen.
 
-We have to create a couple of smart contracts. First smart contract will be responsible for token creation and initiation of a token IPO (Initial Public Offering). 
+We have to create a couple of smart contracts. First smart contract will be responsible for token creation and initiation of a token IPO (Initial Public Offering).
 
 Token represents share in your property. Our token will work with wallets and crypto exchanges. You want to have the possibility to transfer and trade your tokens. 
 
