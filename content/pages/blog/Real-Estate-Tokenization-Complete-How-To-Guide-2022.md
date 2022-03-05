@@ -124,8 +124,6 @@ There are many definitions of the blockchain however we like this one. The block
 
 There are a couple of blockchain we can use for tokenization: Ethereum, Tezos, Cardano, Solana, Hyperledger etc. All of these blockchains are featured with **smart contracts** (f.e. Bitcoin blockchain doesn’t have smart contracts - we can’t use it). Smart contracts give the ability to create own tokens. We pick Ethereum as the most advanced and developed blockchain and also very popular. 
 
-
-
 Glossary: 
 
 **Gas and fees** - *Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
@@ -160,6 +158,8 @@ You can also find the name for our token as \*\*security token. \*\*
 
 To summarise once more: Tokens are **essentially digital, liquid contracts for fractions of any asset that already has value**, like real estate, a car, or corporate stock. Using security tokens means investors can expect that their ownership stake is preserved on the blockchain ledger.
 
+
+
 ### How to ship your own token?
 
 **Coin vs Token. What is the difference? Do we create a coin or a token?** Let’s explain. 
@@ -173,5 +173,19 @@ There are a couple of token standards (marked as ERC-20, ERC-721, ERC-777 and ER
 *Extra peace of knowledge: You probably heard of Non Fungible Tokens (NFT). Instead of Fungible Tokens, NFT is a way to represent anything unique as an Ethereum-based asset, like a piece of art. Imagine that you have digital certification (token NFT) that proves ownership of Mona Lisa art. There is only one original Mona Lisa and it can only have one official owner.*
 
 So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What else do we need?
+
+
+
+### What the heck is a smart contract? Do we need it? 
+
+A smart contract is a program (piece of code written by a software developer) that runs in the blockchain network (in our case - Ethereum). Smart contracts will help make tokenization happen. We have to create a couple of smart contracts. First will be responsible for our creation and initiate a token IPO (Initial Public Offering). 
+
+Token represents share in your property. Our token will work with wallets and crypto exchanges. You want to have the possibility to transfer and trade your tokens. 
+
+
+
+
+
+
 
 <!---->
