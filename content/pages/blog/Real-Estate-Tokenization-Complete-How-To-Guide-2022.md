@@ -114,7 +114,7 @@ Initial token price will be written in Smart Contract (literally Blockchain Engi
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
-#
+
 
 # Step1 - Blockchain
 
