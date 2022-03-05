@@ -198,7 +198,7 @@ An initial public offering (IPO) is a process in which your company sells crypto
 
 \--
 
-#### Right to share in profits. How to make profits distribution to stakeholders.
+#### Right to share in profits. How to make profits distribution to stakeholders?
 
 This is optional but I guess you would like to incentivize your investors to buy your tokens. If your property business annual ROI is 5% you can share this with your crypto investors. How? We will create another smart contract responsible for this operation. 
 
