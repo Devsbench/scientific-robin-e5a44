@@ -214,10 +214,6 @@ We want to pay a dividend only for people who bought tokens and keep them for at
 
 All stakeholders will have an option to stake tokens. It means that they have to transfer tokens to a smart contract address (like sending to the wallet). When they get the right to get a dividend then they will have the option to withdraw tokens plus dividend. There will also be another option for investors, which is to keep tokens in staking and withdraw only dividends.
 
-
-
-
-
 #### **Tokenization platform - User Interface in Web application**&#xA;
 
 What user (crypto investor) can do in the web portal:
@@ -238,6 +234,13 @@ As administrator you can do Start/Stop IPO, change the IPO price, pay dividend (
 
 Some technicalities: App will be build in the testnet blockchain, deployed on the mainnet, verification will be done by etherscan.io 
 
-We assume that in the first iteration of the platform you can add only one property for tokenization (one token creation). 
+We assume that in the first iteration of the platform you can add only one property for tokenization (one token creation).
+
+
+
+#### Ok, let's talk about money. How much does tokenization costs?
+
+Client always ask: “How much does it cost?” And the best answer is “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+
 
 <!---->
