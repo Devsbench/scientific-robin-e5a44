@@ -114,8 +114,6 @@ Initial token price will be written in Smart Contract (literally Blockchain Engi
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
-
-
 ## Step1 - Blockchain
 
 ### What is the blockchain?
@@ -126,9 +124,11 @@ There are many definitions of the blockchain however we like this one. The block
 
 There are a couple of blockchain we can use for tokenization: Ethereum, Tezos, Cardano, Solana, Hyperledger etc. All of these blockchains are featured with **smart contracts** (f.e. Bitcoin blockchain doesn’t have smart contracts - we can’t use it). Smart contracts give the ability to create own tokens. We pick Ethereum as the most advanced and developed blockchain and also very popular. 
 
+
+
 Glossary: 
 
-***Gas and fees** - Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
+**Gas and fees** - *Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
 
 **Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. \*
 
