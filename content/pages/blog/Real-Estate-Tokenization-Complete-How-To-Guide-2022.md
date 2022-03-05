@@ -196,9 +196,7 @@ An initial public offering (IPO) is a process in which your company sells crypto
 
 *   You have to **establish token price** (for example: 1 token = $1)
 
-
-
-
+\-
 
 ##### What else do we need for IPO?
 
