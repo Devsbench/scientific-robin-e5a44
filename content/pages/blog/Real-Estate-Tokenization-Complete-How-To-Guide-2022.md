@@ -194,6 +194,6 @@ An initial public offering (IPO) is a process in which your company sells crypto
 
 *   You can **change the price** of the token at any moment \[only admin/owner can do this]
 
-*   You have to **establish token price **(for example: 1 token = $1)
+*   You have to **establish token price** (for example: 1 token = $1)
 
 <!---->
