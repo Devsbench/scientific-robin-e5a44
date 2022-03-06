@@ -206,12 +206,42 @@ Using a multisig wallet is essential to make an IPO. We can use an open source w
 
 \--
 
-#### Right to share in profits. How to make profits distribution to stakeholders?
+#### Right to share in profit. How to make profit distribution to stakeholders?
 
 This is optional but I guess you would like to incentivize your investors to buy your tokens. If your property business annual ROI is 5% you can share this with your crypto investors. How? We will create another smart contract responsible for this operation. 
 
 We want to pay a dividend only for people who bought tokens and keep them for at least a year (it might be also 3 or 6 months - up to your specific business case). We use one of the blockchain mechanisms - staking. Simply put, staking is the act of locking a token (or cryptocurrency) to receive rewards. We want to create a service to offer staking to our users. How does it work? As we mentioned - by creating a new smart contract (piece of code executing on the blockchain).
 
 All stakeholders will have an option to stake tokens. It means that they have to transfer tokens to a smart contract address (like sending to the wallet). When they get the right to get a dividend then they will have the option to withdraw tokens plus dividend. There will also be another option for investors, which is to keep tokens in staking and withdraw only dividends.
+
+#### **Tokenization platform - User Interface in Web application**&#xA;
+
+What user (crypto investor) can do in the web portal:
+
+*   Users will have the ability to buy tokens on IPO phase (set exact amount of tokens + secure ETH as a fee for paying the **gas**). 
+
+*   Application will ask to connect with the user's crypto wallet (Metamask etc.)
+
+*   User sees how much tokens bought (and the total amount of tokens user has)
+
+<!---->
+
+*   Stake tokens for dividend
+
+*   Can withdraw tokens with the dividend (system shows the number of stacked tokens and the dividend available for payment)
+
+As administrator you can do Start/Stop IPO, change the IPO price, pay dividend (in ETH). 
+
+Some technicalities: App will be build in the testnet blockchain, deployed on the mainnet, verification will be done by etherscan.io 
+
+We assume that in the first iteration of the platform you can add only one property for tokenization (one token creation).
+
+\--
+
+#### Ok, let's talk about money. How much does tokenization costs?
+
+![](/images/Untitled%20\(1502%20x%201000%20px\)%20\(2\).png)
+
+Client always ask: “How much does it cost?” And the best answer is “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
 
 <!---->
