@@ -316,7 +316,7 @@ Outcomes from this stage:
 
 \*\*2. Wireframes + UX. \*\*A wireframe is a simple visual guide that represents the skeletal framework of a website or app. Think of it as the blueprint for final design. Wireframes are most often created by designers (person who combines skills of Graphic & User Experience specialist). We create page structure and layout, information architecture, user flow, functionality. Wireframes can be created digitally in apps like Figma, InVision, AdobeXD. 
 
-**3. App Development. **
+\*\*3. App Development.\*\*
 
 Now it’s time to actually build your application. Developers (Front-End and Back-end) start working. We also have a Project Manager to help coordinate the work. 
 
