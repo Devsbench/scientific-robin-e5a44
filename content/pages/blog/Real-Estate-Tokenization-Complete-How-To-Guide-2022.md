@@ -262,14 +262,12 @@ A tokenization app on the web is just a type of web application, same as Gmail o
 
 *   The backend is the data and logic that powers that frontend: APIs, business logics, database, integration with Blockchain (Ethereum, Tezos, Cardano, Solana, Polygon, Etc). It’s usually built in a language like JavaScript, Python, Go, C++, etc.
 
-
-
-
-
 To better explain, let's break down an example. Let’s take a look at Twitter.com, which you can load in your browser (skipping over the mobile apps for now):
 
 *   Twitter’s frontend is the UI elements you see on the screen and how you interact with them. It’s built in Javascript, React etc.
 
 *   Twitter’s backend stores all historical tweets, who you follow, what topics are trending, and anything data related. The frontend gets that data to you via API endpoints.
+
+![](images/Screenshot%202022-03-12%20at%2016.02.47.png)
 
 <!---->
