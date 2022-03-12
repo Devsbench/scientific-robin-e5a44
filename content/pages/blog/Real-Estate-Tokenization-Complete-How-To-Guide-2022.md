@@ -316,12 +316,38 @@ Outcomes from this stage:
 
 *   Cooperation plan, our contribution and suggested order of delivery – an optimal course of project milestones to optimize the process.
 
-##### 2/ Wireframes + UX. 
+##### 2/ Wireframes + UX.
 
 A wireframe is a simple visual guide that represents the skeletal framework of a website or app. Think of it as the blueprint for final design. Wireframes are most often created by designers (person who combines skills of Graphic & User Experience specialist). We create page structure and layout, information architecture, user flow, functionality. Wireframes can be created digitally in apps like Figma, InVision, AdobeXD. 
 
 ##### 3/ App Development.
 
 Now it’s time to actually build your application. Developers (Front-End and Back-end) start working. We also have a Project Manager to help coordinate the work. 
+
+
+
+##### And the last topic we want to cover: 
+
+#### How to list your token on Crypto Exchange? Centralised and Decentralised Crypto Exchange&#xA;
+
+As you might realized there are two types of crypto exchanges: 
+
+**What is a Centralized Crypto Exchange?** - In these types of exchanges, **a third party** is used to monitor and secure the transactions on behalf of the user. The blockchain system does not track these deals. The centralized cryptocurrency exchanges require their users to verify their personal information before using the tools provided by them. The verified users on these exchanges get to enjoy a higher withdrawal quota along with other customer support in case of any technical error. 
+
+Most popular centralized crypto exchanges are **Coinbase, Binanace, Kraken** etc
+
+**What is a Decentralized Crypto Exchange?** A decentralized crypto exchange **(DEX)**  is very similar to a centralized crypto exchange but without third-party intervention. These exchanges do not rely on any third party, The funds in the exchange are stored on the blockchain. Peer-to-peer trading (P2P) is also allowed by these exchanges that require the use of an escrow system or proxy tokens. 
+
+Most popular decentralized exchanges are: Airswap, Uniswap, Pancakeswap.
+
+#### How to list your Real Estate Token on exchange? 
+
+To list your token on a centralized exchange you have to pay them to list your token on their exchange.  Every centralized crypto exchange has their own terms and conditions which we can check on their support page, if you want to enlist your token on their crypto exchange. Others require that your token should be working and have a specific daily volume, enlisted on coin market cap.
+
+When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>
+
+**Here is a short video how you can do it: https://youtu.be/9hO4Y\_20Dm4**
+
+Want to build your tokenization app? Let's connect and discuss what we can do for you: houseofblockchain@gmail.com
 
 <!---->
