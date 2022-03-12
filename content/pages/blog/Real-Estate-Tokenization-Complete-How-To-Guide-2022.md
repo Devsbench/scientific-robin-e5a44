@@ -252,6 +252,6 @@ A company might choose to develop and release a minimum viable product because i
 
 Here you can check example costs of Real Estate tokenization app development: <https://docs.google.com/spreadsheets/d/1sUmOdBZP9ZIQfKfMEabQ2rtLBokyrBv_uY7Mzj1hmAw/edit?usp=sharing>
 
-![](images/Screenshot%202022-03-12%20at%2015.51.50.png)
+![](/images/Screenshot%202022-03-12%20at%2015.51.50.png)
 
 <!---->
