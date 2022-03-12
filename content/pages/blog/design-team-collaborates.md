@@ -35,7 +35,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-### **What is stablecoin? Guide for crypto beginners. **
+### What is stablecoin? Guide for crypto beginners. 
 
 We are hearing about cryptocurrencies more and more often. They are a popular source of investment by individuals and businesses users around the world. For many of us, it is still a mysterious concept that creates uncertainty. It is usually gives with a wide berth. We have created a guide that will bring each of you closer to the topic of cryptocurrencies. It will explain what exactly they are and what types they are divided into.
 
