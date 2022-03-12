@@ -268,6 +268,20 @@ To better explain, let's break down an example. Let’s take a look at Twitter.c
 
 *   Twitter’s backend stores all historical tweets, who you follow, what topics are trending, and anything data related. The frontend gets that data to you via API endpoints.
 
-![](/images/Screenshot%202022-03-12%20at%2016.02.47.png)
+![](images/Screenshot%202022-03-12%20at%2016.02.47.png)
+
+Frontend isn’t just shapes and colors though; there’s plenty of important logic in there that interacts with the backend (like making API requests to get data). The reality is that the border between these two things isn’t exactly scientific, but it’s a useful framework for thinking about apps. It’s also how job postings are (sometimes) split:
+
+*   Frontend engineers will work on the app’s UI, and use API endpoints that other engineers have already built
+
+*   Backend engineers work on building and maintaining API endpoints, the database, and other behind the scenes application or infrastructure logic
+
+*   Blockchain Engineer - write a smart contract, integration with Blockchain (Server) and connecting crypto wallet to store your tokens.
+
+*   Full stack engineers do both! (the whole stack)
+
+
+
+
 
 <!---->
