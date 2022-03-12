@@ -90,8 +90,6 @@ There are at least couple of reasons:
 
 ![](/images/Screenshot%202022-01-10%20at%2016.07.01.png)
 
-###
-
 ### What is a token? And what is a tokenization?
 
 You can think about tokens as shares of your investment (real estate property). Let's say you want to build a nice condo in Miami and need US$100,000,000 to make it happen. Let’s assume that you will create 100mln tokens, and in the IPO every token will be worth 1 USD.  1 token is equal to 1 USD. It means that I can invest $10,000 buying 10,000 tokens from you and collecting them in my crypto wallet. Simple? Yes, this is very simple and easy to do from a technology point of view. Blockchain technology allows us to do it. 
@@ -100,17 +98,17 @@ You can think about tokens as shares of your investment (real estate property). 
 
 We hear this question very often. What should be the price of my token. To answer this question we have to divide it into two phases:
 
-###### **Phase-1: Token IPO - Initial Public Offer.** Token Pre-Sales
+#### **Phase-1: Token IPO - Initial Public Offer. Token Pre-Sales**
 
 Initial token price will be written in Smart Contract (literally Blockchain Engineer will set it up in the piece of code). And during the IPO phase every investor could buy your token for this price. Let’s make an example calculation:
 
-***Value of the property:** $450,000*
+*Value of the property: $450,000*
 
-***Amount of tokens you want to issue:** 100,000*
+*Amount of tokens you want to issue: 100,000*
 
 1 Token price: $450,000 / 100,000 = $4,5
 
-###### **Phase-2: Token listed on the crypto exchange.**
+#### **Phase-2: Token listed on the crypto exchange.**
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
@@ -168,7 +166,7 @@ In addition to having coins, advanced blockchains like Ethereum, Tezos, Cardano 
 
 There are a couple of token standards (marked as ERC-20, ERC-721, ERC-777 and ERC 1155). The most useful and popular for asset tokenization is ERC-20. The ERC-20 introduces a standard for **Fungible Tokens**, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. For example, an ERC-20 Token acts just like the ETH, meaning that 1 Token is and will always be equal to all the other Tokens.
 
-*Extra peace of knowledge: You probably heard of Non Fungible Tokens (NFT). Instead of Fungible Tokens, NFT is a way to represent anything unique as an Ethereum-based asset, like a piece of art. Imagine that you have digital certification (token NFT) that proves ownership of Mona Lisa art. There is only one original Mona Lisa and it can only have one official owner.*
+\*\*\*Extra piece of knowledge: \**You probably heard of Non Fungible Tokens (NFT). Instead of Fungible Tokens, NFT is a way to represent anything unique as an Ethereum-based asset, like a piece of art. Imagine that you have digital certification (token NFT) that proves ownership of Mona Lisa art. There is only one original Mona Lisa and it can only have one official owner.*
 
 So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What else do we need?
 
@@ -324,9 +322,7 @@ A wireframe is a simple visual guide that represents the skeletal framework of a
 
 Now it’s time to actually build your application. Developers (Front-End and Back-end) start working. We also have a Project Manager to help coordinate the work. 
 
-
-
-##### And the last topic we want to cover: 
+##### And the last topic we want to cover:
 
 #### How to list your token on Crypto Exchange? Centralised and Decentralised Crypto Exchange&#xA;
 
@@ -344,9 +340,7 @@ Most popular decentralized exchanges are: Airswap, Uniswap, Pancakeswap.
 
 To list your token on a centralized exchange you have to pay them to list your token on their exchange.  Every centralized crypto exchange has their own terms and conditions which we can check on their support page, if you want to enlist your token on their crypto exchange. Others require that your token should be working and have a specific daily volume, enlisted on coin market cap.
 
-When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>
-
-**Here is a short video how you can do it: https://youtu.be/9hO4Y\_20Dm4**
+When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>****
 
 Want to build your tokenization app? Let's connect and discuss what we can do for you: houseofblockchain@gmail.com
 
