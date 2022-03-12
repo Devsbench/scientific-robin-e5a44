@@ -268,6 +268,6 @@ To better explain, let's break down an example. Let’s take a look at Twitter.c
 
 *   Twitter’s backend stores all historical tweets, who you follow, what topics are trending, and anything data related. The frontend gets that data to you via API endpoints.
 
-![](images/Screenshot%202022-03-12%20at%2016.02.47.png)
+![](/images/Screenshot%202022-03-12%20at%2016.02.47.png)
 
 <!---->
