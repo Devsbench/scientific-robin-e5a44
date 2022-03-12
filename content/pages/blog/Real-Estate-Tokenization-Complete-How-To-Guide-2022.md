@@ -102,11 +102,11 @@ We hear this question very often. What should be the price of my token. To answe
 
 Initial token price will be written in Smart Contract (literally Blockchain Engineer will set it up in the piece of code). And during the IPO phase every investor could buy your token for this price. Let’s make an example calculation:
 
-##### *Value of the property: $450,000*
+###### *Value of the property: $450,000*
 
-##### *Amount of tokens you want to issue: 100,000*
+###### *Amount of tokens you want to issue: 100,000*
 
-##### 1 Token price: $450,000 / 100,000 = $4,5
+###### 1 Token price: $450,000 / 100,000 = $4,5
 
 #### **Phase-2: Token listed on the crypto exchange.**
 
