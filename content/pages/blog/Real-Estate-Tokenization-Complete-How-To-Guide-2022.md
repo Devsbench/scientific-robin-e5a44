@@ -98,7 +98,7 @@ You can think about tokens as shares of your investment (real estate property). 
 
 We hear this question very often. What should be the price of my token. To answer this question we have to divide it into two phases:
 
-###### **Phase-1: Token IPO - Initial Public Offer.** Token Pre-Sales
+###### **Phase-1: Token IPO - Initial Public Offer. **Token Pre-Sales
 
 Initial token price will be written in Smart Contract (literally Blockchain Engineer will set it up in the piece of code). And during the IPO phase every investor could buy your token for this price. Let’s make an example calculation:
 
