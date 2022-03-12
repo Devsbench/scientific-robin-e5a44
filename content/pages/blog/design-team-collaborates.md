@@ -1,5 +1,5 @@
 ---
-title: What is heck is stablecoin? Guide for crypto beginners.
+title: What the heck is stablecoin? Guide for crypto beginners.
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
