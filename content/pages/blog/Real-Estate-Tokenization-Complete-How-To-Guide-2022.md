@@ -88,6 +88,10 @@ There are at least couple of reasons:
 
 *   **Automating Processes.** The use of DLT can remove time-consuming reconciliation processes between multiple parties by offering an immutable record of ownership.
 
+
+
+
+
 ![](/images/Screenshot%202022-01-10%20at%2016.07.01.png)
 
 ###
@@ -168,7 +172,7 @@ In addition to having coins, advanced blockchains like Ethereum, Tezos, Cardano 
 
 There are a couple of token standards (marked as ERC-20, ERC-721, ERC-777 and ERC 1155). The most useful and popular for asset tokenization is ERC-20. The ERC-20 introduces a standard for **Fungible Tokens**, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. For example, an ERC-20 Token acts just like the ETH, meaning that 1 Token is and will always be equal to all the other Tokens.
 
-***Extra piece of knowledge: **You probably heard of Non Fungible Tokens (NFT). Instead of Fungible Tokens, NFT is a way to represent anything unique as an Ethereum-based asset, like a piece of art. Imagine that you have digital certification (token NFT) that proves ownership of Mona Lisa art. There is only one original Mona Lisa and it can only have one official owner.*
+\*\*\*Extra piece of knowledge: \**You probably heard of Non Fungible Tokens (NFT). Instead of Fungible Tokens, NFT is a way to represent anything unique as an Ethereum-based asset, like a piece of art. Imagine that you have digital certification (token NFT) that proves ownership of Mona Lisa art. There is only one original Mona Lisa and it can only have one official owner.*
 
 So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What else do we need?
 
