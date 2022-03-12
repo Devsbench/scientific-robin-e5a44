@@ -264,6 +264,8 @@ A tokenization app on the web is just a type of web application, same as Gmail o
 
 
 
+
+
 To better explain, let's break down an example. Let’s take a look at Twitter.com, which you can load in your browser (skipping over the mobile apps for now):
 
 *   Twitter’s frontend is the UI elements you see on the screen and how you interact with them. It’s built in Javascript, React etc.
