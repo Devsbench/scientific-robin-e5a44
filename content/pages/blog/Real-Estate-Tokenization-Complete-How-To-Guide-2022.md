@@ -240,7 +240,7 @@ We assume that in the first iteration of the platform you can add only one prope
 
 ![](/images/money.png)
 
-Client always ask:** “How much does it cost?”** And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Client always ask:\*\* “How much does it cost?”\*\* And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
 
 A company might choose to develop and release a minimum viable product because its product team wants to:
 
@@ -253,5 +253,101 @@ A company might choose to develop and release a minimum viable product because i
 Here you can check example costs of Real Estate tokenization app development: <https://docs.google.com/spreadsheets/d/1sUmOdBZP9ZIQfKfMEabQ2rtLBokyrBv_uY7Mzj1hmAw/edit?usp=sharing>
 
 ![](/images/Screenshot%202022-03-12%20at%2015.51.50.png)
+
+### How apps are built?
+
+A tokenization app on the web is just a type of web application, same as Gmail or Twitter. Pretty  much all applications out there exist in this paradigm of frontend and backend. Traditionally, here’s how the split works:
+
+*   The frontend is what you see and interact with as a user: text, shapes, links, and all of that. It’s usually built in some combination of HTML, CSS, and JavaScript.
+
+*   The backend is the data and logic that powers that frontend: APIs, business logics, database, integration with Blockchain (Ethereum, Tezos, Cardano, Solana, Polygon, Etc). It’s usually built in a language like JavaScript, Python, Go, C++, etc.
+
+To better explain, let's break down an example. Let’s take a look at Twitter.com, which you can load in your browser (skipping over the mobile apps for now):
+
+*   Twitter’s frontend is the UI elements you see on the screen and how you interact with them. It’s built in Javascript, React etc.
+
+*   Twitter’s backend stores all historical tweets, who you follow, what topics are trending, and anything data related. The frontend gets that data to you via API endpoints.
+
+![](images/Screenshot%202022-03-12%20at%2016.02.47.png)
+
+Frontend isn’t just shapes and colors though; there’s plenty of important logic in there that interacts with the backend (like making API requests to get data). The reality is that the border between these two things isn’t exactly scientific, but it’s a useful framework for thinking about apps. It’s also how job postings are (sometimes) split:
+
+*   Frontend engineers will work on the app’s UI, and use API endpoints that other engineers have already built
+
+*   Backend engineers work on building and maintaining API endpoints, the database, and other behind the scenes application or infrastructure logic
+
+*   Blockchain Engineer - write a smart contract, integration with Blockchain (Server) and connecting crypto wallet to store your tokens.
+
+*   Full stack engineers do both! (the whole stack)
+
+Like Twitter, your Tokenization Platform will have a frontend and a backend: Blockchain Backend
+
+Like software engineers need to do when they develop an application from scratch, let’s think through the kinds of data that we’ll need to store to power our, uh, tokenization app. There are a couple of “concepts” that need to exist:
+
+*   A user – email, full name, address, payment information
+
+*   A token – price, amount etc
+
+*   An order – buy tokens
+
+These may be decoupled in the actual database – e.g. we may want to store payment methods in a separate table than users – but the general theory holds. 
+
+We don’t want our frontend writing directly to the database (blockchain), so applications usually have API endpoints that sit in the middle. We might have one called \`createOrder\` (buying tokens) that takes a few parameters – order value, time – and adds a new row to the \`orders\` table. There might also be endpoints for authentication, so that you can sign into the store and not have to add your shipping address every goddamn time.
+
+###
+
+So, how the custom software application is made. Mostly in three steps:
+
+##### 1/ Product ideation and Scoping Workshop.
+
+(Strategic brainstorming session and project scoping, usually in the form of 1-day workshop (4-6hours). You come to us with your idea. In this meeting we have: Business person (you), and our team: Designer, Business Analytic, Blockchain Developer, Delivery Manager. The session is held either in our office or on your site, depending on what works the most for you. It can also be a virtual workshop – if that is what suits you.This is the time to show how we can adjust our experience and resources to build your product. We define the Initial Project Scope, outline the MVP draft. After this session you will have: 
+
+Outcomes from this stage:
+
+*   Deep understanding of your idea, including your personas and project’s pain points,
+
+*   The solution – what can we do to make your project succeed,
+
+*   Tailor-made technological stack to fully support your needs,
+
+*   Potential cost estimates, suggested way of project delivery,
+
+*   Epics, gathering the data we obtained during scoping session, prioritizing steps in the project development process,
+
+*   Cooperation plan, our contribution and suggested order of delivery – an optimal course of project milestones to optimize the process.
+
+##### 2/ Wireframes + UX.
+
+A wireframe is a simple visual guide that represents the skeletal framework of a website or app. Think of it as the blueprint for final design. Wireframes are most often created by designers (person who combines skills of Graphic & User Experience specialist). We create page structure and layout, information architecture, user flow, functionality. Wireframes can be created digitally in apps like Figma, InVision, AdobeXD. 
+
+##### 3/ App Development.
+
+Now it’s time to actually build your application. Developers (Front-End and Back-end) start working. We also have a Project Manager to help coordinate the work. 
+
+
+
+##### And the last topic we want to cover: 
+
+#### How to list your token on Crypto Exchange? Centralised and Decentralised Crypto Exchange&#xA;
+
+As you might realized there are two types of crypto exchanges: 
+
+**What is a Centralized Crypto Exchange?** - In these types of exchanges, **a third party** is used to monitor and secure the transactions on behalf of the user. The blockchain system does not track these deals. The centralized cryptocurrency exchanges require their users to verify their personal information before using the tools provided by them. The verified users on these exchanges get to enjoy a higher withdrawal quota along with other customer support in case of any technical error. 
+
+Most popular centralized crypto exchanges are **Coinbase, Binanace, Kraken** etc
+
+**What is a Decentralized Crypto Exchange?** A decentralized crypto exchange **(DEX)**  is very similar to a centralized crypto exchange but without third-party intervention. These exchanges do not rely on any third party, The funds in the exchange are stored on the blockchain. Peer-to-peer trading (P2P) is also allowed by these exchanges that require the use of an escrow system or proxy tokens. 
+
+Most popular decentralized exchanges are: Airswap, Uniswap, Pancakeswap.
+
+#### How to list your Real Estate Token on exchange? 
+
+To list your token on a centralized exchange you have to pay them to list your token on their exchange.  Every centralized crypto exchange has their own terms and conditions which we can check on their support page, if you want to enlist your token on their crypto exchange. Others require that your token should be working and have a specific daily volume, enlisted on coin market cap.
+
+When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>
+
+**Here is a short video how you can do it: https://youtu.be/9hO4Y\_20Dm4**
+
+Want to build your tokenization app? Let's connect and discuss what we can do for you: houseofblockchain@gmail.com
 
 <!---->
