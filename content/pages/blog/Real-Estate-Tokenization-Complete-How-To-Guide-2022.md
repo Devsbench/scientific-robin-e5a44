@@ -108,8 +108,6 @@ Initial token price will be written in Smart Contract (literally Blockchain Engi
 
 1 Token price: $450,000 / 100,000 = $4,5
 
-
-
 #### **Phase-2: Token listed on the crypto exchange.**
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
@@ -342,9 +340,7 @@ Most popular decentralized exchanges are: Airswap, Uniswap, Pancakeswap.
 
 To list your token on a centralized exchange you have to pay them to list your token on their exchange.  Every centralized crypto exchange has their own terms and conditions which we can check on their support page, if you want to enlist your token on their crypto exchange. Others require that your token should be working and have a specific daily volume, enlisted on coin market cap.
 
-When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>
-
-**Here is a short video how you can do it: https://youtu.be/9hO4Y\_20Dm4**
+When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>****
 
 Want to build your tokenization app? Let's connect and discuss what we can do for you: houseofblockchain@gmail.com
 
