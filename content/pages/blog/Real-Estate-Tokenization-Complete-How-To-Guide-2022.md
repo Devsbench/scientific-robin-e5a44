@@ -236,12 +236,22 @@ Some technicalities: App will be build in the testnet blockchain, deployed on th
 
 We assume that in the first iteration of the platform you can add only one property for tokenization (one token creation).
 
-\--
-
 #### Ok, let's talk about money. How much does tokenization costs?
 
-![](/images/Untitled%20\(1502%20x%201000%20px\)%20\(2\).png)
+![](/images/money.png)
 
-Client always ask: “How much does it cost?” And the best answer is “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Client always ask:** “How much does it cost?”** And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+
+A company might choose to develop and release a minimum viable product because its product team wants to:
+
+*   Release a product to the market as quickly as possible
+
+*   Test an idea with real users before committing a large budget to the product’s full development
+
+*   Learn what resonates with the company’s target market and what doesn’t
+
+Here you can check example costs of Real Estate tokenization app development: <https://docs.google.com/spreadsheets/d/1sUmOdBZP9ZIQfKfMEabQ2rtLBokyrBv_uY7Mzj1hmAw/edit?usp=sharing>
+
+![](/images/Screenshot%202022-03-12%20at%2015.51.50.png)
 
 <!---->
