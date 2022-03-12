@@ -280,8 +280,6 @@ Frontend isn’t just shapes and colors though; there’s plenty of important lo
 
 *   Full stack engineers do both! (the whole stack)
 
-
-
 Like Twitter, your Tokenization Platform will have a frontend and a backend: Blockchain Backend
 
 Like software engineers need to do when they develop an application from scratch, let’s think through the kinds of data that we’ll need to store to power our, uh, tokenization app. There are a couple of “concepts” that need to exist:
@@ -300,7 +298,7 @@ We don’t want our frontend writing directly to the database (blockchain), so a
 
 So, how the custom software application is made. Mostly in three steps:
 
-**1.Product ideation and Scoping Workshop **(Strategic brainstorming session and project scoping, usually in the form of 1-day workshop (4-6hours). You come to us with your idea. In this meeting we have: Business person (you), and our team: Designer, Business Analytic, Blockchain Developer, Delivery Manager. The session is held either in our office or on your site, depending on what works the most for you. It can also be a virtual workshop – if that is what suits you.This is the time to show how we can adjust our experience and resources to build your product. We define the Initial Project Scope, outline the MVP draft. After this session you will have: 
+\*\*1.Product ideation and Scoping Workshop \*\*(Strategic brainstorming session and project scoping, usually in the form of 1-day workshop (4-6hours). You come to us with your idea. In this meeting we have: Business person (you), and our team: Designer, Business Analytic, Blockchain Developer, Delivery Manager. The session is held either in our office or on your site, depending on what works the most for you. It can also be a virtual workshop – if that is what suits you.This is the time to show how we can adjust our experience and resources to build your product. We define the Initial Project Scope, outline the MVP draft. After this session you will have: 
 
 Outcomes from this stage:
 
@@ -316,7 +314,7 @@ Outcomes from this stage:
 
 *   Cooperation plan, our contribution and suggested order of delivery – an optimal course of project milestones to optimize the process.
 
-**2. Wireframes + UX. **A wireframe is a simple visual guide that represents the skeletal framework of a website or app. Think of it as the blueprint for final design. Wireframes are most often created by designers (person who combines skills of Graphic & User Experience specialist). We create page structure and layout, information architecture, user flow, functionality. Wireframes can be created digitally in apps like Figma, InVision, AdobeXD. 
+\*\*2. Wireframes + UX. \*\*A wireframe is a simple visual guide that represents the skeletal framework of a website or app. Think of it as the blueprint for final design. Wireframes are most often created by designers (person who combines skills of Graphic & User Experience specialist). We create page structure and layout, information architecture, user flow, functionality. Wireframes can be created digitally in apps like Figma, InVision, AdobeXD. 
 
 **3. App Development. **
 
