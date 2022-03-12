@@ -240,7 +240,7 @@ We assume that in the first iteration of the platform you can add only one prope
 
 ![](/images/money.png)
 
-Client always ask:** “How much does it cost?”** And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Client always ask:\*\* “How much does it cost?”\*\* And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
 
 A company might choose to develop and release a minimum viable product because its product team wants to:
 
@@ -253,5 +253,21 @@ A company might choose to develop and release a minimum viable product because i
 Here you can check example costs of Real Estate tokenization app development: <https://docs.google.com/spreadsheets/d/1sUmOdBZP9ZIQfKfMEabQ2rtLBokyrBv_uY7Mzj1hmAw/edit?usp=sharing>
 
 ![](/images/Screenshot%202022-03-12%20at%2015.51.50.png)
+
+### How apps are built?
+
+A tokenization app on the web is just a type of web application, same as Gmail or Twitter. Pretty  much all applications out there exist in this paradigm of frontend and backend. Traditionally, here’s how the split works:
+
+*   The frontend is what you see and interact with as a user: text, shapes, links, and all of that. It’s usually built in some combination of HTML, CSS, and JavaScript.
+
+*   The backend is the data and logic that powers that frontend: APIs, business logics, database, integration with Blockchain (Ethereum, Tezos, Cardano, Solana, Polygon, Etc). It’s usually built in a language like JavaScript, Python, Go, C++, etc.
+
+
+
+To better explain, let's break down an example. Let’s take a look at Twitter.com, which you can load in your browser (skipping over the mobile apps for now):
+
+*   Twitter’s frontend is the UI elements you see on the screen and how you interact with them. It’s built in Javascript, React etc.
+
+*   Twitter’s backend stores all historical tweets, who you follow, what topics are trending, and anything data related. The frontend gets that data to you via API endpoints.
 
 <!---->
