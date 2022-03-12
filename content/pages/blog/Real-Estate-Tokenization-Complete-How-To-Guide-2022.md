@@ -98,17 +98,17 @@ You can think about tokens as shares of your investment (real estate property). 
 
 We hear this question very often. What should be the price of my token. To answer this question we have to divide it into two phases:
 
-###### **Phase-1: Token IPO - Initial Public Offer. **Token Pre-Sales
+#### **Phase-1: Token IPO - Initial Public Offer. Token Pre-Sales**
 
 Initial token price will be written in Smart Contract (literally Blockchain Engineer will set it up in the piece of code). And during the IPO phase every investor could buy your token for this price. Let’s make an example calculation:
 
-***Value of the property:** $450,000*
+##### *Value of the property: $450,000*
 
-***Amount of tokens you want to issue:** 100,000*
+##### *Amount of tokens you want to issue: 100,000*
 
-1 Token price: $450,000 / 100,000 = $4,5
+##### 1 Token price: $450,000 / 100,000 = $4,5
 
-###### **Phase-2: Token listed on the crypto exchange.**
+#### **Phase-2: Token listed on the crypto exchange.**
 
 At some point you would want to list your token on a public crypto exchange to make it available to a wider space of investors (you can find more details about listing tokens on crypto exchanges later in this article). On crypto exchange the price of your token will follow the market desire. If people start to buy your token, the price will rise (from the initial price). If the people start to sell your token then the price will be low. 
 
