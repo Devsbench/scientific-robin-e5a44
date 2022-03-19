@@ -55,7 +55,7 @@ Real estate tokenization is an emerging trend representing the convergence of re
 
 **The future of real estate investing is fractional.** Fractionalized real estate shares allow investors to purchase pieces (shares) of a building or property. This provides retail investors with the opportunity to invest in commercial real estate without a large initial investment and provide property builders and owners with an additional source of liquidity. Tokenizing real estate has become the focus of many institutions in 2018, and is likely to continue into the future as Ethereum offers a way to add improved levels of liquidity (tokens) to a notoriously illiquid industry (real estate).
 
-Fractional ownership democratizes access to real estate investment, and therefore distributes and minimizes the risks and labor involved with owning property.
+Fractional ownership **democratizes access to real estate investment**, and therefore distributes and minimizes the risks and labor involved with owning property.
 
 Although many individuals and institutions see real estate as an attractive investment alternative, the expensive initial investment creates a significant barrier to entry for the average investor or property builder. Combined with inefficient paper-based and labor-intensive processes, as well as a lack of oversight causes limited participation, liquidity and performance. Making the real estate market accessible to a wider investor base requires improving efficiency in the initial investment process and the ongoing management and administration of property holdings. Issuing real estate tokens on a distributed ledger technology (DLT)-based platform and creating a marketplace for issuers (property owners), investors and other stakeholders may be the solution to taking the real estate market to the next level.
 
@@ -339,7 +339,7 @@ Most popular decentralized exchanges are: Airswap, Uniswap, Pancakeswap.
 
 To list your token on a centralized exchange you have to pay them to list your token on their exchange.  Every centralized crypto exchange has their own terms and conditions which we can check on their support page, if you want to enlist your token on their crypto exchange. Others require that your token should be working and have a specific daily volume, enlisted on coin market cap.
 
-When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>****
+When it comes to decentralized exchange (DEX) you can list your new token easily. We will support all the process with the following DEX: <https://app.uniswap.org/#/swap>\*\*\*\*
 
 Want to build your tokenization app? Let's connect and discuss what we can do for you: houseofblockchain@gmail.com
 
