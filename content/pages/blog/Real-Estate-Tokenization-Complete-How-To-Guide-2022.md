@@ -93,6 +93,7 @@ There are at least couple of reasons:
 
 
 
+
 ![](/images/Screenshot%202022-01-10%20at%2016.07.01.png)
 
 ### What is a token? And what is a tokenization?
