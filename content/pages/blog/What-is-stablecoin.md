@@ -6,7 +6,6 @@ date: '2019-03-24'
 thumb_image: images/Untitled design (14)-489119ea.png
 image: images/Untitled design (14)-6ca31fa6.png
 seo:
-  title: How Our Design Team Collaborates
   description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
   extra:
     - name: 'og:type'
