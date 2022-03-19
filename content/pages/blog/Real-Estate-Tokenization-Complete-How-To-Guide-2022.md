@@ -4,8 +4,7 @@ title: >-
   [2022]
 subtitle: >-
   In this article you learn how to build a Tokenization Platform for your Real
-  Estates. What is blockchain, token IPO, smart contract, stacking and many
-  more. Enjoy!
+  Estates. We explain what is: blockchain, token IPO, smart contract, stacking.
 excerpt: >-
   Tokenization helps asset or fund owners raise capital more efficiently, and
   gives investors unprecedented access to private real estate investments,
