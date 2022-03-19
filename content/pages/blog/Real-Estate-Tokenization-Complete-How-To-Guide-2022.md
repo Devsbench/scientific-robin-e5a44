@@ -101,7 +101,7 @@ There are at least couple of reasons:
 
 You can think about tokens as shares of your investment (real estate property). Let's say you want to build a nice condo in Miami and need US$100,000,000 to make it happen. Let’s assume that you will create 100mln tokens, and in the IPO every token will be worth 1 USD.  1 token is equal to 1 USD. It means that I can invest $10,000 buying 10,000 tokens from you and collecting them in my crypto wallet. Simple? Yes, this is very simple and easy to do from a technology point of view. Blockchain technology allows us to do it. 
 
-\--
+       
 
 #### How to set up the initial price for your token?
 
