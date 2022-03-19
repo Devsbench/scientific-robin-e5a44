@@ -223,7 +223,9 @@ We want to pay a dividend only for people who bought tokens and keep them for at
 
 All stakeholders will have an option to stake tokens. It means that they have to transfer tokens to a smart contract address (like sending to the wallet). When they get the right to get a dividend then they will have the option to withdraw tokens plus dividend. There will also be another option for investors, which is to keep tokens in staking and withdraw only dividends.
 
-#### **Tokenization platform - User Interface in Web application**&#xA;
+\--
+
+#### **Tokenization platform - User Interface in Web application**
 
 What user (crypto investor) can do in the web portal:
 
