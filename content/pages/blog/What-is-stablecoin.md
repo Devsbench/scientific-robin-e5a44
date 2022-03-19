@@ -35,6 +35,7 @@ seo:
     - name: 'twitter:image'
       value: images/11.jpg
       relativeUrl: true
+  title: 'What is stablecoin? Guide for crypto beginners. '
 layout: post
 ---
 ### What is stablecoin? Guide for crypto beginners. 
