@@ -61,7 +61,7 @@ Although many individuals and institutions see real estate as an attractive inve
 
 Making the real estate market accessible to a **wider investor base** requires improving efficiency in the initial investment process and the ongoing management and administration of property holdings. Issuing real estate tokens on a distributed ledger technology (DLT)-based platform and creating a marketplace for issuers (property owners), investors and other stakeholders may be the solution to taking the real estate market to the next level.
 
-
+###
 
 ### What are arguments for Real Estate tokenization?
 
