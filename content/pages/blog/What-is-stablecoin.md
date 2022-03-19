@@ -8,10 +8,7 @@ image: images/Untitled design (14)-6ca31fa6.png
 seo:
   description: >-
     A stablecoin is a class of cryptocurrencies that attempt to offer price
-    stability and are backed by a reserve asset. Stablecoins have gained
-    traction as they attempt to offer the best of both worlds—the instant
-    processing and security or privacy of payments of cryptocurrencies, and the
-    volatility-free stable valuations of fiat currencies.
+    stability and are backed by a reserve asset. 
   extra:
     - name: 'og:type'
       value: article
