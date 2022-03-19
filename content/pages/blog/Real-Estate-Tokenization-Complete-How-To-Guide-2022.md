@@ -137,7 +137,9 @@ Glossary: 
 
 **Gas and fees** - *Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. F.e. Creating a token, transferring a token between two users (seller and buyer) etc.*
 
-**Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. \*
+**Miner** - person who uses their time and computation power to process transactions and produce blocks. We have to pay (gas) them to run our code on the blockchain. 
+
+\---
 
 ### What is the token?
 
@@ -167,6 +169,8 @@ You can also find the name for our token as \*\*security token. \*\*
 
 To summarise once more: Tokens are **essentially digital, liquid contracts for fractions of any asset that already has value**, like real estate, a car, or corporate stock. Using security tokens means investors can expect that their ownership stake is preserved on the blockchain ledger.
 
+\---
+
 ### How to ship your own token?
 
 **Coin vs Token. What is the difference? Do we create a coin or a token?** Let’s explain. 
@@ -181,6 +185,8 @@ There are a couple of token standards (marked as ERC-20, ERC-721, ERC-777 and ER
 
 So, to tokenize your real estate we have to use Fungible Tokens (ERC20). What else do we need?
 
+\---
+
 ### What the heck is a smart contract? Do we need it? 
 
 A **smart contract** is a program (piece of code written by a blockchain developer) that runs in the blockchain network (in our case - Ethereum). Smart contracts will help make tokenization happen.
@@ -188,6 +194,8 @@ A **smart contract** is a program (piece of code written by a blockchain develop
 We have to create a couple of smart contracts. First smart contract will be responsible for token creation and initiation of a token IPO (Initial Public Offering).
 
 Token represents share in your property. Our token will work with wallets and crypto exchanges. You want to have the possibility to transfer and trade your tokens. 
+
+\---
 
 ### Token IPO 
 
@@ -205,7 +213,7 @@ An initial public offering (IPO) is a process in which your company sells crypto
 
 *   You have to **establish token price** (for example: 1 token = $1)
 
-\-
+
 
 ##### What else do we need for IPO?
 
@@ -213,7 +221,7 @@ An initial public offering (IPO) is a process in which your company sells crypto
 
 Using a multisig wallet is essential to make an IPO. We can use an open source wallet like [Gnosis](https://gnosis.io/). It will be your company crypto wallet. 
 
-\--
+\---
 
 #### Right to share in profit. How to make profit distribution to stakeholders?
 
@@ -223,7 +231,7 @@ We want to pay a dividend only for people who bought tokens and keep them for at
 
 All stakeholders will have an option to stake tokens. It means that they have to transfer tokens to a smart contract address (like sending to the wallet). When they get the right to get a dividend then they will have the option to withdraw tokens plus dividend. There will also be another option for investors, which is to keep tokens in staking and withdraw only dividends.
 
-\--
+\---
 
 #### **Tokenization platform - User Interface in Web application**
 
@@ -247,11 +255,13 @@ Some technicalities: App will be build in the testnet blockchain, deployed on th
 
 We assume that in the first iteration of the platform you can add only one property for tokenization (one token creation).
 
+\---
+
 #### Ok, let's talk about money. How much does tokenization costs?
 
 ![](/images/money.png)
 
-Client always ask:\*\* “How much does it cost?”\*\* And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Client always ask: “**How much does it cost?**” And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
 
 A company might choose to develop and release a minimum viable product because its product team wants to:
 
