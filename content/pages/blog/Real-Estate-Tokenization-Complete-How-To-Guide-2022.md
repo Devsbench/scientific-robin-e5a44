@@ -91,10 +91,13 @@ There are at least couple of reasons:
 
 *   **Automating Processes.** The use of DLT can remove time-consuming reconciliation processes between multiple parties by offering an immutable record of ownership.
 
-
-
+    \-----
 
 ![](/images/Screenshot%202022-01-10%20at%2016.07.01.png)
+
+\-----
+
+
 
 ### What is a token? And what is a tokenization?
 
