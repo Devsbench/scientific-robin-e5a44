@@ -1,6 +1,6 @@
 ---
 title: What the heck is stablecoin? Guide for crypto beginners.
-excerpt: "A stablecoin is a class of\_cryptocurrencies\_that attempt to offer price stability and are backed by\_a\_reserve asset. Stablecoins have gained traction as they attempt to offer the best of both worlds—the instant processing and security or privacy of payments of cryptocurrencies, and the\_volatility-free stable valuations of\_fiat currencies."
+excerpt: "A stablecoin is a class of\_cryptocurrencies\_that attempt to offer price stability and are backed by\_a\_reserve asset. Stablecoins have gained traction as they attempt to offer the best of both worlds - the instant processing and security or privacy of payments of cryptocurrencies, and the\_volatility-free stable valuations of\_fiat currencies."
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
