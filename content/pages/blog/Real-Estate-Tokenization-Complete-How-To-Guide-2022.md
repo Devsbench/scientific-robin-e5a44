@@ -255,13 +255,23 @@ We assume that in the first iteration of the platform you can add only one prope
 
 \---
 
-#### Ok, let's talk about money. 
+#### Ok, let's talk about money.
 
 ### How much does tokenization costs?
 
 ![](/images/money.png)
 
-Client always ask: “**How much does it cost?**” And the best answer is... “It depends”. Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Client always ask: “**How much does it cost?**” 
+
+And the best answer is... 
+
+
+
+**“It depends”**
+
+
+
+Because it really depends. You can think about building your tokenization like building a house. It depends how many bedrooms you want, how big the kitchen should be, if you want to have a garage ect. The same is with the software. To help clients build awesome apps software engineers invented the concept of **MVP (Minimal Viable Product)**. A MVP, is a product (app) with enough features to attract early-adopter customers and validate a product idea. It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
 
 A company might choose to develop and release a minimum viable product because its product team wants to:
 
