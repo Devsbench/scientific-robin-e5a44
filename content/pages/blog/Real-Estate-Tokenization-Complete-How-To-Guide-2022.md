@@ -61,8 +61,6 @@ Although many individuals and institutions see real estate as an attractive inve
 
 Making the real estate market accessible to a **wider investor base** requires improving efficiency in the initial investment process and the ongoing management and administration of property holdings. Issuing real estate tokens on a distributed ledger technology (DLT)-based platform and creating a marketplace for issuers (property owners), investors and other stakeholders may be the solution to taking the real estate market to the next level.
 
-
-
 ### What are arguments for Real Estate tokenization?
 
 There are at least couple of reasons:
@@ -89,7 +87,11 @@ There are at least couple of reasons:
 
 *   **Lower transaction costs.** Blockchain technology platform for exchanging tokens will have the potential to greatly lower transaction costs associated with real estate. Real estate investment funds often come with high minimum investments and upfront fees. Tokens allow investors to buy and sell real estate without incurring the traditional closing costs on real estate, which lead to significantly lower transaction costs.
 
+<!---->
+
 *   **Automating Processes.** The use of DLT can remove time-consuming reconciliation processes between multiple parties by offering an immutable record of ownership.
+
+
 
 ![](/images/Screenshot%202022-01-10%20at%2016.07.01.png)
 
